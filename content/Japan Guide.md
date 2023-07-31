@@ -63,6 +63,3 @@ Shakey's pizza - worst pizza in the world.
 ### Other
 
 Bikkuri Donki - Weird place, little pricier, but good food.
-
-
-
