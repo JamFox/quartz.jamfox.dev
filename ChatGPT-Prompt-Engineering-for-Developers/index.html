@@ -1,0 +1,1511 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=description content="DeepLearning.AI - ChatGPT Prompt Engineering for Developers
+Guidelines for Prompting Setup Load the API key and relevant Python libraries. 1 2 3 4 5 6 7  import openai import os from dotenv import load_dotenv, find_dotenv _ = load_dotenv(find_dotenv()) openai."><meta property="og:title" content><meta property="og:description" content="DeepLearning.AI - ChatGPT Prompt Engineering for Developers
+Guidelines for Prompting Setup Load the API key and relevant Python libraries. 1 2 3 4 5 6 7  import openai import os from dotenv import load_dotenv, find_dotenv _ = load_dotenv(find_dotenv()) openai."><meta property="og:type" content="website"><meta property="og:image" content="https://brain.jamfox.dev/icon.png"><meta property="og:url" content="https://brain.jamfox.dev/ChatGPT-Prompt-Engineering-for-Developers/"><meta property="og:width" content="200"><meta property="og:height" content="200"><meta name=twitter:card content="summary"><meta name=twitter:title content><meta name=twitter:description content="DeepLearning.AI - ChatGPT Prompt Engineering for Developers
+Guidelines for Prompting Setup Load the API key and relevant Python libraries. 1 2 3 4 5 6 7  import openai import os from dotenv import load_dotenv, find_dotenv _ = load_dotenv(find_dotenv()) openai."><meta name=twitter:image content="https://brain.jamfox.dev/icon.png"><title>🧠 JamBrain</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel=apple-touch-icon sizes=180x180 href=https://raw.githubusercontent.com/JamFox/wired.jamfox.dev/main/src/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=https://raw.githubusercontent.com/JamFox/wired.jamfox.dev/main/src/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=https://raw.githubusercontent.com/JamFox/wired.jamfox.dev/main/src/favicon-16x16.png><link href=https://brain.jamfox.dev/styles.19109a40042e9f0e72e952fda4442a34.min.css rel=stylesheet><link href=https://brain.jamfox.dev/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><script src=https://brain.jamfox.dev/js/darkmode.567e6760fcb0e243c92277d861bfcdb9.min.js></script>
+<script src=https://brain.jamfox.dev/js/util.00639692264b21bc3ee219733d38a8be.min.js></script>
+<link rel=preload href=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css as=style onload='this.onload=null,this.rel="stylesheet"' integrity=sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/contrib/copy-tex.min.js integrity=sha384-ww/583aHhxWkz5DEVn6OKtNiIaLi2iBRNZXfJRiY1Ai7tnJ9UXpEsyvOITVpTl4A crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/@floating-ui/core@1.2.1></script>
+<script src=https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.2.1></script>
+<script defer src=https://brain.jamfox.dev/js/popover.aa9bc99c7c38d3ae9538f218f1416adb.min.js></script>
+<script defer src=https://brain.jamfox.dev/js/code-title.ce4a43f09239a9efb48fee342e8ef2df.min.js></script>
+<script defer src=https://brain.jamfox.dev/js/clipboard.2913da76d3cb21c5deaa4bae7da38c9f.min.js></script>
+<script defer src=https://brain.jamfox.dev/js/callouts.7723cac461d613d118ee8bb8216b9838.min.js></script>
+<script>const SEARCH_ENABLED=!1,LATEX_ENABLED=!0,PRODUCTION=!0,BASE_URL="https://brain.jamfox.dev/",fetchData=Promise.all([fetch("https://brain.jamfox.dev/indices/linkIndex.ec563bcf03756962f2c85e57e778e405.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://brain.jamfox.dev/indices/contentIndex.1718f0179d3f4fa3ef74acf47eea2ebe.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts(),initPopover("https://brain.jamfox.dev",!0);const o=document.getElementById("footer");if(o){const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=s&&!0;drawGraph("https://brain.jamfox.dev",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:5,opacityScale:3,repelForce:.15,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.7,linkDistance:1,opacityScale:3,repelForce:1,scale:1.2})}var i=document.getElementsByClassName("mermaid");i.length>0&&import("https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs").then(e=>{e.default.init()});function a(n){const e=n.target,t=e.className.split(" "),s=t.includes("broken"),o=t.includes("internal-link");plausible("Link Click",{props:{href:e.href,broken:s,internal:o,graph:!1}})}const r=document.querySelectorAll("a");for(link of r)link.className.includes("root-title")&&link.addEventListener("click",a,{once:!0})},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],macros:{'’':"'"},throwOnError:!1})}</script><script type=module>
+    import { attachSPARouting } from "https:\/\/brain.jamfox.dev\/js\/router.d6fe6bd821db9ea97f9aeefae814d8e7.min.js"
+    attachSPARouting(init, render)
+  </script><script defer data-domain=brain.jamfox.dev src=https://plausible.io/js/script.js></script>
+<script>window.plausible=window.plausible||function(){(window.plausible.q=window.plausible.q||[]).push(arguments)}</script></head><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=Search placeholder="Search for something..."><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
+<script defer src=https://brain.jamfox.dev/js/full-text-search.e6e2e0c213187ca0c703d6e2c7a77fcd.min.js></script><div class=singlePage><header><h1 id=page-title><a class=root-title href=https://brain.jamfox.dev/>🧠 JamBrain</a></h1><div class=spacer></div><div id=search-icon><p>Search</p><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></div><div class=darkmode><input class=toggle id=darkmode-toggle type=checkbox tabindex=-1>
+<label id=toggle-label-light for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="dayIcon" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35"><title>Light Mode</title><path d="M6 17.5C6 16.672 5.328 16 4.5 16h-3C.672 16 0 16.672.0 17.5S.672 19 1.5 19h3C5.328 19 6 18.328 6 17.5zM7.5 26c-.414.0-.789.168-1.061.439l-2 2C4.168 28.711 4 29.086 4 29.5 4 30.328 4.671 31 5.5 31c.414.0.789-.168 1.06-.44l2-2C8.832 28.289 9 27.914 9 27.5 9 26.672 8.329 26 7.5 26zm10-20C18.329 6 19 5.328 19 4.5v-3C19 .672 18.329.0 17.5.0S16 .672 16 1.5v3C16 5.328 16.671 6 17.5 6zm10 3c.414.0.789-.168 1.06-.439l2-2C30.832 6.289 31 5.914 31 5.5 31 4.672 30.329 4 29.5 4c-.414.0-.789.168-1.061.44l-2 2C26.168 6.711 26 7.086 26 7.5 26 8.328 26.671 9 27.5 9zM6.439 8.561C6.711 8.832 7.086 9 7.5 9 8.328 9 9 8.328 9 7.5c0-.414-.168-.789-.439-1.061l-2-2C6.289 4.168 5.914 4 5.5 4 4.672 4 4 4.672 4 5.5c0 .414.168.789.439 1.06l2 2.001zM33.5 16h-3c-.828.0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5h3c.828.0 1.5-.672 1.5-1.5S34.328 16 33.5 16zM28.561 26.439C28.289 26.168 27.914 26 27.5 26c-.828.0-1.5.672-1.5 1.5.0.414.168.789.439 1.06l2 2C28.711 30.832 29.086 31 29.5 31c.828.0 1.5-.672 1.5-1.5.0-.414-.168-.789-.439-1.061l-2-2zM17.5 29c-.829.0-1.5.672-1.5 1.5v3c0 .828.671 1.5 1.5 1.5s1.5-.672 1.5-1.5v-3C19 29.672 18.329 29 17.5 29zm0-22C11.71 7 7 11.71 7 17.5S11.71 28 17.5 28 28 23.29 28 17.5 23.29 7 17.5 7zm0 18c-4.136.0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5S21.636 25 17.5 25z"/></svg></label><label id=toggle-label-dark for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="nightIcon" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'"><title>Dark Mode</title><path d="M96.76 66.458c-.853-.852-2.15-1.064-3.23-.534-6.063 2.991-12.858 4.571-19.655 4.571C62.022 70.495 50.88 65.88 42.5 57.5 29.043 44.043 25.658 23.536 34.076 6.47c.532-1.08.318-2.379-.534-3.23-.851-.852-2.15-1.064-3.23-.534-4.918 2.427-9.375 5.619-13.246 9.491-9.447 9.447-14.65 22.008-14.65 35.369.0 13.36 5.203 25.921 14.65 35.368s22.008 14.65 35.368 14.65c13.361.0 25.921-5.203 35.369-14.65 3.872-3.871 7.064-8.328 9.491-13.246C97.826 68.608 97.611 67.309 96.76 66.458z"/></svg></label></div></header><article><p class=meta>Last updated
+Unknown
+<a href=https://github.com/JamFox/quartz.jamfox.dev//ChatGPT%20Prompt%20Engineering%20for%20Developers.md rel=noopener>Edit Source</a></p><ul class=tags></ul><aside class=mainTOC><details><summary>Table of Contents</summary><nav id=TableOfContents><ol><li><a href=#guidelines-for-prompting>Guidelines for Prompting</a><ol><li><a href=#setup>Setup</a></li><li><a href=#prompting-principles>Prompting Principles</a></li><li><a href=#model-limitations-hallucinations>Model Limitations: Hallucinations</a></li></ol></li><li><a href=#summarizing>Summarizing</a><ol><li><a href=#text-to-summarize>Text to summarize</a></li><li><a href=#summarize-with-a-wordsentencecharacter-limit>Summarize with a word/sentence/character limit</a></li><li><a href=#summarize-with-a-focus-on-shipping-and-delivery>Summarize with a focus on shipping and delivery</a></li><li><a href=#summarize-with-a-focus-on-price-and-value>Summarize with a focus on price and value</a></li><li><a href=#try-extract-instead-of-summarize>Try &ldquo;extract&rdquo; instead of &ldquo;summarize&rdquo;</a></li></ol></li><li><a href=#inferring>Inferring</a><ol><li><a href=#product-review-text>Product review text</a></li><li><a href=#sentiment-positivenegative>Sentiment (positive/negative)</a></li><li><a href=#identify-types-of-emotions>Identify types of emotions</a></li><li><a href=#identify-anger>Identify anger</a></li><li><a href=#extract-product-and-company-name-from-customer-reviews>Extract product and company name from customer reviews</a></li><li><a href=#doing-multiple-tasks-at-once>Doing multiple tasks at once</a></li><li><a href=#inferring-topics>Inferring topics</a></li></ol></li><li><a href=#transforming>Transforming</a><ol><li><a href=#translation>Translation</a></li><li><a href=#tone-transformation>Tone Transformation</a></li><li><a href=#format-conversion>Format Conversion</a></li><li><a href=#spellcheckgrammar-check>Spellcheck/Grammar check</a></li></ol></li><li><a href=#expanding>Expanding</a><ol><li><a href=#customize-the-automated-reply-to-a-customer-email>Customize the automated reply to a customer email</a></li><li><a href=#remind-the-model-to-use-details-from-the-customers-email>Remind the model to use details from the customer&rsquo;s email</a></li></ol></li><li><a href=#the-chat-format>The Chat Format</a><ol><li><a href=#orderbot>OrderBot</a></li></ol></li></ol></nav></details></aside><p><a href=https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/ rel=noopener>DeepLearning.AI - ChatGPT Prompt Engineering for Developers</a></p><a href=#guidelines-for-prompting><h2 id=guidelines-for-prompting><span class=hanchor arialabel=Anchor># </span>Guidelines for Prompting</h2></a><a href=#setup><h3 id=setup><span class=hanchor arialabel=Anchor># </span>Setup</h3></a><a href=#load-the-api-key-and-relevant-python-libraries><h4 id=load-the-api-key-and-relevant-python-libraries><span class=hanchor arialabel=Anchor># </span>Load the API key and relevant Python libraries.</h4></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=kn>import</span> <span class=nn>openai</span>
+</span></span><span class=line><span class=cl><span class=kn>import</span> <span class=nn>os</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=kn>from</span> <span class=nn>dotenv</span> <span class=kn>import</span> <span class=n>load_dotenv</span><span class=p>,</span> <span class=n>find_dotenv</span>
+</span></span><span class=line><span class=cl><span class=n>_</span> <span class=o>=</span> <span class=n>load_dotenv</span><span class=p>(</span><span class=n>find_dotenv</span><span class=p>())</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>openai</span><span class=o>.</span><span class=n>api_key</span>  <span class=o>=</span> <span class=n>os</span><span class=o>.</span><span class=n>getenv</span><span class=p>(</span><span class=s1>&#39;OPENAI_API_KEY&#39;</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#notes-on-using-the-openai-api-outside-of-this-classroom><h5 id=notes-on-using-the-openai-api-outside-of-this-classroom><span class=hanchor arialabel=Anchor># </span>Notes on using the OpenAI API outside of this classroom</h5></a><p>To install the OpenAI Python library:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>!pip install openai
+</span></span></code></pre></td></tr></table></div></div><p>The library needs to be configured with your account&rsquo;s secret key, which is available on the
+<a href=https://platform.openai.com/account/api-keys rel=noopener>website</a>.</p><p>You can either set it as the <code>OPENAI_API_KEY</code> environment variable before using the library:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>!export OPENAI_API_KEY=&#39;sk-...&#39;
+</span></span></code></pre></td></tr></table></div></div><p>Or, set <code>openai.api_key</code> to its value:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>import openai
+</span></span><span class=line><span class=cl>openai.api_key = &#34;sk-...&#34;
+</span></span></code></pre></td></tr></table></div></div><a href=#a-note-about-the-backslash><h5 id=a-note-about-the-backslash><span class=hanchor arialabel=Anchor># </span>A note about the backslash</h5></a><ul><li>In the course, we are using a backslash <code>\</code> to make the text fit on the screen without inserting newline &lsquo;\n&rsquo; characters.</li><li>GPT-3 isn&rsquo;t really affected whether you insert newline characters or not. But when working with LLMs in general, you may consider whether newline characters in your prompt may affect the model&rsquo;s performance.</li></ul><a href=#helper-function><h4 id=helper-function><span class=hanchor arialabel=Anchor># </span>Helper function</h4></a><p>Throughout this course, we will use OpenAI&rsquo;s <code>gpt-3.5-turbo</code> model and the
+<a href=https://platform.openai.com/docs/guides/chat rel=noopener>chat completions endpoint</a>.</p><p>This helper function will make it easier to use prompts and look at the generated outputs:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span><span class=lnt>8
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=k>def</span> <span class=nf>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>,</span> <span class=n>model</span><span class=o>=</span><span class=s2>&#34;gpt-3.5-turbo&#34;</span><span class=p>):</span>
+</span></span><span class=line><span class=cl>    <span class=n>messages</span> <span class=o>=</span> <span class=p>[{</span><span class=s2>&#34;role&#34;</span><span class=p>:</span> <span class=s2>&#34;user&#34;</span><span class=p>,</span> <span class=s2>&#34;content&#34;</span><span class=p>:</span> <span class=n>prompt</span><span class=p>}]</span>
+</span></span><span class=line><span class=cl>    <span class=n>response</span> <span class=o>=</span> <span class=n>openai</span><span class=o>.</span><span class=n>ChatCompletion</span><span class=o>.</span><span class=n>create</span><span class=p>(</span>
+</span></span><span class=line><span class=cl>        <span class=n>model</span><span class=o>=</span><span class=n>model</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>        <span class=n>messages</span><span class=o>=</span><span class=n>messages</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>        <span class=n>temperature</span><span class=o>=</span><span class=mi>0</span><span class=p>,</span> <span class=c1># this is the degree of randomness of the model&#39;s output</span>
+</span></span><span class=line><span class=cl>    <span class=p>)</span>
+</span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=n>response</span><span class=o>.</span><span class=n>choices</span><span class=p>[</span><span class=mi>0</span><span class=p>]</span><span class=o>.</span><span class=n>message</span><span class=p>[</span><span class=s2>&#34;content&#34;</span><span class=p>]</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#prompting-principles><h3 id=prompting-principles><span class=hanchor arialabel=Anchor># </span>Prompting Principles</h3></a><ul><li><strong>Principle 1: Write clear and specific instructions</strong></li><li><strong>Principle 2: Give the model time to “think”</strong></li></ul><a href=#principle-1-write-clear-and-specific-instructions><h4 id=principle-1-write-clear-and-specific-instructions><span class=hanchor arialabel=Anchor># </span>Principle 1: Write clear and specific instructions</h4></a><a href=#tactic-1-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input><h5 id=tactic-1-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input><span class=hanchor arialabel=Anchor># </span>Tactic 1: Use delimiters to clearly indicate distinct parts of the input</h5></a><ul><li>Delimiters can be anything like: ```, &ldquo;&rdquo;", &lt; >, <code>&lt;tag> &lt;/tag></code>, <code>:</code></li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>text</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>You should express what you want a model to do by \ 
+</span></span></span><span class=line><span class=cl><span class=s2>providing instructions that are as clear and \ 
+</span></span></span><span class=line><span class=cl><span class=s2>specific as you can possibly make them. \ 
+</span></span></span><span class=line><span class=cl><span class=s2>This will guide the model towards the desired output, \ 
+</span></span></span><span class=line><span class=cl><span class=s2>and reduce the chances of receiving irrelevant \ 
+</span></span></span><span class=line><span class=cl><span class=s2>or incorrect responses. Don&#39;t confuse writing a \ 
+</span></span></span><span class=line><span class=cl><span class=s2>clear prompt with writing a short prompt. \ 
+</span></span></span><span class=line><span class=cl><span class=s2>In many cases, longer prompts provide more clarity \ 
+</span></span></span><span class=line><span class=cl><span class=s2>and context for the model, which can lead to \ 
+</span></span></span><span class=line><span class=cl><span class=s2>more detailed and relevant outputs.
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Summarize the text delimited by triple backticks \ 
+</span></span></span><span class=line><span class=cl><span class=s2>into a single sentence.
+</span></span></span><span class=line><span class=cl><span class=s2>```</span><span class=si>{</span><span class=n>text</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#tactic-2-ask-for-a-structured-output><h5 id=tactic-2-ask-for-a-structured-output><span class=hanchor arialabel=Anchor># </span>Tactic 2: Ask for a structured output</h5></a><ul><li>JSON, HTML</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span><span class=lnt>8
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Generate a list of three made-up book titles along \ 
+</span></span></span><span class=line><span class=cl><span class=s2>with their authors and genres. 
+</span></span></span><span class=line><span class=cl><span class=s2>Provide them in JSON format with the following keys: 
+</span></span></span><span class=line><span class=cl><span class=s2>book_id, title, author, genre.
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#tactic-3-ask-the-model-to-check-whether-conditions-are-satisfied><h5 id=tactic-3-ask-the-model-to-check-whether-conditions-are-satisfied><span class=hanchor arialabel=Anchor># </span>Tactic 3: Ask the model to check whether conditions are satisfied</h5></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>text_1</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Making a cup of tea is easy! First, you need to get some \ 
+</span></span></span><span class=line><span class=cl><span class=s2>water boiling. While that&#39;s happening, \ 
+</span></span></span><span class=line><span class=cl><span class=s2>grab a cup and put a tea bag in it. Once the water is \ 
+</span></span></span><span class=line><span class=cl><span class=s2>hot enough, just pour it over the tea bag. \ 
+</span></span></span><span class=line><span class=cl><span class=s2>Let it sit for a bit so the tea can steep. After a \ 
+</span></span></span><span class=line><span class=cl><span class=s2>few minutes, take out the tea bag. If you \ 
+</span></span></span><span class=line><span class=cl><span class=s2>like, you can add some sugar or milk to taste. \ 
+</span></span></span><span class=line><span class=cl><span class=s2>And that&#39;s it! You&#39;ve got yourself a delicious \ 
+</span></span></span><span class=line><span class=cl><span class=s2>cup of tea to enjoy.
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>You will be provided with text delimited by triple quotes. 
+</span></span></span><span class=line><span class=cl><span class=s2>If it contains a sequence of instructions, \ 
+</span></span></span><span class=line><span class=cl><span class=s2>re-write those instructions in the following format:
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Step 1 - ...
+</span></span></span><span class=line><span class=cl><span class=s2>Step 2 - …
+</span></span></span><span class=line><span class=cl><span class=s2>…
+</span></span></span><span class=line><span class=cl><span class=s2>Step N - …
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>If the text does not contain a sequence of instructions, \ 
+</span></span></span><span class=line><span class=cl><span class=s2>then simply write </span><span class=se>\&#34;</span><span class=s2>No steps provided.</span><span class=se>\&#34;</span><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2></span><span class=se>\&#34;\&#34;\&#34;</span><span class=si>{</span><span class=n>text_1</span><span class=si>}</span><span class=se>\&#34;\&#34;\&#34;</span><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=s2>&#34;Completion for Text 1:&#34;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>text_2</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>The sun is shining brightly today, and the birds are </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>singing. It&#39;s a beautiful day to go for a \ 
+</span></span></span><span class=line><span class=cl><span class=s2>walk in the park. The flowers are blooming, and the \ 
+</span></span></span><span class=line><span class=cl><span class=s2>trees are swaying gently in the breeze. People \ 
+</span></span></span><span class=line><span class=cl><span class=s2>are out and about, enjoying the lovely weather. \ 
+</span></span></span><span class=line><span class=cl><span class=s2>Some are having picnics, while others are playing \ 
+</span></span></span><span class=line><span class=cl><span class=s2>games or simply relaxing on the grass. It&#39;s a \ 
+</span></span></span><span class=line><span class=cl><span class=s2>perfect day to spend time outdoors and appreciate the \ 
+</span></span></span><span class=line><span class=cl><span class=s2>beauty of nature.
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>You will be provided with text delimited by triple quotes. 
+</span></span></span><span class=line><span class=cl><span class=s2>If it contains a sequence of instructions, \ 
+</span></span></span><span class=line><span class=cl><span class=s2>re-write those instructions in the following format:
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Step 1 - ...
+</span></span></span><span class=line><span class=cl><span class=s2>Step 2 - …
+</span></span></span><span class=line><span class=cl><span class=s2>…
+</span></span></span><span class=line><span class=cl><span class=s2>Step N - …
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>If the text does not contain a sequence of instructions, \ 
+</span></span></span><span class=line><span class=cl><span class=s2>then simply write </span><span class=se>\&#34;</span><span class=s2>No steps provided.</span><span class=se>\&#34;</span><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2></span><span class=se>\&#34;\&#34;\&#34;</span><span class=si>{</span><span class=n>text_2</span><span class=si>}</span><span class=se>\&#34;\&#34;\&#34;</span><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=s2>&#34;Completion for Text 2:&#34;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#tactic-4-few-shot-prompting><h5 id=tactic-4-few-shot-prompting><span class=hanchor arialabel=Anchor># </span>Tactic 4: &ldquo;Few-shot&rdquo; prompting</h5></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Your task is to answer in a consistent style.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>&lt;child&gt;: Teach me about patience.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>&lt;grandparent&gt;: The river that carves the deepest \ 
+</span></span></span><span class=line><span class=cl><span class=s2>valley flows from a modest spring; the \ 
+</span></span></span><span class=line><span class=cl><span class=s2>grandest symphony originates from a single note; \ 
+</span></span></span><span class=line><span class=cl><span class=s2>the most intricate tapestry begins with a solitary thread.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>&lt;child&gt;: Teach me about resilience.
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#principle-2-give-the-model-time-to-think><h4 id=principle-2-give-the-model-time-to-think><span class=hanchor arialabel=Anchor># </span>Principle 2: Give the model time to &ldquo;think&rdquo;</h4></a><a href=#tactic-1-specify-the-steps-required-to-complete-a-task><h5 id=tactic-1-specify-the-steps-required-to-complete-a-task><span class=hanchor arialabel=Anchor># </span>Tactic 1: Specify the steps required to complete a task</h5></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>text</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>In a charming village, siblings Jack and Jill set out on \ 
+</span></span></span><span class=line><span class=cl><span class=s2>a quest to fetch water from a hilltop \ 
+</span></span></span><span class=line><span class=cl><span class=s2>well. As they climbed, singing joyfully, misfortune \ 
+</span></span></span><span class=line><span class=cl><span class=s2>struck—Jack tripped on a stone and tumbled \ 
+</span></span></span><span class=line><span class=cl><span class=s2>down the hill, with Jill following suit. \ 
+</span></span></span><span class=line><span class=cl><span class=s2>Though slightly battered, the pair returned home to \ 
+</span></span></span><span class=line><span class=cl><span class=s2>comforting embraces. Despite the mishap, \ 
+</span></span></span><span class=line><span class=cl><span class=s2>their adventurous spirits remained undimmed, and they \ 
+</span></span></span><span class=line><span class=cl><span class=s2>continued exploring with delight.
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1># example 1</span>
+</span></span><span class=line><span class=cl><span class=n>prompt_1</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Perform the following actions: 
+</span></span></span><span class=line><span class=cl><span class=s2>1 - Summarize the following text delimited by triple </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>backticks with 1 sentence.
+</span></span></span><span class=line><span class=cl><span class=s2>2 - Translate the summary into French.
+</span></span></span><span class=line><span class=cl><span class=s2>3 - List each name in the French summary.
+</span></span></span><span class=line><span class=cl><span class=s2>4 - Output a json object that contains the following </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>keys: french_summary, num_names.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Separate your answers with line breaks.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Text:
+</span></span></span><span class=line><span class=cl><span class=s2>```</span><span class=si>{</span><span class=n>text</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt_1</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=s2>&#34;Completion for prompt 1:&#34;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><p>Ask for output in a specified format</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt_2</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Your task is to perform the following actions: 
+</span></span></span><span class=line><span class=cl><span class=s2>1 - Summarize the following text delimited by 
+</span></span></span><span class=line><span class=cl><span class=s2>  &lt;&gt; with 1 sentence.
+</span></span></span><span class=line><span class=cl><span class=s2>2 - Translate the summary into French.
+</span></span></span><span class=line><span class=cl><span class=s2>3 - List each name in the French summary.
+</span></span></span><span class=line><span class=cl><span class=s2>4 - Output a json object that contains the 
+</span></span></span><span class=line><span class=cl><span class=s2>  following keys: french_summary, num_names.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Use the following format:
+</span></span></span><span class=line><span class=cl><span class=s2>Text: &lt;text to summarize&gt;
+</span></span></span><span class=line><span class=cl><span class=s2>Summary: &lt;summary&gt;
+</span></span></span><span class=line><span class=cl><span class=s2>Translation: &lt;summary translation&gt;
+</span></span></span><span class=line><span class=cl><span class=s2>Names: &lt;list of names in Italian summary&gt;
+</span></span></span><span class=line><span class=cl><span class=s2>Output JSON: &lt;json with summary and num_names&gt;
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Text: &lt;</span><span class=si>{</span><span class=n>text</span><span class=si>}</span><span class=s2>&gt;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt_2</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=s2>&#34;</span><span class=se>\n</span><span class=s2>Completion for prompt 2:&#34;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#tactic-2-instruct-the-model-to-work-out-its-own-solution-before-rushing-to-a-conclusion><h5 id=tactic-2-instruct-the-model-to-work-out-its-own-solution-before-rushing-to-a-conclusion><span class=hanchor arialabel=Anchor># </span>Tactic 2: Instruct the model to work out its own solution before rushing to a conclusion</h5></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Determine if the student&#39;s solution is correct or not.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Question:
+</span></span></span><span class=line><span class=cl><span class=s2>I&#39;m building a solar power installation and I need </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2> help working out the financials. 
+</span></span></span><span class=line><span class=cl><span class=s2>- Land costs $100 / square foot
+</span></span></span><span class=line><span class=cl><span class=s2>- I can buy solar panels for $250 / square foot
+</span></span></span><span class=line><span class=cl><span class=s2>- I negotiated a contract for maintenance that will cost \ 
+</span></span></span><span class=line><span class=cl><span class=s2>me a flat $100k per year, and an additional $10 / square </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>foot
+</span></span></span><span class=line><span class=cl><span class=s2>What is the total cost for the first year of operations 
+</span></span></span><span class=line><span class=cl><span class=s2>as a function of the number of square feet.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Student&#39;s Solution:
+</span></span></span><span class=line><span class=cl><span class=s2>Let x be the size of the installation in square feet.
+</span></span></span><span class=line><span class=cl><span class=s2>Costs:
+</span></span></span><span class=line><span class=cl><span class=s2>1. Land cost: 100x
+</span></span></span><span class=line><span class=cl><span class=s2>2. Solar panel cost: 250x
+</span></span></span><span class=line><span class=cl><span class=s2>3. Maintenance cost: 100,000 + 100x
+</span></span></span><span class=line><span class=cl><span class=s2>Total cost: 100x + 250x + 100,000 + 100x = 450x + 100,000
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><p>Note that the student&rsquo;s solution is actually not correct.</p><p>We can fix this by instructing the model to work out its own solution first.</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span><span class=lnt>31
+</span><span class=lnt>32
+</span><span class=lnt>33
+</span><span class=lnt>34
+</span><span class=lnt>35
+</span><span class=lnt>36
+</span><span class=lnt>37
+</span><span class=lnt>38
+</span><span class=lnt>39
+</span><span class=lnt>40
+</span><span class=lnt>41
+</span><span class=lnt>42
+</span><span class=lnt>43
+</span><span class=lnt>44
+</span><span class=lnt>45
+</span><span class=lnt>46
+</span><span class=lnt>47
+</span><span class=lnt>48
+</span><span class=lnt>49
+</span><span class=lnt>50
+</span><span class=lnt>51
+</span><span class=lnt>52
+</span><span class=lnt>53
+</span><span class=lnt>54
+</span><span class=lnt>55
+</span><span class=lnt>56
+</span><span class=lnt>57
+</span><span class=lnt>58
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Your task is to determine if the student&#39;s solution </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>is correct or not.
+</span></span></span><span class=line><span class=cl><span class=s2>To solve the problem do the following:
+</span></span></span><span class=line><span class=cl><span class=s2>- First, work out your own solution to the problem. 
+</span></span></span><span class=line><span class=cl><span class=s2>- Then compare your solution to the student&#39;s solution \ 
+</span></span></span><span class=line><span class=cl><span class=s2>and evaluate if the student&#39;s solution is correct or not. 
+</span></span></span><span class=line><span class=cl><span class=s2>Don&#39;t decide if the student&#39;s solution is correct until 
+</span></span></span><span class=line><span class=cl><span class=s2>you have done the problem yourself.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Use the following format:
+</span></span></span><span class=line><span class=cl><span class=s2>Question:
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>question here
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>Student&#39;s solution:
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>student&#39;s solution here
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>Actual solution:
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>steps to work out the solution and your solution here
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>Is the student&#39;s solution the same as actual solution </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>just calculated:
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>yes or no
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>Student grade:
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>correct or incorrect
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Question:
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>I&#39;m building a solar power installation and I need help </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>working out the financials. 
+</span></span></span><span class=line><span class=cl><span class=s2>- Land costs $100 / square foot
+</span></span></span><span class=line><span class=cl><span class=s2>- I can buy solar panels for $250 / square foot
+</span></span></span><span class=line><span class=cl><span class=s2>- I negotiated a contract for maintenance that will cost </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>me a flat $100k per year, and an additional $10 / square </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>foot
+</span></span></span><span class=line><span class=cl><span class=s2>What is the total cost for the first year of operations </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>as a function of the number of square feet.
+</span></span></span><span class=line><span class=cl><span class=s2>``` 
+</span></span></span><span class=line><span class=cl><span class=s2>Student&#39;s solution:
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>Let x be the size of the installation in square feet.
+</span></span></span><span class=line><span class=cl><span class=s2>Costs:
+</span></span></span><span class=line><span class=cl><span class=s2>1. Land cost: 100x
+</span></span></span><span class=line><span class=cl><span class=s2>2. Solar panel cost: 250x
+</span></span></span><span class=line><span class=cl><span class=s2>3. Maintenance cost: 100,000 + 100x
+</span></span></span><span class=line><span class=cl><span class=s2>Total cost: 100x + 250x + 100,000 + 100x = 450x + 100,000
+</span></span></span><span class=line><span class=cl><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>Actual solution:
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#model-limitations-hallucinations><h3 id=model-limitations-hallucinations><span class=hanchor arialabel=Anchor># </span>Model Limitations: Hallucinations</h3></a><ul><li>Boie is a real company, the product name is not real.</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Tell me about AeroGlide UltraSlim Smart Toothbrush by Boie
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#summarizing><h2 id=summarizing><span class=hanchor arialabel=Anchor># </span>Summarizing</h2></a><a href=#text-to-summarize><h3 id=text-to-summarize><span class=hanchor arialabel=Anchor># </span>Text to summarize</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prod_review</span> <span class=o>=</span> <span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Got this panda plush toy for my daughter&#39;s birthday, </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>who loves it and takes it everywhere. It&#39;s soft and \ 
+</span></span></span><span class=line><span class=cl><span class=s2>super cute, and its face has a friendly look. It&#39;s \ 
+</span></span></span><span class=line><span class=cl><span class=s2>a bit small for what I paid though. I think there \ 
+</span></span></span><span class=line><span class=cl><span class=s2>might be other options that are bigger for the \ 
+</span></span></span><span class=line><span class=cl><span class=s2>same price. It arrived a day earlier than expected, \ 
+</span></span></span><span class=line><span class=cl><span class=s2>so I got to play with it myself before I gave it \ 
+</span></span></span><span class=line><span class=cl><span class=s2>to her.
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#summarize-with-a-wordsentencecharacter-limit><h3 id=summarize-with-a-wordsentencecharacter-limit><span class=hanchor arialabel=Anchor># </span>Summarize with a word/sentence/character limit</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Your task is to generate a short summary of a product </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>review from an ecommerce site. 
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Summarize the review below, delimited by triple 
+</span></span></span><span class=line><span class=cl><span class=s2>backticks, in at most 30 words. 
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Review: ```</span><span class=si>{</span><span class=n>prod_review</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#summarize-with-a-focus-on-shipping-and-delivery><h3 id=summarize-with-a-focus-on-shipping-and-delivery><span class=hanchor arialabel=Anchor># </span>Summarize with a focus on shipping and delivery</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Your task is to generate a short summary of a product </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>review from an ecommerce site to give feedback to the </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Shipping deparmtment. 
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Summarize the review below, delimited by triple 
+</span></span></span><span class=line><span class=cl><span class=s2>backticks, in at most 30 words, and focusing on any aspects </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>that mention shipping and delivery of the product. 
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Review: ```</span><span class=si>{</span><span class=n>prod_review</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#summarize-with-a-focus-on-price-and-value><h3 id=summarize-with-a-focus-on-price-and-value><span class=hanchor arialabel=Anchor># </span>Summarize with a focus on price and value</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Your task is to generate a short summary of a product </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>review from an ecommerce site to give feedback to the </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>pricing deparmtment, responsible for determining the </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>price of the product.  
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Summarize the review below, delimited by triple 
+</span></span></span><span class=line><span class=cl><span class=s2>backticks, in at most 30 words, and focusing on any aspects </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>that are relevant to the price and perceived value. 
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Review: ```</span><span class=si>{</span><span class=n>prod_review</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><p>Note: Summaries include topics that are not related to the topic of focus.</p><a href=#try-extract-instead-of-summarize><h3 id=try-extract-instead-of-summarize><span class=hanchor arialabel=Anchor># </span>Try &ldquo;extract&rdquo; instead of &ldquo;summarize&rdquo;</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Your task is to extract relevant information from \ 
+</span></span></span><span class=line><span class=cl><span class=s2>a product review from an ecommerce site to give </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>feedback to the Shipping department. 
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>From the review below, delimited by triple quotes </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>extract the information relevant to shipping and \ 
+</span></span></span><span class=line><span class=cl><span class=s2>delivery. Limit to 30 words. 
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Review: ```</span><span class=si>{</span><span class=n>prod_review</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#inferring><h2 id=inferring><span class=hanchor arialabel=Anchor># </span>Inferring</h2></a><a href=#product-review-text><h3 id=product-review-text><span class=hanchor arialabel=Anchor># </span>Product review text</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>lamp_review</span> <span class=o>=</span> <span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Needed a nice lamp for my bedroom, and this one had </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>additional storage and not too high of a price point. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Got it fast.  The string to our lamp broke during the </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>transit and the company happily sent over a new one. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Came within a few days as well. It was easy to put </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>together.  I had a missing part, so I contacted their </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>support and they very quickly got me the missing piece! </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Lumina seems to me to be a great company that cares </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>about their customers and products!!
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#sentiment-positivenegative><h3 id=sentiment-positivenegative><span class=hanchor arialabel=Anchor># </span>Sentiment (positive/negative)</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span><span class=lnt>8
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>What is the sentiment of the following product review, 
+</span></span></span><span class=line><span class=cl><span class=s2>which is delimited with triple backticks?
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Review text: &#39;&#39;&#39;</span><span class=si>{</span><span class=n>lamp_review</span><span class=si>}</span><span class=s2>&#39;&#39;&#39;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>What is the sentiment of the following product review, 
+</span></span></span><span class=line><span class=cl><span class=s2>which is delimited with triple backticks?
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Give your answer as a single word, either &#34;positive&#34; </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>or &#34;negative&#34;.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Review text: &#39;&#39;&#39;</span><span class=si>{</span><span class=n>lamp_review</span><span class=si>}</span><span class=s2>&#39;&#39;&#39;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#identify-types-of-emotions><h3 id=identify-types-of-emotions><span class=hanchor arialabel=Anchor># </span>Identify types of emotions</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Identify a list of emotions that the writer of the </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>following review is expressing. Include no more than </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>five items in the list. Format your answer as a list of </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>lower-case words separated by commas.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Review text: &#39;&#39;&#39;</span><span class=si>{</span><span class=n>lamp_review</span><span class=si>}</span><span class=s2>&#39;&#39;&#39;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#identify-anger><h3 id=identify-anger><span class=hanchor arialabel=Anchor># </span>Identify anger</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span><span class=lnt>8
+</span><span class=lnt>9
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Is the writer of the following review expressing anger?</span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>The review is delimited with triple backticks. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Give your answer as either yes or no.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Review text: &#39;&#39;&#39;</span><span class=si>{</span><span class=n>lamp_review</span><span class=si>}</span><span class=s2>&#39;&#39;&#39;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#extract-product-and-company-name-from-customer-reviews><h3 id=extract-product-and-company-name-from-customer-reviews><span class=hanchor arialabel=Anchor># </span>Extract product and company name from customer reviews</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Identify the following items from the review text: 
+</span></span></span><span class=line><span class=cl><span class=s2>- Item purchased by reviewer
+</span></span></span><span class=line><span class=cl><span class=s2>- Company that made the item
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>The review is delimited with triple backticks. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Format your response as a JSON object with </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>&#34;Item&#34; and &#34;Brand&#34; as the keys. 
+</span></span></span><span class=line><span class=cl><span class=s2>If the information isn&#39;t present, use &#34;unknown&#34; </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>as the value.
+</span></span></span><span class=line><span class=cl><span class=s2>Make your response as short as possible.
+</span></span></span><span class=line><span class=cl><span class=s2>  
+</span></span></span><span class=line><span class=cl><span class=s2>Review text: &#39;&#39;&#39;</span><span class=si>{</span><span class=n>lamp_review</span><span class=si>}</span><span class=s2>&#39;&#39;&#39;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#doing-multiple-tasks-at-once><h3 id=doing-multiple-tasks-at-once><span class=hanchor arialabel=Anchor># </span>Doing multiple tasks at once</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Identify the following items from the review text: 
+</span></span></span><span class=line><span class=cl><span class=s2>- Sentiment (positive or negative)
+</span></span></span><span class=line><span class=cl><span class=s2>- Is the reviewer expressing anger? (true or false)
+</span></span></span><span class=line><span class=cl><span class=s2>- Item purchased by reviewer
+</span></span></span><span class=line><span class=cl><span class=s2>- Company that made the item
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>The review is delimited with triple backticks. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Format your response as a JSON object with </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>&#34;Sentiment&#34;, &#34;Anger&#34;, &#34;Item&#34; and &#34;Brand&#34; as the keys.
+</span></span></span><span class=line><span class=cl><span class=s2>If the information isn&#39;t present, use &#34;unknown&#34; </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>as the value.
+</span></span></span><span class=line><span class=cl><span class=s2>Make your response as short as possible.
+</span></span></span><span class=line><span class=cl><span class=s2>Format the Anger value as a boolean.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Review text: &#39;&#39;&#39;</span><span class=si>{</span><span class=n>lamp_review</span><span class=si>}</span><span class=s2>&#39;&#39;&#39;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#inferring-topics><h3 id=inferring-topics><span class=hanchor arialabel=Anchor># </span>Inferring topics</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span><span class=lnt>31
+</span><span class=lnt>32
+</span><span class=lnt>33
+</span><span class=lnt>34
+</span><span class=lnt>35
+</span><span class=lnt>36
+</span><span class=lnt>37
+</span><span class=lnt>38
+</span><span class=lnt>39
+</span><span class=lnt>40
+</span><span class=lnt>41
+</span><span class=lnt>42
+</span><span class=lnt>43
+</span><span class=lnt>44
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>story</span> <span class=o>=</span> <span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>In a recent survey conducted by the government, 
+</span></span></span><span class=line><span class=cl><span class=s2>public sector employees were asked to rate their level 
+</span></span></span><span class=line><span class=cl><span class=s2>of satisfaction with the department they work at. 
+</span></span></span><span class=line><span class=cl><span class=s2>The results revealed that NASA was the most popular 
+</span></span></span><span class=line><span class=cl><span class=s2>department with a satisfaction rating of 95%.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>One NASA employee, John Smith, commented on the findings, 
+</span></span></span><span class=line><span class=cl><span class=s2>stating, &#34;I&#39;m not surprised that NASA came out on top. 
+</span></span></span><span class=line><span class=cl><span class=s2>It&#39;s a great place to work with amazing people and 
+</span></span></span><span class=line><span class=cl><span class=s2>incredible opportunities. I&#39;m proud to be a part of 
+</span></span></span><span class=line><span class=cl><span class=s2>such an innovative organization.&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>The results were also welcomed by NASA&#39;s management team, 
+</span></span></span><span class=line><span class=cl><span class=s2>with Director Tom Johnson stating, &#34;We are thrilled to 
+</span></span></span><span class=line><span class=cl><span class=s2>hear that our employees are satisfied with their work at NASA. 
+</span></span></span><span class=line><span class=cl><span class=s2>We have a talented and dedicated team who work tirelessly 
+</span></span></span><span class=line><span class=cl><span class=s2>to achieve our goals, and it&#39;s fantastic to see that their 
+</span></span></span><span class=line><span class=cl><span class=s2>hard work is paying off.&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>The survey also revealed that the 
+</span></span></span><span class=line><span class=cl><span class=s2>Social Security Administration had the lowest satisfaction 
+</span></span></span><span class=line><span class=cl><span class=s2>rating, with only 45</span><span class=si>% o</span><span class=s2>f employees indicating they were 
+</span></span></span><span class=line><span class=cl><span class=s2>satisfied with their job. The government has pledged to 
+</span></span></span><span class=line><span class=cl><span class=s2>address the concerns raised by employees in the survey and 
+</span></span></span><span class=line><span class=cl><span class=s2>work towards improving job satisfaction across all departments.
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Determine five topics that are being discussed in the </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>following text, which is delimited by triple backticks.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Make each item one or two words long. 
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Format your response as a list of items separated by commas.
+</span></span></span><span class=line><span class=cl><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>Text sample: &#39;&#39;&#39;</span><span class=si>{</span><span class=n>story</span><span class=si>}</span><span class=s2>&#39;&#39;&#39;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=n>response</span><span class=o>.</span><span class=n>split</span><span class=p>(</span><span class=n>sep</span><span class=o>=</span><span class=s1>&#39;,&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=n>topic_list</span> <span class=o>=</span> <span class=p>[</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;nasa&#34;</span><span class=p>,</span> <span class=s2>&#34;local government&#34;</span><span class=p>,</span> <span class=s2>&#34;engineering&#34;</span><span class=p>,</span> 
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;employee satisfaction&#34;</span><span class=p>,</span> <span class=s2>&#34;federal government&#34;</span>
+</span></span><span class=line><span class=cl><span class=p>]</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#transforming><h2 id=transforming><span class=hanchor arialabel=Anchor># </span>Transforming</h2></a><a href=#translation><h3 id=translation><span class=hanchor arialabel=Anchor># </span>Translation</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Translate the following English text to Spanish: \ 
+</span></span></span><span class=line><span class=cl><span class=s2>```Hi, I would like to order a blender```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Tell me which language this is: 
+</span></span></span><span class=line><span class=cl><span class=s2>```Combien coûte le lampadaire?```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Translate the following  text to French and Spanish
+</span></span></span><span class=line><span class=cl><span class=s2>and English pirate: </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>```I want to order a basketball```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Translate the following text to Spanish in both the </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>formal and informal forms: 
+</span></span></span><span class=line><span class=cl><span class=s2>&#39;Would you like to order a pillow?&#39;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#universal-translator><h4 id=universal-translator><span class=hanchor arialabel=Anchor># </span>Universal Translator</h4></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>user_messages</span> <span class=o>=</span> <span class=p>[</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;La performance du système est plus lente que d&#39;habitude.&#34;</span><span class=p>,</span>  <span class=c1># System performance is slower than normal         </span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;Mi monitor tiene píxeles que no se iluminan.&#34;</span><span class=p>,</span>              <span class=c1># My monitor has pixels that are not lighting</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;Il mio mouse non funziona&#34;</span><span class=p>,</span>                                 <span class=c1># My mouse is not working</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;Mój klawisz Ctrl jest zepsuty&#34;</span><span class=p>,</span>                             <span class=c1># My keyboard has a broken control key</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;我的屏幕在闪烁&#34;</span>                                               <span class=c1># My screen is flashing</span>
+</span></span><span class=line><span class=cl><span class=p>]</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=k>for</span> <span class=n>issue</span> <span class=ow>in</span> <span class=n>user_messages</span><span class=p>:</span>
+</span></span><span class=line><span class=cl>    <span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;Tell me what language this is: ```</span><span class=si>{</span><span class=n>issue</span><span class=si>}</span><span class=s2>```&#34;</span>
+</span></span><span class=line><span class=cl>    <span class=n>lang</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>    <span class=nb>print</span><span class=p>(</span><span class=sa>f</span><span class=s2>&#34;Original message (</span><span class=si>{</span><span class=n>lang</span><span class=si>}</span><span class=s2>): </span><span class=si>{</span><span class=n>issue</span><span class=si>}</span><span class=s2>&#34;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    <span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>    Translate the following  text to English </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>    and Korean: ```</span><span class=si>{</span><span class=n>issue</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>    &#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>    <span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>    <span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>,</span> <span class=s2>&#34;</span><span class=se>\n</span><span class=s2>&#34;</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#tone-transformation><h3 id=tone-transformation><span class=hanchor arialabel=Anchor># </span>Tone Transformation</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Translate the following from slang to a business letter: 
+</span></span></span><span class=line><span class=cl><span class=s2>&#39;Dude, This is Joe, check out this spec on this standing lamp.&#39;
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#format-conversion><h3 id=format-conversion><span class=hanchor arialabel=Anchor># </span>Format Conversion</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>data_json</span> <span class=o>=</span> <span class=p>{</span> <span class=s2>&#34;resturant employees&#34;</span> <span class=p>:[</span> 
+</span></span><span class=line><span class=cl>    <span class=p>{</span><span class=s2>&#34;name&#34;</span><span class=p>:</span><span class=s2>&#34;Shyam&#34;</span><span class=p>,</span> <span class=s2>&#34;email&#34;</span><span class=p>:</span><span class=s2>&#34;shyamjaiswal@gmail.com&#34;</span><span class=p>},</span>
+</span></span><span class=line><span class=cl>    <span class=p>{</span><span class=s2>&#34;name&#34;</span><span class=p>:</span><span class=s2>&#34;Bob&#34;</span><span class=p>,</span> <span class=s2>&#34;email&#34;</span><span class=p>:</span><span class=s2>&#34;bob32@gmail.com&#34;</span><span class=p>},</span>
+</span></span><span class=line><span class=cl>    <span class=p>{</span><span class=s2>&#34;name&#34;</span><span class=p>:</span><span class=s2>&#34;Jai&#34;</span><span class=p>,</span> <span class=s2>&#34;email&#34;</span><span class=p>:</span><span class=s2>&#34;jai87@gmail.com&#34;</span><span class=p>}</span>
+</span></span><span class=line><span class=cl><span class=p>]}</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>Translate the following python dictionary from JSON to an HTML </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>table with column headers and title: </span><span class=si>{</span><span class=n>data_json</span><span class=si>}</span><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=kn>from</span> <span class=nn>IPython.display</span> <span class=kn>import</span> <span class=n>display</span><span class=p>,</span> <span class=n>Markdown</span><span class=p>,</span> <span class=n>Latex</span><span class=p>,</span> <span class=n>HTML</span><span class=p>,</span> <span class=n>JSON</span>
+</span></span><span class=line><span class=cl><span class=n>display</span><span class=p>(</span><span class=n>HTML</span><span class=p>(</span><span class=n>response</span><span class=p>))</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#spellcheckgrammar-check><h3 id=spellcheckgrammar-check><span class=hanchor arialabel=Anchor># </span>Spellcheck/Grammar check</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>text</span> <span class=o>=</span> <span class=p>[</span> 
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;The girl with the black and white puppies have a ball.&#34;</span><span class=p>,</span>  <span class=c1># The girl has a ball.</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;Yolanda has her notebook.&#34;</span><span class=p>,</span> <span class=c1># ok</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;Its going to be a long day. Does the car need it’s oil changed?&#34;</span><span class=p>,</span>  <span class=c1># Homonyms</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;Their goes my freedom. There going to bring they’re suitcases.&#34;</span><span class=p>,</span>  <span class=c1># Homonyms</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;Your going to need you’re notebook.&#34;</span><span class=p>,</span>  <span class=c1># Homonyms</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;That medicine effects my ability to sleep. Have you heard of the butterfly affect?&#34;</span><span class=p>,</span> <span class=c1># Homonyms</span>
+</span></span><span class=line><span class=cl>  <span class=s2>&#34;This phrase is to cherck chatGPT for speling abilitty&#34;</span>  <span class=c1># spelling</span>
+</span></span><span class=line><span class=cl><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=k>for</span> <span class=n>t</span> <span class=ow>in</span> <span class=n>text</span><span class=p>:</span>
+</span></span><span class=line><span class=cl>    <span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;Proofread and correct the following text
+</span></span></span><span class=line><span class=cl><span class=s2>    and rewrite the corrected version. If you don&#39;t find
+</span></span></span><span class=line><span class=cl><span class=s2>    and errors, just say &#34;No errors found&#34;. Don&#39;t use 
+</span></span></span><span class=line><span class=cl><span class=s2>    any punctuation around the text:
+</span></span></span><span class=line><span class=cl><span class=s2>    ```</span><span class=si>{</span><span class=n>t</span><span class=si>}</span><span class=s2>```&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>    <span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>    <span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=kn>from</span> <span class=nn>redlines</span> <span class=kn>import</span> <span class=n>Redlines</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>diff</span> <span class=o>=</span> <span class=n>Redlines</span><span class=p>(</span><span class=n>text</span><span class=p>,</span><span class=n>response</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=n>display</span><span class=p>(</span><span class=n>Markdown</span><span class=p>(</span><span class=n>diff</span><span class=o>.</span><span class=n>output_markdown</span><span class=p>))</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>proofread and correct this review. Make it more compelling. 
+</span></span></span><span class=line><span class=cl><span class=s2>Ensure it follows APA style guide and targets an advanced reader. 
+</span></span></span><span class=line><span class=cl><span class=s2>Output in markdown format.
+</span></span></span><span class=line><span class=cl><span class=s2>Text: ```</span><span class=si>{</span><span class=n>text</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=n>display</span><span class=p>(</span><span class=n>Markdown</span><span class=p>(</span><span class=n>response</span><span class=p>))</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#expanding><h2 id=expanding><span class=hanchor arialabel=Anchor># </span>Expanding</h2></a><a href=#customize-the-automated-reply-to-a-customer-email><h3 id=customize-the-automated-reply-to-a-customer-email><span class=hanchor arialabel=Anchor># </span>Customize the automated reply to a customer email</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span><span class=lnt>31
+</span><span class=lnt>32
+</span><span class=lnt>33
+</span><span class=lnt>34
+</span><span class=lnt>35
+</span><span class=lnt>36
+</span><span class=lnt>37
+</span><span class=lnt>38
+</span><span class=lnt>39
+</span><span class=lnt>40
+</span><span class=lnt>41
+</span><span class=lnt>42
+</span><span class=lnt>43
+</span><span class=lnt>44
+</span><span class=lnt>45
+</span><span class=lnt>46
+</span><span class=lnt>47
+</span><span class=lnt>48
+</span><span class=lnt>49
+</span><span class=lnt>50
+</span><span class=lnt>51
+</span><span class=lnt>52
+</span><span class=lnt>53
+</span><span class=lnt>54
+</span><span class=lnt>55
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=c1># given the sentiment from the lesson on &#34;inferring&#34;,</span>
+</span></span><span class=line><span class=cl><span class=c1># and the original customer message, customize the email</span>
+</span></span><span class=line><span class=cl><span class=n>sentiment</span> <span class=o>=</span> <span class=s2>&#34;negative&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># review for a blender</span>
+</span></span><span class=line><span class=cl><span class=n>review</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>So, they still had the 17 piece system on seasonal </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>sale for around $49 in the month of November, about </span><span class=se>\\ </span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>half off, but for some reason (call it price gouging) </span><span class=se>\\ </span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>around the second week of December the prices all went </span><span class=se>\\ </span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>up to about anywhere from between $70-$89 for the same </span><span class=se>\\ </span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>system. And the 11 piece system went up around $10 or </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>so in price also from the earlier sale price of $29. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>So it looks okay, but if you look at the base, the part </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>where the blade locks into place doesn’t look as good </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>as in previous editions from a few years ago, but I </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>plan to be very gentle with it (example, I crush </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>very hard items like beans, ice, rice, etc. in the \ 
+</span></span></span><span class=line><span class=cl><span class=s2>blender first then pulverize them in the serving size </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>I want in the blender then switch to the whipping </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>blade for a finer flour, and use the cross cutting blade </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>first when making smoothies, then use the flat blade </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>if I need them finer/less pulpy). Special tip when making </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>smoothies, finely cut and freeze the fruits and </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>vegetables (if using spinach-lightly stew soften the \ 
+</span></span></span><span class=line><span class=cl><span class=s2>spinach then freeze until ready for use-and if making </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>sorbet, use a small to medium sized food processor) \ 
+</span></span></span><span class=line><span class=cl><span class=s2>that you plan to use that way you can avoid adding so </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>much ice if at all-when making your smoothie. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>After about a year, the motor was making a funny noise. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>I called customer service but the warranty expired </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>already, so I had to buy another one. FYI: The overall </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>quality has gone done in these types of products, so </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>they are kind of counting on brand recognition and </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>consumer loyalty to maintain sales. Got it in about </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>two days.
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>You are a customer service AI assistant.
+</span></span></span><span class=line><span class=cl><span class=s2>Your task is to send an email reply to a valued customer.
+</span></span></span><span class=line><span class=cl><span class=s2>Given the customer email delimited by ```, </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Generate a reply to thank the customer for their review.
+</span></span></span><span class=line><span class=cl><span class=s2>If the sentiment is positive or neutral, thank them for </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>their review.
+</span></span></span><span class=line><span class=cl><span class=s2>If the sentiment is negative, apologize and suggest that </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>they can reach out to customer service. 
+</span></span></span><span class=line><span class=cl><span class=s2>Make sure to use specific details from the review.
+</span></span></span><span class=line><span class=cl><span class=s2>Write in a concise and professional tone.
+</span></span></span><span class=line><span class=cl><span class=s2>Sign the email as `AI customer agent`.
+</span></span></span><span class=line><span class=cl><span class=s2>Customer review: ```</span><span class=si>{</span><span class=n>review</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>Review sentiment: </span><span class=si>{</span><span class=n>sentiment</span><span class=si>}</span><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#remind-the-model-to-use-details-from-the-customers-email><h3 id=remind-the-model-to-use-details-from-the-customers-email><span class=hanchor arialabel=Anchor># </span>Remind the model to use details from the customer&rsquo;s email</h3></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>prompt</span> <span class=o>=</span> <span class=sa>f</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>You are a customer service AI assistant.
+</span></span></span><span class=line><span class=cl><span class=s2>Your task is to send an email reply to a valued customer.
+</span></span></span><span class=line><span class=cl><span class=s2>Given the customer email delimited by ```, </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Generate a reply to thank the customer for their review.
+</span></span></span><span class=line><span class=cl><span class=s2>If the sentiment is positive or neutral, thank them for </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>their review.
+</span></span></span><span class=line><span class=cl><span class=s2>If the sentiment is negative, apologize and suggest that </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>they can reach out to customer service. 
+</span></span></span><span class=line><span class=cl><span class=s2>Make sure to use specific details from the review.
+</span></span></span><span class=line><span class=cl><span class=s2>Write in a concise and professional tone.
+</span></span></span><span class=line><span class=cl><span class=s2>Sign the email as `AI customer agent`.
+</span></span></span><span class=line><span class=cl><span class=s2>Customer review: ```</span><span class=si>{</span><span class=n>review</span><span class=si>}</span><span class=s2>```
+</span></span></span><span class=line><span class=cl><span class=s2>Review sentiment: </span><span class=si>{</span><span class=n>sentiment</span><span class=si>}</span><span class=s2>
+</span></span></span><span class=line><span class=cl><span class=s2>&#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>,</span> <span class=n>temperature</span><span class=o>=</span><span class=mf>0.7</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#the-chat-format><h2 id=the-chat-format><span class=hanchor arialabel=Anchor># </span>The Chat Format</h2></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span><span class=lnt>31
+</span><span class=lnt>32
+</span><span class=lnt>33
+</span><span class=lnt>34
+</span><span class=lnt>35
+</span><span class=lnt>36
+</span><span class=lnt>37
+</span><span class=lnt>38
+</span><span class=lnt>39
+</span><span class=lnt>40
+</span><span class=lnt>41
+</span><span class=lnt>42
+</span><span class=lnt>43
+</span><span class=lnt>44
+</span><span class=lnt>45
+</span><span class=lnt>46
+</span><span class=lnt>47
+</span><span class=lnt>48
+</span><span class=lnt>49
+</span><span class=lnt>50
+</span><span class=lnt>51
+</span><span class=lnt>52
+</span><span class=lnt>53
+</span><span class=lnt>54
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=kn>import</span> <span class=nn>os</span>
+</span></span><span class=line><span class=cl><span class=kn>import</span> <span class=nn>openai</span>
+</span></span><span class=line><span class=cl><span class=kn>from</span> <span class=nn>dotenv</span> <span class=kn>import</span> <span class=n>load_dotenv</span><span class=p>,</span> <span class=n>find_dotenv</span>
+</span></span><span class=line><span class=cl><span class=n>_</span> <span class=o>=</span> <span class=n>load_dotenv</span><span class=p>(</span><span class=n>find_dotenv</span><span class=p>())</span> <span class=c1># read local .env file</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>openai</span><span class=o>.</span><span class=n>api_key</span>  <span class=o>=</span> <span class=n>os</span><span class=o>.</span><span class=n>getenv</span><span class=p>(</span><span class=s1>&#39;OPENAI_API_KEY&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=k>def</span> <span class=nf>get_completion</span><span class=p>(</span><span class=n>prompt</span><span class=p>,</span> <span class=n>model</span><span class=o>=</span><span class=s2>&#34;gpt-3.5-turbo&#34;</span><span class=p>):</span>
+</span></span><span class=line><span class=cl>    <span class=n>messages</span> <span class=o>=</span> <span class=p>[{</span><span class=s2>&#34;role&#34;</span><span class=p>:</span> <span class=s2>&#34;user&#34;</span><span class=p>,</span> <span class=s2>&#34;content&#34;</span><span class=p>:</span> <span class=n>prompt</span><span class=p>}]</span>
+</span></span><span class=line><span class=cl>    <span class=n>response</span> <span class=o>=</span> <span class=n>openai</span><span class=o>.</span><span class=n>ChatCompletion</span><span class=o>.</span><span class=n>create</span><span class=p>(</span>
+</span></span><span class=line><span class=cl>        <span class=n>model</span><span class=o>=</span><span class=n>model</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>        <span class=n>messages</span><span class=o>=</span><span class=n>messages</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>        <span class=n>temperature</span><span class=o>=</span><span class=mi>0</span><span class=p>,</span> <span class=c1># this is the degree of randomness of the model&#39;s output</span>
+</span></span><span class=line><span class=cl>    <span class=p>)</span>
+</span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=n>response</span><span class=o>.</span><span class=n>choices</span><span class=p>[</span><span class=mi>0</span><span class=p>]</span><span class=o>.</span><span class=n>message</span><span class=p>[</span><span class=s2>&#34;content&#34;</span><span class=p>]</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=k>def</span> <span class=nf>get_completion_from_messages</span><span class=p>(</span><span class=n>messages</span><span class=p>,</span> <span class=n>model</span><span class=o>=</span><span class=s2>&#34;gpt-3.5-turbo&#34;</span><span class=p>,</span> <span class=n>temperature</span><span class=o>=</span><span class=mi>0</span><span class=p>):</span>
+</span></span><span class=line><span class=cl>    <span class=n>response</span> <span class=o>=</span> <span class=n>openai</span><span class=o>.</span><span class=n>ChatCompletion</span><span class=o>.</span><span class=n>create</span><span class=p>(</span>
+</span></span><span class=line><span class=cl>        <span class=n>model</span><span class=o>=</span><span class=n>model</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>        <span class=n>messages</span><span class=o>=</span><span class=n>messages</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>        <span class=n>temperature</span><span class=o>=</span><span class=n>temperature</span><span class=p>,</span> <span class=c1># this is the degree of randomness of the model&#39;s output</span>
+</span></span><span class=line><span class=cl>    <span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=c1>#     print(str(response.choices[0].message))</span>
+</span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=n>response</span><span class=o>.</span><span class=n>choices</span><span class=p>[</span><span class=mi>0</span><span class=p>]</span><span class=o>.</span><span class=n>message</span><span class=p>[</span><span class=s2>&#34;content&#34;</span><span class=p>]</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>messages</span> <span class=o>=</span>  <span class=p>[</span>  
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;system&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;You are an assistant that speaks like Shakespeare.&#39;</span><span class=p>},</span>    
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;user&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;tell me a joke&#39;</span><span class=p>},</span>   
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;assistant&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;Why did the chicken cross the road&#39;</span><span class=p>},</span>   
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;user&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;I don</span><span class=se>\&#39;</span><span class=s1>t know&#39;</span><span class=p>}</span>  <span class=p>]</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion_from_messages</span><span class=p>(</span><span class=n>messages</span><span class=p>,</span> <span class=n>temperature</span><span class=o>=</span><span class=mi>1</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>messages</span> <span class=o>=</span>  <span class=p>[</span>  
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;system&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;You are friendly chatbot.&#39;</span><span class=p>},</span>    
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;user&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;Hi, my name is Isa&#39;</span><span class=p>}</span>  <span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion_from_messages</span><span class=p>(</span><span class=n>messages</span><span class=p>,</span> <span class=n>temperature</span><span class=o>=</span><span class=mi>1</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>messages</span> <span class=o>=</span>  <span class=p>[</span>  
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;system&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;You are friendly chatbot.&#39;</span><span class=p>},</span>    
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;user&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;Yes,  can you remind me, What is my name?&#39;</span><span class=p>}</span>  <span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion_from_messages</span><span class=p>(</span><span class=n>messages</span><span class=p>,</span> <span class=n>temperature</span><span class=o>=</span><span class=mi>1</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>messages</span> <span class=o>=</span>  <span class=p>[</span>  
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;system&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;You are friendly chatbot.&#39;</span><span class=p>},</span>
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;user&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;Hi, my name is Isa&#39;</span><span class=p>},</span>
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;assistant&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span> <span class=s2>&#34;Hi Isa! It&#39;s nice to meet you. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Is there anything I can help you with today?&#34;</span><span class=p>},</span>
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;user&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;Yes, you can remind me, What is my name?&#39;</span><span class=p>}</span>  <span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion_from_messages</span><span class=p>(</span><span class=n>messages</span><span class=p>,</span> <span class=n>temperature</span><span class=o>=</span><span class=mi>1</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#orderbot><h3 id=orderbot><span class=hanchor arialabel=Anchor># </span>OrderBot</h3></a><p>We can automate the collection of user prompts and assistant responses to build a OrderBot. The OrderBot will take orders at a pizza restaurant.</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span><span class=lnt>31
+</span><span class=lnt>32
+</span><span class=lnt>33
+</span><span class=lnt>34
+</span><span class=lnt>35
+</span><span class=lnt>36
+</span><span class=lnt>37
+</span><span class=lnt>38
+</span><span class=lnt>39
+</span><span class=lnt>40
+</span><span class=lnt>41
+</span><span class=lnt>42
+</span><span class=lnt>43
+</span><span class=lnt>44
+</span><span class=lnt>45
+</span><span class=lnt>46
+</span><span class=lnt>47
+</span><span class=lnt>48
+</span><span class=lnt>49
+</span><span class=lnt>50
+</span><span class=lnt>51
+</span><span class=lnt>52
+</span><span class=lnt>53
+</span><span class=lnt>54
+</span><span class=lnt>55
+</span><span class=lnt>56
+</span><span class=lnt>57
+</span><span class=lnt>58
+</span><span class=lnt>59
+</span><span class=lnt>60
+</span><span class=lnt>61
+</span><span class=lnt>62
+</span><span class=lnt>63
+</span><span class=lnt>64
+</span><span class=lnt>65
+</span><span class=lnt>66
+</span><span class=lnt>67
+</span><span class=lnt>68
+</span><span class=lnt>69
+</span><span class=lnt>70
+</span><span class=lnt>71
+</span><span class=lnt>72
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=k>def</span> <span class=nf>collect_messages</span><span class=p>(</span><span class=n>_</span><span class=p>):</span>
+</span></span><span class=line><span class=cl>    <span class=n>prompt</span> <span class=o>=</span> <span class=n>inp</span><span class=o>.</span><span class=n>value_input</span>
+</span></span><span class=line><span class=cl>    <span class=n>inp</span><span class=o>.</span><span class=n>value</span> <span class=o>=</span> <span class=s1>&#39;&#39;</span>
+</span></span><span class=line><span class=cl>    <span class=n>context</span><span class=o>.</span><span class=n>append</span><span class=p>({</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;user&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=sa>f</span><span class=s2>&#34;</span><span class=si>{</span><span class=n>prompt</span><span class=si>}</span><span class=s2>&#34;</span><span class=p>})</span>
+</span></span><span class=line><span class=cl>    <span class=n>response</span> <span class=o>=</span> <span class=n>get_completion_from_messages</span><span class=p>(</span><span class=n>context</span><span class=p>)</span> 
+</span></span><span class=line><span class=cl>    <span class=n>context</span><span class=o>.</span><span class=n>append</span><span class=p>({</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;assistant&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=sa>f</span><span class=s2>&#34;</span><span class=si>{</span><span class=n>response</span><span class=si>}</span><span class=s2>&#34;</span><span class=p>})</span>
+</span></span><span class=line><span class=cl>    <span class=n>panels</span><span class=o>.</span><span class=n>append</span><span class=p>(</span>
+</span></span><span class=line><span class=cl>        <span class=n>pn</span><span class=o>.</span><span class=n>Row</span><span class=p>(</span><span class=s1>&#39;User:&#39;</span><span class=p>,</span> <span class=n>pn</span><span class=o>.</span><span class=n>pane</span><span class=o>.</span><span class=n>Markdown</span><span class=p>(</span><span class=n>prompt</span><span class=p>,</span> <span class=n>width</span><span class=o>=</span><span class=mi>600</span><span class=p>)))</span>
+</span></span><span class=line><span class=cl>    <span class=n>panels</span><span class=o>.</span><span class=n>append</span><span class=p>(</span>
+</span></span><span class=line><span class=cl>        <span class=n>pn</span><span class=o>.</span><span class=n>Row</span><span class=p>(</span><span class=s1>&#39;Assistant:&#39;</span><span class=p>,</span> <span class=n>pn</span><span class=o>.</span><span class=n>pane</span><span class=o>.</span><span class=n>Markdown</span><span class=p>(</span><span class=n>response</span><span class=p>,</span> <span class=n>width</span><span class=o>=</span><span class=mi>600</span><span class=p>,</span> <span class=n>style</span><span class=o>=</span><span class=p>{</span><span class=s1>&#39;background-color&#39;</span><span class=p>:</span> <span class=s1>&#39;#F6F6F6&#39;</span><span class=p>})))</span>
+</span></span><span class=line><span class=cl> 
+</span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=n>pn</span><span class=o>.</span><span class=n>Column</span><span class=p>(</span><span class=o>*</span><span class=n>panels</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=kn>import</span> <span class=nn>panel</span> <span class=k>as</span> <span class=nn>pn</span>  <span class=c1># GUI</span>
+</span></span><span class=line><span class=cl><span class=n>pn</span><span class=o>.</span><span class=n>extension</span><span class=p>()</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>panels</span> <span class=o>=</span> <span class=p>[]</span> <span class=c1># collect display </span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>context</span> <span class=o>=</span> <span class=p>[</span> <span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;system&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>You are OrderBot, an automated service to collect orders for a pizza restaurant. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>You first greet the customer, then collects the order, </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>and then asks if it&#39;s a pickup or delivery. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>You wait to collect the entire order, then summarize it and check for a final </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>time if the customer wants to add anything else. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>If it&#39;s a delivery, you ask for an address. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Finally you collect the payment.</span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Make sure to clarify all options, extras and sizes to uniquely </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>identify the item from the menu.</span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>You respond in a short, very conversational friendly style. </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>The menu includes </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>pepperoni pizza  12.95, 10.00, 7.00 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>cheese pizza   10.95, 9.25, 6.50 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>eggplant pizza   11.95, 9.75, 6.75 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>fries 4.50, 3.50 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>greek salad 7.25 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Toppings: </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>extra cheese 2.00, </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>mushrooms 1.50 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>sausage 3.00 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>canadian bacon 3.50 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>AI sauce 1.50 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>peppers 1.00 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>Drinks: </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>coke 3.00, 2.00, 1.00 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>sprite 3.00, 2.00, 1.00 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>bottled water 5.00 </span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s2>&#34;&#34;&#34;</span><span class=p>}</span> <span class=p>]</span>  <span class=c1># accumulate messages</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>inp</span> <span class=o>=</span> <span class=n>pn</span><span class=o>.</span><span class=n>widgets</span><span class=o>.</span><span class=n>TextInput</span><span class=p>(</span><span class=n>value</span><span class=o>=</span><span class=s2>&#34;Hi&#34;</span><span class=p>,</span> <span class=n>placeholder</span><span class=o>=</span><span class=s1>&#39;Enter text here…&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=n>button_conversation</span> <span class=o>=</span> <span class=n>pn</span><span class=o>.</span><span class=n>widgets</span><span class=o>.</span><span class=n>Button</span><span class=p>(</span><span class=n>name</span><span class=o>=</span><span class=s2>&#34;Chat!&#34;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>interactive_conversation</span> <span class=o>=</span> <span class=n>pn</span><span class=o>.</span><span class=n>bind</span><span class=p>(</span><span class=n>collect_messages</span><span class=p>,</span> <span class=n>button_conversation</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>dashboard</span> <span class=o>=</span> <span class=n>pn</span><span class=o>.</span><span class=n>Column</span><span class=p>(</span>
+</span></span><span class=line><span class=cl>    <span class=n>inp</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>    <span class=n>pn</span><span class=o>.</span><span class=n>Row</span><span class=p>(</span><span class=n>button_conversation</span><span class=p>),</span>
+</span></span><span class=line><span class=cl>    <span class=n>pn</span><span class=o>.</span><span class=n>panel</span><span class=p>(</span><span class=n>interactive_conversation</span><span class=p>,</span> <span class=n>loading_indicator</span><span class=o>=</span><span class=kc>True</span><span class=p>,</span> <span class=n>height</span><span class=o>=</span><span class=mi>300</span><span class=p>),</span>
+</span></span><span class=line><span class=cl><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>dashboard</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>messages</span> <span class=o>=</span>  <span class=n>context</span><span class=o>.</span><span class=n>copy</span><span class=p>()</span>
+</span></span><span class=line><span class=cl><span class=n>messages</span><span class=o>.</span><span class=n>append</span><span class=p>(</span>
+</span></span><span class=line><span class=cl><span class=p>{</span><span class=s1>&#39;role&#39;</span><span class=p>:</span><span class=s1>&#39;system&#39;</span><span class=p>,</span> <span class=s1>&#39;content&#39;</span><span class=p>:</span><span class=s1>&#39;create a json summary of the previous food order. Itemize the price for each item</span><span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span><span class=s1> The fields should be 1) pizza, include size 2) list of toppings 3) list of drinks, include size   4) list of sides include size  5)total price &#39;</span><span class=p>},</span>    
+</span></span><span class=line><span class=cl><span class=p>)</span>
+</span></span><span class=line><span class=cl> <span class=c1>#The fields should be 1) pizza, price 2) list of toppings 3) list of drinks, include size include price  4) list of sides include size include price, 5)total price &#39;},    </span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>response</span> <span class=o>=</span> <span class=n>get_completion_from_messages</span><span class=p>(</span><span class=n>messages</span><span class=p>,</span> <span class=n>temperature</span><span class=o>=</span><span class=mi>0</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>response</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div></article><hr><div class=page-end id=footer><div class=backlinks-container><h3>Backlinks</h3><ul class=backlinks><li>No backlinks found</li></ul></div><div><script src=https://cdn.jsdelivr.net/npm/d3@6.7.0/dist/d3.min.js integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI=" crossorigin=anonymous></script><h3>Interactive Graph</h3><div id=graph-container></div><style>:root{--g-node:var(--secondary);--g-node-active:var(--primary);--g-node-inactive:var(--visited);--g-link:var(--outlinegray);--g-link-active:#5a7282}</style><script src=https://brain.jamfox.dev/js/graph.6579af7b10c818dbd2ca038702db0224.js></script></div></div><div id=contact_buttons><footer><p>Made by JamFox using <a href=https://github.com/jackyzha0/quartz>Quartz</a> and <a href=https://obsidian.md>Obsidian</a></p><ul><li><a href=https://brain.jamfox.dev/>Home</a></li><li><a href=https://jamfox.dev>Main</a></li><li><a href=https://docs.jamfox.dev>Docs</a></li></ul></footer></div></div></body></html>
