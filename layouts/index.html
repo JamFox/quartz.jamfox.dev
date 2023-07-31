@@ -3,18 +3,31 @@
 {{ partial "head.html" . }}
 
 <body>
-{{partial "search.html" .}}
-<div class="singlePage">
+  {{partial "search.html" .}}
+  <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <article>
-        {{partial "toc.html" .}}
-        {{partial "textprocessing.html" . }}
-        {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
-        {{end}}
+      {{partial "toc.html" .}}
+      {{partial "textprocessing.html" . }}
+      {{if $.Site.Data.config.enableRecentNotes}}
+      {{partial "recent.html" . }}
+      {{end}}
     </article>
+    <!-- Ranges through content/posts/*.md -->
     {{partial "footerIndex.html" .}}
-</div>
+
+    <h4 align="center">List of all notes</h4>
+    <table text-align="left">
+    {{ range .Pages }}
+    <tr>
+      <th><a href="{{ .Permalink }}">{{ .RelPermalink }}</a></th>
+    
+</tr>
+    {{ end }}
+  </table>
+
+  </div>
 </body>
+
 </html>
