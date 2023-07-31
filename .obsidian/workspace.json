@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Komöödia by Mart Kangro.md",
+                "file": "16 seconds to change a habit.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Komöödia by Mart Kangro.md",
+                "file": "16 seconds to change a habit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Komöödia by Mart Kangro.md",
+                "file": "16 seconds to change a habit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Komöödia by Mart Kangro.md"
+                "file": "16 seconds to change a habit.md"
               }
             }
           }
@@ -338,13 +338,14 @@
   },
   "active": "d62f8cf13c3fe315",
   "lastOpenFiles": [
+    "_index.md",
+    "Barbie.md",
+    "Komöödia by Mart Kangro.md",
     "The Network State.md",
     "This is not who I am.md",
     "What is Self-Realization - A Full Explanation and Walkthrough.md",
     "What's Our Problem.md",
     "The One Minute Manager.md",
-    "Barbie.md",
-    "Komöödia by Mart Kangro.md",
     "Dr K's Guide - Meditation.md",
     "Dr K's Guide - Anxiety.md",
     "Dr K's Guide - Depression.md",
@@ -363,7 +364,6 @@
     "Linux.md",
     "Has the sexual revolution backfired.md",
     "Elden Ring.md",
-    "AI panic.md",
     "Untitled 1",
     "Untitled"
   ]
