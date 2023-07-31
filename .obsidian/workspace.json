@@ -198,19 +198,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0360423319fcb28a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -346,8 +336,9 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "847179812bfcd836",
+  "active": "d62f8cf13c3fe315",
   "lastOpenFiles": [
+    "The Network State.md",
     "This is not who I am.md",
     "What is Self-Realization - A Full Explanation and Walkthrough.md",
     "What's Our Problem.md",
@@ -357,7 +348,6 @@
     "Dr K's Guide - Meditation.md",
     "Dr K's Guide - Anxiety.md",
     "Dr K's Guide - Depression.md",
-    "The Network State.md",
     "2022 in review, CERN, living alone.md",
     "Entropy - spreading of energy, not chaos.md",
     "Review of Kaito's Favorite Characters list.md",
