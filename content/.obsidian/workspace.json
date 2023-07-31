@@ -274,7 +274,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "16 seconds to change a habit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +290,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "16 seconds to change a habit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,9 +311,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "16 seconds to change a habit.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -336,8 +332,10 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "d62f8cf13c3fe315",
+  "active": "847179812bfcd836",
   "lastOpenFiles": [
+    "16 seconds to change a habit.md",
+    "conflict-files-obsidian-git.md",
     "_index.md",
     "Barbie.md",
     "Komöödia by Mart Kangro.md",
@@ -362,8 +360,6 @@
     "PyTorch.md",
     "Machine learning.md",
     "Linux.md",
-    "Has the sexual revolution backfired.md",
-    "Elden Ring.md",
     "Untitled 1",
     "Untitled"
   ]
