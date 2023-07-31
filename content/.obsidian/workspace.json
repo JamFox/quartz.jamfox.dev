@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16 seconds to change a habit.md",
+                "file": "Japan Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,6 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Japan Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Japan Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +313,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Japan Guide.md"
+              }
             }
           }
         ],
@@ -332,34 +336,34 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "847179812bfcd836",
+  "active": "d62f8cf13c3fe315",
   "lastOpenFiles": [
+    "How the World Thinks.md",
+    "Komöödia by Mart Kangro.md",
+    "Dr K's Guide - Depression.md",
+    "Dr K's Guide - Anxiety.md",
+    "Do not chase happiness, become antifragile.md",
+    "Barbie.md",
+    "2022 in review, CERN, living alone.md",
     "16 seconds to change a habit.md",
+    "Corporeal Mime - GUILLAUME PIGÉ.md",
+    "ChatGPT Prompt Engineering for Developers.md",
+    "Kaitsevägi, ajateenistus.md",
+    "Has the sexual revolution backfired.md",
+    "AI panic.md",
+    "The Network State.md",
     "conflict-files-obsidian-git.md",
     "_index.md",
-    "Barbie.md",
-    "Komöödia by Mart Kangro.md",
-    "The Network State.md",
     "This is not who I am.md",
     "What is Self-Realization - A Full Explanation and Walkthrough.md",
     "What's Our Problem.md",
     "The One Minute Manager.md",
     "Dr K's Guide - Meditation.md",
-    "Dr K's Guide - Anxiety.md",
-    "Dr K's Guide - Depression.md",
-    "2022 in review, CERN, living alone.md",
     "Entropy - spreading of energy, not chaos.md",
     "Review of Kaito's Favorite Characters list.md",
     "Trollid järve ääres.md",
-    "Kaitsevägi, ajateenistus.md",
     "Richard Haier IQ Tests, Human Intelligence, and Group Differences (Lex Fridman Podcast).md",
     "Bishop Robert Barron - Christianity and the Catholic Church (Lex Fridman Podcast).md",
-    "Japan Guide.md",
-    "How the World Thinks.md",
-    "How inflation enriches politicians and the 1%.md",
-    "PyTorch.md",
-    "Machine learning.md",
-    "Linux.md",
     "Untitled 1",
     "Untitled"
   ]
