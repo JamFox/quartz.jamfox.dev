@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: JamFox
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -18,12 +18,15 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  JamFox's second brain site - in other words a place to manage knowledge and notes.
+favicon: |
+  <link rel="apple-touch-icon" sizes="180x180" href="https://raw.githubusercontent.com/JamFox/wired.jamfox.dev/main/src/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/JamFox/wired.jamfox.dev/main/src/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/JamFox/wired.jamfox.dev/main/src/favicon-16x16.png">
 page_title:
-  "🪴 Quartz 3.3"
+  "🧠 JamBrain"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: Main
+    link: https://jamfox.dev
+  - link_name: Docs
+    link: https://docs.jamfox.dev
