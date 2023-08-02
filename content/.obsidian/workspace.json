@@ -198,9 +198,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5903c913f5f173ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hustle culture kills happiness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc35178ced13b389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hustle culture kills happiness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -229,7 +253,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tools",
+                "query": "how hustle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,7 +278,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -274,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japan Guide.md",
+                "file": "Hustle culture kills happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japan Guide.md",
+                "file": "Hustle culture kills happiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japan Guide.md"
+                "file": "Hustle culture kills happiness.md"
               }
             }
           }
@@ -336,8 +361,11 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "d62f8cf13c3fe315",
+  "active": "cc35178ced13b389",
   "lastOpenFiles": [
+    "Outliers - extended families, better health outcomes.md",
+    "Hustle culture kills happiness.md",
+    "Japan Guide.md",
     "How the World Thinks.md",
     "Komöödia by Mart Kangro.md",
     "Dr K's Guide - Depression.md",
@@ -361,9 +389,6 @@
     "Dr K's Guide - Meditation.md",
     "Entropy - spreading of energy, not chaos.md",
     "Review of Kaito's Favorite Characters list.md",
-    "Trollid järve ääres.md",
-    "Richard Haier IQ Tests, Human Intelligence, and Group Differences (Lex Fridman Podcast).md",
-    "Bishop Robert Barron - Christianity and the Catholic Church (Lex Fridman Podcast).md",
     "Untitled 1",
     "Untitled"
   ]
