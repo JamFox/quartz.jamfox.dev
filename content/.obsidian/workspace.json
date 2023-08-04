@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hustle culture kills happiness.md",
+                "file": "Everyone Is Beautiful and No One Is Horny.md",
                 "mode": "source",
                 "source": false
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "how hustle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -278,8 +278,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hustle culture kills happiness.md",
+                "file": "Everyone Is Beautiful and No One Is Horny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hustle culture kills happiness.md",
+                "file": "Everyone Is Beautiful and No One Is Horny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hustle culture kills happiness.md"
+                "file": "Everyone Is Beautiful and No One Is Horny.md"
               }
             }
           }
@@ -363,8 +362,10 @@
   },
   "active": "cc35178ced13b389",
   "lastOpenFiles": [
-    "Outliers - extended families, better health outcomes.md",
+    "Nier Automata.md",
+    "Everyone Is Beautiful and No One Is Horny.md",
     "Hustle culture kills happiness.md",
+    "Outliers - extended families, better health outcomes.md",
     "Japan Guide.md",
     "How the World Thinks.md",
     "Komöödia by Mart Kangro.md",
@@ -387,8 +388,6 @@
     "What's Our Problem.md",
     "The One Minute Manager.md",
     "Dr K's Guide - Meditation.md",
-    "Entropy - spreading of energy, not chaos.md",
-    "Review of Kaito's Favorite Characters list.md",
     "Untitled 1",
     "Untitled"
   ]
