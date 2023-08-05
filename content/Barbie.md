@@ -1,6 +1,12 @@
 The movie is primarily about men — how their insecurities manifest as overcompensation, how they value themselves in relation to women (and their validation), and how the patriarchy is caused by the combination of these two things. 
 Ken is defined by his relationship or his job (even if it's just "beach") both in fantasy Barbie Land or the patriarchical real world, and he finds in the real world that unless he's at the top of the heap, he won't find a job/definition that gives him any value.
 
+Ken's vengefulness, which masks his rage, shame, and insecurities, is largely a byproduct of Barbie's lack of sexual-romantic interest in him. Ken is the prototypical patriarchal man, who is raised to believe his identity and worth are explicitly tied to his sexuality and ability to sexually dominate women. "The underlying message boys receive about sexual acts is that they will be destroyed if they are not in control, exercising power," hooks reflects. Later in the book, she adds: "To take the inherent positive sexuality of males and turn it into violence is the patriarchal crime that is perpetuated against the male body … Men know what is happening, they have simply been taught not to speak the truth of their bodies, the truth of their sexualities."
+"Sex, then, becomes a way of self-solacing," hooks writes. "It is not about connecting to someone else but rather about releasing their own pain." hooks describes how this dynamic, whereby sex offers a brief reprieve from the strictures of patriarchal masculinity, often creates an addictive relationship with sex. "The addict is often an individual in acute pain. Patriarchal men have no outlet to express their pain, so they simply release," she writes.
+In other words, he believes his value is defined by the things he can achieve, rather than who he is. "In an anti-patriarchal culture males do not have to prove their value and worth," hooks writes "They know from birth that simply being gives them value, the right to be cherished and loved."
+It is precisely this antidote to patriarchal masculinity which Barbie offers Ken: She encourages him to explore who he is, what _he_ likes, not what he thinks he _should_ like, not what he thinks others want him to like. She encourages him to recover his sense of self and assures him that that who is is enough.
+Before Ken's catharsis, guided solely by Barbie (a woman willing to do his emotional labor), we see him repressing his authenticity into oblivion. First, performing a version of himself that he thinks will win Barbie's attention and affections. Then, performing a version of himself that he thinks the Kens will respect and will allow him to dominate. He is gripped by self-loathing; in attempting to kill off parts of himself, he loses the ability to love both himself and others. According to hooks, this is a form of cultural abuse patriarchal masculinity enacts on men.
+
 "I am Ken?" Before all, be yourself. Find what it means to be Ken. Only then can you find the source of your jealousy for other Ken. Only after, can you find your Barbie. The message of you don't need to (not even supposed to) rely on someone for your happiness is important and anyone can agree with that.
 The horses, trucks, gym, high heels, cellulite free skin - the ego.
 You can only be Kenough when you find approval within yourself not from others.
@@ -22,8 +28,8 @@ Allan knew who he was, even though he wasn't the happiest of people, he knew who
 Easier to wave off men and focus on the female perspective?
 The films ends with the Barbies recreating the exact same system under which they had already been living.
 
-_“I want to do the imagining, I don’t want to be the idea.”_
+_"I want to do the imagining, I don't want to be the idea."_
 The first thing after deciding to find yourself is to go to the gynecologist?
 
-Barbie will genuinely be a movie that is studied in business schools. Anyone who is saying “I can’t believe Mattel let them get away with this!” and anyone who finds this movie to be anti-capitalist totally got duped by the genius marketing that Mattel delivers here.
+Barbie will genuinely be a movie that is studied in business schools. Anyone who is saying "I can't believe Mattel let them get away with this!" and anyone who finds this movie to be anti-capitalist totally got duped by the genius marketing that Mattel delivers here.
 Barbie does indeed feel like an antiquated (but somewhat loving) attempt at trying to inspire women of the time.

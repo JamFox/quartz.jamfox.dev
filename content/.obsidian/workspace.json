@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everyone Is Beautiful and No One Is Horny.md",
+                "file": "Barbie.md",
                 "mode": "source",
                 "source": false
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everyone Is Beautiful and No One Is Horny.md",
+                "file": "Barbie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everyone Is Beautiful and No One Is Horny.md",
+                "file": "Barbie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everyone Is Beautiful and No One Is Horny.md"
+                "file": "Barbie.md"
               }
             }
           }
@@ -362,8 +362,8 @@
   },
   "active": "cc35178ced13b389",
   "lastOpenFiles": [
-    "Nier Automata.md",
     "Everyone Is Beautiful and No One Is Horny.md",
+    "Nier Automata.md",
     "Hustle culture kills happiness.md",
     "Outliers - extended families, better health outcomes.md",
     "Japan Guide.md",
