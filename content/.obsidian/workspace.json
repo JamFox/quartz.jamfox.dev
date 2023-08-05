@@ -217,14 +217,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barbie.md",
+                "file": "Nier Automata.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a490f60dde191303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argue smarter - debate coach Bo Seo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -298,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barbie.md",
+                "file": "Argue smarter - debate coach Bo Seo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Barbie.md",
+                "file": "Argue smarter - debate coach Bo Seo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barbie.md"
+                "file": "Argue smarter - debate coach Bo Seo.md"
               }
             }
           }
@@ -360,19 +373,20 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "cc35178ced13b389",
+  "active": "a490f60dde191303",
   "lastOpenFiles": [
-    "Everyone Is Beautiful and No One Is Horny.md",
     "Nier Automata.md",
+    "Argue smarter - debate coach Bo Seo.md",
+    "Dr K's Guide - Depression.md",
+    "Barbie.md",
+    "Everyone Is Beautiful and No One Is Horny.md",
     "Hustle culture kills happiness.md",
     "Outliers - extended families, better health outcomes.md",
     "Japan Guide.md",
     "How the World Thinks.md",
     "Komöödia by Mart Kangro.md",
-    "Dr K's Guide - Depression.md",
     "Dr K's Guide - Anxiety.md",
     "Do not chase happiness, become antifragile.md",
-    "Barbie.md",
     "2022 in review, CERN, living alone.md",
     "16 seconds to change a habit.md",
     "Corporeal Mime - GUILLAUME PIGÉ.md",
@@ -387,7 +401,6 @@
     "What is Self-Realization - A Full Explanation and Walkthrough.md",
     "What's Our Problem.md",
     "The One Minute Manager.md",
-    "Dr K's Guide - Meditation.md",
     "Untitled 1",
     "Untitled"
   ]

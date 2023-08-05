@@ -22,6 +22,9 @@ Humans are creatures of purpose. No wonder then that it's so easy to cling on to
 
 
 
+Nothing is black and white, each good and bad has its different shades and perspectives
+like each playthrough gives fresh angles on the plot, characters, villans etc
+Asks the player if they are able to show empathy
 
 existential vacuum
 
@@ -30,3 +33,23 @@ worry about survival vs accumulating gold and estate
 treadmill
 
 have to find meaning yourself, but why
+
+happy endings vs joy of destruction (similar to Metal Gear Rising Revengeance "Everyone you killed, maybe they are people too?" and Metal Gear Solid 1 and 2 "Why did you come here?")
+
+Simone, "look at me", exercising femininity to gain approval, validation through appearance
+Pascal, pursuit of knowledge, peaceful coexistence, living in fear, fear vs peace
+Religion becomes and institution which justifies itself by becoming increasingly conservative and fundamentalist about its own beliefs. Eventually it degenerates into a cult, where the followers become meaningless/expendable
+
+Nier loop: philosophy of existence or identity is referenced, then subverted. Each ending in bitter or outright unhappy result.
+Reason: 
+- machines killed off their masters, but soon saw themselves stagnate, never improving (No change = death as mentioned in [[Corporeal Mime - GUILLAUME PIGÉ]]), so they started mimicking humanities aspects to see if that would propel them into becoming something greater.
+- androids keep fighting a lie, because they need a god/cause/reason/hope worth fighting for, a reason to exist. "Without hope, they would drown in their sorrow" - Final Fantasy
+
+truth - salvation through pain
+delusion - imprisonment through comfort
+solution: create sustainable system of values
+problem: sustainable values is near impossible to create
+
+Samsara - endless cycle of life, death, rebirth. Break free by detaching ourselves from the earthly/desires
+
+Nier's ultimate solution: Meaning and salvation in struggle (for examples: the struggle of [[Elden Ring]], [[Do not chase happiness, become antifragile]]), defiance of impossibility/suffering/struggle (interestingly this is a trait that is respected in cultures around the world, depicted in all mediums in different forms). Requires hell of a strength of character though
