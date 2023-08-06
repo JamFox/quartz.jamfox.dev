@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argue smarter - debate coach Bo Seo.md",
+                "file": "Nier Automata.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,8 +290,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -311,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argue smarter - debate coach Bo Seo.md",
+                "file": "Nier Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argue smarter - debate coach Bo Seo.md",
+                "file": "Nier Automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argue smarter - debate coach Bo Seo.md"
+                "file": "Nier Automata.md"
               }
             }
           }
@@ -375,8 +374,10 @@
   },
   "active": "a490f60dde191303",
   "lastOpenFiles": [
-    "Nier Automata.md",
+    "The Network State.md",
     "Argue smarter - debate coach Bo Seo.md",
+    "How Police Make Up The Law.md",
+    "Nier Automata.md",
     "Dr K's Guide - Depression.md",
     "Barbie.md",
     "Everyone Is Beautiful and No One Is Horny.md",
@@ -394,13 +395,11 @@
     "Kaitsevägi, ajateenistus.md",
     "Has the sexual revolution backfired.md",
     "AI panic.md",
-    "The Network State.md",
     "conflict-files-obsidian-git.md",
     "_index.md",
     "This is not who I am.md",
     "What is Self-Realization - A Full Explanation and Walkthrough.md",
     "What's Our Problem.md",
-    "The One Minute Manager.md",
     "Untitled 1",
     "Untitled"
   ]
