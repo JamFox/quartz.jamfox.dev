@@ -258,9 +258,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4bea2301ab39a764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Darkest Truths About Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -335,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How spirituality protects your brain from despair.md",
+                "file": "Darkest Truths About Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How spirituality protects your brain from despair.md",
+                "file": "Darkest Truths About Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +387,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How spirituality protects your brain from despair.md"
+                "file": "Darkest Truths About Life.md"
               }
             }
           }
@@ -397,11 +409,12 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "54c2ffab8253b2ca",
+  "active": "4bea2301ab39a764",
   "lastOpenFiles": [
+    "How spirituality protects your brain from despair.md",
+    "Darkest Truths About Life.md",
     "Dr K's Guide - Meditation.md",
     "Dr K's Guide - Depression.md",
-    "How spirituality protects your brain from despair.md",
     "Have we become programmed to be too materialistic.md",
     "Nier Automata.md",
     "The Network State.md",
@@ -424,7 +437,6 @@
     "Has the sexual revolution backfired.md",
     "AI panic.md",
     "conflict-files-obsidian-git.md",
-    "_index.md",
     "Untitled 1",
     "Untitled"
   ]
