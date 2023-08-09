@@ -270,9 +270,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f145eed170ef42b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Bear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -347,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Darkest Truths About Life.md",
+                "file": "The Bear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +376,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Darkest Truths About Life.md",
+                "file": "The Bear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +399,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Darkest Truths About Life.md"
+                "file": "The Bear.md"
               }
             }
           }
@@ -409,10 +421,11 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "4bea2301ab39a764",
+  "active": "f145eed170ef42b5",
   "lastOpenFiles": [
-    "How spirituality protects your brain from despair.md",
     "Darkest Truths About Life.md",
+    "The Bear.md",
+    "How spirituality protects your brain from despair.md",
     "Dr K's Guide - Meditation.md",
     "Dr K's Guide - Depression.md",
     "Have we become programmed to be too materialistic.md",
@@ -436,7 +449,6 @@
     "Kaitsevägi, ajateenistus.md",
     "Has the sexual revolution backfired.md",
     "AI panic.md",
-    "conflict-files-obsidian-git.md",
     "Untitled 1",
     "Untitled"
   ]
