@@ -246,9 +246,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54c2ffab8253b2ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How spirituality protects your brain from despair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -277,7 +289,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "self observing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -302,7 +314,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -322,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Have we become programmed to be too materialistic.md",
+                "file": "How spirituality protects your brain from despair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Have we become programmed to be too materialistic.md",
+                "file": "How spirituality protects your brain from despair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Have we become programmed to be too materialistic.md"
+                "file": "How spirituality protects your brain from despair.md"
               }
             }
           }
@@ -384,14 +397,16 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "236b79c7ad7370c3",
+  "active": "54c2ffab8253b2ca",
   "lastOpenFiles": [
-    "Nier Automata.md",
+    "Dr K's Guide - Meditation.md",
+    "Dr K's Guide - Depression.md",
+    "How spirituality protects your brain from despair.md",
     "Have we become programmed to be too materialistic.md",
+    "Nier Automata.md",
     "The Network State.md",
     "Argue smarter - debate coach Bo Seo.md",
     "How Police Make Up The Law.md",
-    "Dr K's Guide - Depression.md",
     "Barbie.md",
     "Everyone Is Beautiful and No One Is Horny.md",
     "Hustle culture kills happiness.md",
@@ -410,8 +425,6 @@
     "AI panic.md",
     "conflict-files-obsidian-git.md",
     "_index.md",
-    "This is not who I am.md",
-    "What is Self-Realization - A Full Explanation and Walkthrough.md",
     "Untitled 1",
     "Untitled"
   ]
