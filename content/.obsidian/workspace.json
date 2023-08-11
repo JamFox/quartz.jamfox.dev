@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metal Gear Rising - Revengeance.md",
+                "file": "Nier Automata.md",
                 "mode": "source",
                 "source": false
               }
@@ -371,7 +371,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metal Gear Rising - Revengeance.md",
+                "file": "Nier Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -388,7 +388,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metal Gear Rising - Revengeance.md",
+                "file": "Nier Automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metal Gear Rising - Revengeance.md"
+                "file": "Nier Automata.md"
               }
             }
           }
@@ -433,10 +433,10 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "f91282f3e6afdc0c",
+  "active": "1ff1478dc527baf8",
   "lastOpenFiles": [
-    "The Bear.md",
     "Metal Gear Rising - Revengeance.md",
+    "The Bear.md",
     "Darkest Truths About Life.md",
     "How spirituality protects your brain from despair.md",
     "Dr K's Guide - Meditation.md",

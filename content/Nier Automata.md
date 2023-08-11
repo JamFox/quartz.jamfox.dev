@@ -42,7 +42,7 @@ treadmill
 
 have to find meaning yourself, but why
 
-happy endings vs joy of destruction (similar to Metal Gear Rising Revengeance "Everyone you killed, maybe they are people too?" and Metal Gear Solid 1 and 2 "Why did you come here?")
+happy endings vs joy of destruction (similar to [[Metal Gear Rising - Revengeance]] "Everyone you killed, maybe they are people too?" and Metal Gear Solid 1 and 2 "Why did you come here?")
 
 by the end the players learns just like the characters that all theyve been doing is meaningless, the war is just a cycle, its purposefully repeating and endless, all that is left is destruction and video gamey rewards??
 
