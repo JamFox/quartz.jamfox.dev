@@ -8,307 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20f30533d1ddf11a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Network State.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e1f835d5af05361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outliers - extended families, better health outcomes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c3571496477a3a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stutz - The Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d238cc218860f54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nier Automata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c836390ad0d65d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Persona 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a318e2fbbc717a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What's Our Problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eff0881be1b5f494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bishop Robert Barron - Christianity and the Catholic Church (Lex Fridman Podcast).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b6598d93a497216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Richard Haier IQ Tests, Human Intelligence, and Group Differences (Lex Fridman Podcast).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b99c3345d4cb4016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kaitsevägi, ajateenistus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b0001ce05cdc970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trollid järve ääres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3258352cc85b586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review of Kaito's Favorite Characters list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b334dbf52bc6c178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022 in review, CERN, living alone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97ab0aac82f31ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Komöödia by Mart Kangro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41e06071a02b8e08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What's Our Problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ebcc7323cd0b8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is Self-Realization - A Full Explanation and Walkthrough.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d62f8cf13c3fe315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japan Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5903c913f5f173ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hustle culture kills happiness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc35178ced13b389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nier Automata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a490f60dde191303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nier Automata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "236b79c7ad7370c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Have we become programmed to be too materialistic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54c2ffab8253b2ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How spirituality protects your brain from despair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bea2301ab39a764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Darkest Truths About Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f145eed170ef42b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Bear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1ff1478dc527baf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metal Gear Rising - Revengeance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5d6ebd8545f643b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Key to Writing Criminally Good Relationships.md",
+                "file": "Limerence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 24
+        ]
       }
     ],
     "direction": "vertical"
@@ -337,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attachment",
+                "query": "lime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -383,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key to Writing Criminally Good Relationships.md",
+                "file": "Limerence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key to Writing Criminally Good Relationships.md",
+                "file": "Limerence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key to Writing Criminally Good Relationships.md"
+                "file": "Limerence.md"
               }
             }
           }
@@ -445,10 +156,15 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "f91282f3e6afdc0c",
+  "active": "1ff1478dc527baf8",
   "lastOpenFiles": [
     "Metal Gear Rising - Revengeance.md",
     "Key to Writing Criminally Good Relationships.md",
+    "Why finding a partner is so hard in the internet age.md",
+    "Why I’m against empathy.md",
+    "Why sex, food, and shelter aren’t enough for Homo Sapiens.md",
+    "Limerence.md",
+    "The Network State.md",
     "Nier Automata.md",
     "The Bear.md",
     "Darkest Truths About Life.md",
@@ -456,7 +172,6 @@
     "Dr K's Guide - Meditation.md",
     "Dr K's Guide - Depression.md",
     "Have we become programmed to be too materialistic.md",
-    "The Network State.md",
     "Argue smarter - debate coach Bo Seo.md",
     "How Police Make Up The Law.md",
     "Barbie.md",
@@ -469,10 +184,6 @@
     "Dr K's Guide - Anxiety.md",
     "Do not chase happiness, become antifragile.md",
     "2022 in review, CERN, living alone.md",
-    "16 seconds to change a habit.md",
-    "Corporeal Mime - GUILLAUME PIGÉ.md",
-    "ChatGPT Prompt Engineering for Developers.md",
-    "Kaitsevägi, ajateenistus.md",
     "Untitled 1",
     "Untitled"
   ]
