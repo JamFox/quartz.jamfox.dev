@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ff1478dc527baf8",
+            "id": "3b07d87f87d2b90f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limerence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db433c755dd37351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One Flew Over the Cuckoo's Nest.md",
+                "file": "Zom 100.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One Flew Over the Cuckoo's Nest.md",
+                "file": "Zom 100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One Flew Over the Cuckoo's Nest.md",
+                "file": "Zom 100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One Flew Over the Cuckoo's Nest.md"
+                "file": "Zom 100.md"
               }
             }
           }
@@ -169,10 +156,11 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "db433c755dd37351",
+  "active": "3b07d87f87d2b90f",
   "lastOpenFiles": [
-    "Tightrope of Discipline.md",
     "One Flew Over the Cuckoo's Nest.md",
+    "Zom 100.md",
+    "Tightrope of Discipline.md",
     "Limerence.md",
     "Metal Gear Rising - Revengeance.md",
     "Key to Writing Criminally Good Relationships.md",
@@ -196,7 +184,6 @@
     "Japan Guide.md",
     "How the World Thinks.md",
     "Komöödia by Mart Kangro.md",
-    "Dr K's Guide - Anxiety.md",
     "Untitled 1",
     "Untitled"
   ]
