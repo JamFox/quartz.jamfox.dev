@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b07d87f87d2b90f",
+            "id": "e7317309ec239e60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zom 100.md",
+                "file": "You probably need way more Protein.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lime",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zom 100.md",
+                "file": "You probably need way more Protein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zom 100.md",
+                "file": "You probably need way more Protein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zom 100.md"
+                "file": "You probably need way more Protein.md"
               }
             }
           }
@@ -156,10 +156,12 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "3b07d87f87d2b90f",
+  "active": "e7317309ec239e60",
   "lastOpenFiles": [
-    "One Flew Over the Cuckoo's Nest.md",
+    "Vegan diets do not work, here is why.md",
+    "You probably need way more Protein.md",
     "Zom 100.md",
+    "One Flew Over the Cuckoo's Nest.md",
     "Tightrope of Discipline.md",
     "Limerence.md",
     "Metal Gear Rising - Revengeance.md",
@@ -182,8 +184,6 @@
     "Hustle culture kills happiness.md",
     "Outliers - extended families, better health outcomes.md",
     "Japan Guide.md",
-    "How the World Thinks.md",
-    "Komöödia by Mart Kangro.md",
     "Untitled 1",
     "Untitled"
   ]
