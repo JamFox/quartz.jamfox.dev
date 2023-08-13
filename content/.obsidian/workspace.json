@@ -289,14 +289,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nier Automata.md",
+                "file": "Metal Gear Rising - Revengeance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5d6ebd8545f643b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key to Writing Criminally Good Relationships.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -325,7 +337,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metal gear",
+                "query": "attachment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -371,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nier Automata.md",
+                "file": "Key to Writing Criminally Good Relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -388,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nier Automata.md",
+                "file": "Key to Writing Criminally Good Relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nier Automata.md"
+                "file": "Key to Writing Criminally Good Relationships.md"
               }
             }
           }
@@ -433,16 +445,17 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "1ff1478dc527baf8",
+  "active": "f91282f3e6afdc0c",
   "lastOpenFiles": [
     "Metal Gear Rising - Revengeance.md",
+    "Key to Writing Criminally Good Relationships.md",
+    "Nier Automata.md",
     "The Bear.md",
     "Darkest Truths About Life.md",
     "How spirituality protects your brain from despair.md",
     "Dr K's Guide - Meditation.md",
     "Dr K's Guide - Depression.md",
     "Have we become programmed to be too materialistic.md",
-    "Nier Automata.md",
     "The Network State.md",
     "Argue smarter - debate coach Bo Seo.md",
     "How Police Make Up The Law.md",
@@ -460,7 +473,6 @@
     "Corporeal Mime - GUILLAUME PIGÉ.md",
     "ChatGPT Prompt Engineering for Developers.md",
     "Kaitsevägi, ajateenistus.md",
-    "Has the sexual revolution backfired.md",
     "Untitled 1",
     "Untitled"
   ]
