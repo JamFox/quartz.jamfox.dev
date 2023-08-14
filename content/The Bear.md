@@ -6,7 +6,7 @@ Carmy repeats the mistakes he swore to turn into art, the stress, the yelling, t
 
 "Every second counts", but towards what? Carmy allows him close to zero seconds to process trauma, his reactions, his panic attacks while "waiting for the bad shoe arrive after the good one"
 
-Keeps falling in the hole of "if I focus on the restaurant all will be well" yet what exactly is the point? The people that matter are around him, in the kitchen, his family, his (ex? after the fridge thing) girlfriend? Avoidance of hurt by always hurting. The kitchen will always be grueling, no enjoyment, no fun, superstress environment, yet there will not be the danger of getting hurt from showing emotional vulnerability.
+Keeps falling in the hole of "if I focus on the restaurant all will be well" yet what exactly is the point? The people that matter are around him, in the kitchen, his family, his (ex? after the fridge thing) girlfriend ([[Outliers - extended families, better health outcomes]])? Avoidance of hurt by always hurting. The kitchen will always be grueling, no enjoyment, no fun, superstress environment, yet there will not be the danger of getting hurt from showing emotional vulnerability.
 
 To break the cycle, allow others space as they do for you. Most character development happens during and as the result of tender mutual understanding, trust, true two-sided listening. Allow yourself to be vulnerable, trust fellows to cross the fear of doing so. S02E07 is the ultimate of this created mutual space of trust.
 

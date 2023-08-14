@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "36f7dd20c7346f1b",
+        "id": "421853c271adda5c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7317309ec239e60",
+            "id": "634effa142386bb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "You probably need way more Protein.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "homo sap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "You probably need way more Protein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "You probably need way more Protein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "You probably need way more Protein.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,34 +147,34 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "e7317309ec239e60",
+  "active": "847179812bfcd836",
   "lastOpenFiles": [
-    "Vegan diets do not work, here is why.md",
-    "You probably need way more Protein.md",
-    "Zom 100.md",
-    "One Flew Over the Cuckoo's Nest.md",
-    "Tightrope of Discipline.md",
-    "Limerence.md",
-    "Metal Gear Rising - Revengeance.md",
-    "Key to Writing Criminally Good Relationships.md",
-    "Why finding a partner is so hard in the internet age.md",
-    "Why I’m against empathy.md",
-    "Why sex, food, and shelter aren’t enough for Homo Sapiens.md",
-    "The Network State.md",
-    "Nier Automata.md",
     "The Bear.md",
-    "Darkest Truths About Life.md",
-    "How spirituality protects your brain from despair.md",
-    "Dr K's Guide - Meditation.md",
-    "Dr K's Guide - Depression.md",
-    "Have we become programmed to be too materialistic.md",
-    "Argue smarter - debate coach Bo Seo.md",
-    "How Police Make Up The Law.md",
-    "Barbie.md",
-    "Everyone Is Beautiful and No One Is Horny.md",
-    "Hustle culture kills happiness.md",
+    "Kaitsevägi, ajateenistus.md",
+    "Why sex, food, and shelter aren’t enough for Homo Sapiens.md",
     "Outliers - extended families, better health outcomes.md",
-    "Japan Guide.md",
+    "Darkest Truths About Life.md",
+    "This is not who I am.md",
+    "Have we become programmed to be too materialistic.md",
+    "Why I’m against empathy.md",
+    "Everyone Is Beautiful and No One Is Horny.md",
+    "Has the sexual revolution backfired.md",
+    "Evaluation of Russia by finnish intelligence colonel.md",
+    "Agape Kohvik SuveCamp 2023.md",
+    "Bishop Robert Barron - Christianity and the Catholic Church (Lex Fridman Podcast).md",
+    "Entropy - spreading of energy, not chaos.md",
+    "AI panic.md",
+    "2022 in review, CERN, living alone.md",
+    "Barbie.md",
+    "ChatGPT Prompt Engineering for Developers.md",
+    "Richard Haier IQ Tests, Human Intelligence, and Group Differences (Lex Fridman Podcast).md",
+    "Komöödia by Mart Kangro.md",
+    "Nier Automata.md",
+    "What happens to your body when you stop drinking alcohol.md",
+    "templates/post.md",
+    "What's Our Problem.md",
+    "Language learning.md",
+    "You probably need way more Protein.md",
     "Untitled 1",
     "Untitled"
   ]

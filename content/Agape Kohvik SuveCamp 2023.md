@@ -1,3 +1,5 @@
+[[Bishop Robert Barron - Christianity and the Catholic Church (Lex Fridman Podcast)]]
+
 How important are relationships? Relationships are life, no human exists in a vacuum, quite the opposite as humans go crazy alone and strive in communities (As also described in [[Outliers - extended families, better health outcomes]]).
 Individuality vs community? The more one focuses on the self, the more they sacrifice community. Passivity, holding back seems an important part in making sure community strives. The more you exercise individuality the less people you will be compatible with. But full on passivity is also counter productive: it's a delicate balancing act. 
 
