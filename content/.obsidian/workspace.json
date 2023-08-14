@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "634effa142386bb1",
+            "id": "5af80b604e9fac03",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Future of 5up - Using 500 IQ to Find Purpose.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Future of 5up - Using 500 IQ to Find Purpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Future of 5up - Using 500 IQ to Find Purpose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Future of 5up - Using 500 IQ to Find Purpose.md"
+              }
             }
           }
         ],
@@ -147,8 +155,9 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "847179812bfcd836",
+  "active": "5af80b604e9fac03",
   "lastOpenFiles": [
+    "The Future of 5up - Using 500 IQ to Find Purpose.md",
     "The Bear.md",
     "Kaitsevägi, ajateenistus.md",
     "Why sex, food, and shelter aren’t enough for Homo Sapiens.md",
@@ -174,7 +183,6 @@
     "templates/post.md",
     "What's Our Problem.md",
     "Language learning.md",
-    "You probably need way more Protein.md",
     "Untitled 1",
     "Untitled"
   ]
