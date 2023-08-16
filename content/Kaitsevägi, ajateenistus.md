@@ -6,7 +6,7 @@ Minevikus pole mul lähedaste sõprade leidmisel palju "õnne" olnud, kui nii ö
 
 Tegelikult nii hullusti pole. Minu mõtete tormid piinavad mind niivõrd, et need sunnivad mind pidevalt kirjutama - nii perele, kui sõpradele, endalegi. Kuna siin psühholoogi juurde mõnda aega ei saa, siis mul on lihtsalt vaja mingit, ükskõik millist pinda, millelt mõtteid põrgatada. Perega suhtlemine on olnud kõige tervendavam. Eks see ole vist üks pluss selle teenistuse juures. Igasugused raskelt koos läbi elatud asjad kinnistavad ja süvendavad suhteid. Kuigi ma olen alati üsna aus, avameelne ning valmis hinge puistama, siis tavaliselt pole mul selleks palju vajadust olnud. Nüüd kirjutan endast ja enda tunnetest rohkem, kui kunagi varem. On näha, et vanemad on ka pisut segaduses. Vastused on pigem lühemad ja ettevaatlikumad. Uus tundmatu situatsioon - poeg, kes muidu saab igas olukorras hakkama ning ületab igal võimalusel latte, on järsku sellisel moel jalult löödud. Külastuspäev aga näitas, et see on tõesti veelgi tugevdanud meie kokkukuuluvust. Selg selja vastas piknik. Emaga koos nutmine: noh, paps, kus sinu pisarad jäid? ;). Venna uutest sündmustest rääkimine (kokaks tööle ja tüdruk). Perekonna kokaraamatu idee. Vanade mälestuste meenutamine. Heade soovide vahetamine. 
 
-Ega siit koosseisust mingeid suuremaid vestluskaaslaseid ei leia ju. Põhiliselt sest koosseis koosneb meestest... Suured egod, "homohirm", toksiline maskuliinsus, tühjad isiksused. Kes siit peale minu julgeks ema nähes nutta? "Mingi pede oled vä?" Õnneks tänapäeval on asi nii kaugel, et päris otse välja ei öelda ja peksa ei anta. Mis ei oleks ka probleem, sest suudan enda eest seista. Kuid mehed ju ei nuta kunagi, siiski? Nalja selliste asjade üle tehakse aga päris palju. "Naljaga pooleks" aga on näha, et pigem mõtlevad asja tõsiselt. Huvitav, kas neis tõesti puudub vajadus või tahtmine intiimsuse järele? Kas nad ei taha enda parimalt sõbralt (või isegi perelt?) kallisid, olenemata soost? Kahtlen sügavalt. Kust see tuleb? Kas lapsepõlvest, kus neile ei antud piisavalt tähelepanu ja tõelist armastust? Ja siis on ühiskond oma soorollid nii kaugele kurku surunud, et nüüd ei saagi teisiti? Ma olen vägagi kindlalt hetero, kuid miks ei võiks olla ka tänapäeval normaalne Enkidu ja Gilgameshi kombel sõprust sobitada? Need, kes mind rohkem tunnevad, peavad mind selliste küsimuste pärast pigem naiselikumaks. Aga need ei ole ju NAISELIKUD omadused, need on INIMLIKUD. 
+Ega siit koosseisust mingeid suuremaid vestluskaaslaseid ei leia ju. Põhiliselt sest koosseis koosneb meestest... Suured egod, "homohirm", toksiline maskuliinsus, tühjad isiksused ([[Barbie]]). Kes siit peale minu julgeks ema nähes nutta? "Mingi pede oled vä?" Õnneks tänapäeval on asi nii kaugel, et päris otse välja ei öelda ja peksa ei anta. Mis ei oleks ka probleem, sest suudan enda eest seista. Kuid mehed ju ei nuta kunagi, siiski? Nalja selliste asjade üle tehakse aga päris palju. "Naljaga pooleks" aga on näha, et pigem mõtlevad asja tõsiselt. Huvitav, kas neis tõesti puudub vajadus või tahtmine intiimsuse järele? Kas nad ei taha enda parimalt sõbralt (või isegi perelt?) kallisid, olenemata soost? Kahtlen sügavalt. Kust see tuleb? Kas lapsepõlvest, kus neile ei antud piisavalt tähelepanu ja tõelist armastust? Ja siis on ühiskond oma soorollid nii kaugele kurku surunud, et nüüd ei saagi teisiti? Ma olen vägagi kindlalt hetero, kuid miks ei võiks olla ka tänapäeval normaalne Enkidu ja Gilgameshi kombel sõprust sobitada? Need, kes mind rohkem tunnevad, peavad mind selliste küsimuste pärast pigem naiselikumaks. Aga need ei ole ju NAISELIKUD omadused, need on INIMLIKUD. 
 
 Kavalalt täidetakse seda aega siin. Esimese töönädala jooksul oli vist tõesti kokku 20 pisikest minutit vaba aega. Pole aega isegi MÕELDA muule. Kas varustus on pakitud, sõlmitud, teibitud? Kas ma pean kohe 3 minuti pärast kuskil kükke tegema? Kas ma vetsu üldse jõuan? Ei tea, kas ma sain juba jalaseene? Kas relv on puhas? Niimoodi see vaimne vormindamine käibki? Siit käib ju palju mehi läbi, kel puuduvad eesmärgid, hobid, põhimõtted (mõtlevad nad üldse? Vahest ei oska nagu öeldagi). Kui varemalt elu koosnes ainult videomängudest ja koolist (kus sarnaselt keegi pidevalt n-ö käske jagas) ning heal juhul spordist, siis siinne elu ju ei erinegi palju. Rohkem käsutamist ja suuremad ärplemisload (kõva mees valmis, kui saad öelda, et oled kaitseväes ju), muud midagi. Nii võtabki sõdurlus isiksusi üle. Tühjad pead täidetakse järhekordse maskeeritud ja laiguliseks värvitud tühjusega. Tuntakse ennast tähtsana tehes tegelikult täiesti elementaarseid asju. IGA inimene saab marssimisega hakkama, on suuteline relva korrektselt kasutama, suudab joosta, matkata, käia jõusaalis ning teha oma voodit. Kuid kui vorm seljas, suure rühma keskel marssides laulda, siis tekibki selline tähtis kuuluvustunne. Plusspunktid kohe see, et "seda tehakse Eesti nimel! Üllas eesmärk!" Hea lihtne karjääriredel on kah ette antud, mujal sellist ei leidu. Auastme järgi lihtne eesmärke seada - lihtsalt otse edasi. Mujal elus nii lihtne pole. Pole nii rangeid kriteeriume, mida täita, nii lihtsaid reegleid suhtluse jaoks, nii lihtsat teed elu eesmärgi ja hea palgana. 
 
@@ -87,26 +87,6 @@ SBK oli täielik põrgu. Algas nii sujuvalt, kuid nüüd saan aru, et see oli va
 
 Tuba 110: rassism (juudid, afghaanid). Pajula raamatu lugemine (harva, ainult ing. keeles, esta õps olevat rahul).
 
-Taaskord linnaloal. Seekord otsustasin Saue uute spordihoonet uudistama minna. Läksin ostsin pettumusega täispileti, peale mille ostmist oleks nagu kogu maailmast kõik inimesed kadunud. Riietusruum tühi. Kõigest ventilaatori rahulik sahin. Inimtühjad täiesti uued läikima löödud koridorid. Pikk 100 m jooksu ala, küljel pikad aknad, millel krõbisevad mõnusalt vihmapiisad. Täiesti tühi ja pime jalgpallisisesaal, mille uudsust on õhus tunda. Nii vabastav hüpata ja rulluda kunstmurul täiesti pimedas, täielikus üksilduses. 
-
-Oh me! Oh life! of the questions of these recurring,
-
-Of the endless trains of the faithless, of cities fill’d with the foolish,
-
-Of myself forever reproaching myself, (for who more foolish than I, and who more faithless?)
-
-Of eyes that vainly crave the light, of the objects mean, of the struggle ever renew’d,
-
-Of the poor results of all, of the plodding and sordid crowds I see around me,
-
-Of the empty and useless years of the rest, with the rest me intertwined,
-
-The question, O me! so sad, recurring—What good amid these, O me, O life?
-
-Answer.
-
-That you are here—that life exists and identity,
-
-That the powerful play goes on, and you may contribute a verse.
+Taaskord linnaloal. Seekord otsustasin Saue uute spordihoonet uudistama minna. Läksin ostsin pettumusega täispileti, peale mille ostmist oleks nagu kogu maailmast kõik inimesed kadunud. Riietusruum tühi. Kõigest ventilaatori rahulik sahin. Inimtühjad täiesti uued läikima löödud koridorid. Pikk 100 m jooksu ala, küljel pikad aknad, millel krõbisevad mõnusalt vihmapiisad. Täiesti tühi ja pime jalgpallisisesaal, mille uudsust on õhus tunda. Nii vabastav hüpata ja rulluda kunstmurul täiesti pimedas, täielikus üksilduses.
 
 

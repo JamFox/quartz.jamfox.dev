@@ -1,4 +1,4 @@
-Line between a friend and a foe is paper thin. You just need to see the other side of the paper to come to understanding and find eympathy. 
+Line between a friend and a foe is paper thin. You just need to see the other side of the paper to come to understanding and find eympathy ([[Why I’m against empathy]]).
 
 What is the meaning to go on living after the gods are dead? We invent our gods, become as gods, live for our friends? 
 

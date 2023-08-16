@@ -1,5 +1,7 @@
 From: https://bigthink.com/series/the-big-think-interview/argue-smarter-harvard-debate-coach-bo-seo/
 
+[[Never split the difference - negotiating]]
+
 ## Listening
 
 Three components:
