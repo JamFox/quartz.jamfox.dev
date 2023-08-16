@@ -53,7 +53,7 @@ Similar to depression ([[Dr K's Guide - Depression]]) medications help to allevi
 
 Psychotherapy comes in different forms:
 - Psychodynamic therapy - traditional talk therapy, exploratory and deep in nature, takes a long time to be useful, but in the end very likely to lead to changes. Highly variable depending on each person.
-- Cognitive behavorial therapy - focused on thoughts, emotions, and baheviors and how they all influence eachother. Emotions lead into thoughts and thoughts affect behaviors. Very organized and protocolized in nature. Is more standardized, not as individual in approach.
+- Cognitive behavioral therapy - focused on thoughts, emotions, and behaviors and how they all influence each other. Emotions lead into thoughts and thoughts affect behaviors. Very organized and protocolized in nature. Is more standardized, not as individual in approach.
 - Psychotherapy with spiritualism (like dialectical behavioral therapy) - like psychodynamic therapy but not only relying on science, focus on spiritual and meditative aspects.
 
 ## Breathing and Mind
