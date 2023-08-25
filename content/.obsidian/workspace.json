@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8b249663de117f3",
+            "id": "4fc9de47a4a0ccb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key to Writing Criminally Good Relationships.md",
+                "file": "The Good Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key to Writing Criminally Good Relationships.md",
+                "file": "The Good Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key to Writing Criminally Good Relationships.md",
+                "file": "The Good Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key to Writing Criminally Good Relationships.md"
+                "file": "The Good Life.md"
               }
             }
           }
@@ -156,13 +155,15 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "d8b249663de117f3",
+  "active": "4fc9de47a4a0ccb8",
   "lastOpenFiles": [
+    "Carl Jung.md",
+    "The Good Life.md",
+    "Key to Writing Criminally Good Relationships.md",
     "Dr K's Guide - Anxiety.md",
     "9 tactics to build a stronger mind.md",
     "2022 in review, CERN, living alone.md",
     "A Diary Is As Much For Others As It Is For You.md",
-    "Key to Writing Criminally Good Relationships.md",
     "How to Control a Crowd.md",
     "Barbie.md",
     "templates/post.md",
@@ -182,8 +183,6 @@
     "Kaitsevägi, ajateenistus.md",
     "Stutz - The Tools.md",
     "Tightrope of Discipline.md",
-    "The Future of 5up - Using 500 IQ to Find Purpose.md",
-    "The Bear.md",
     "Untitled 1",
     "Untitled"
   ]
