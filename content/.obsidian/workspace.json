@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "388036b149ffd875",
+            "id": "d8b249663de117f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barbie.md",
+                "file": "9 tactics to build a stronger mind.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barbie.md",
+                "file": "9 tactics to build a stronger mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Barbie.md",
+                "file": "9 tactics to build a stronger mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barbie.md"
+                "file": "9 tactics to build a stronger mind.md"
               }
             }
           }
@@ -156,8 +155,13 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "388036b149ffd875",
+  "active": "d8b249663de117f3",
   "lastOpenFiles": [
+    "2022 in review, CERN, living alone.md",
+    "A Diary Is As Much For Others As It Is For You.md",
+    "Key to Writing Criminally Good Relationships.md",
+    "How to Control a Crowd.md",
+    "Barbie.md",
     "9 tactics to build a stronger mind.md",
     "templates/post.md",
     "_index.md",
@@ -176,14 +180,9 @@
     "What is Self-Realization - A Full Explanation and Walkthrough.md",
     "Kaitsevägi, ajateenistus.md",
     "Stutz - The Tools.md",
-    "Barbie.md",
     "Tightrope of Discipline.md",
-    "2022 in review, CERN, living alone.md",
     "The Future of 5up - Using 500 IQ to Find Purpose.md",
     "The Bear.md",
-    "Why sex, food, and shelter aren’t enough for Homo Sapiens.md",
-    "Outliers - extended families, better health outcomes.md",
-    "This is not who I am.md",
     "Untitled 1",
     "Untitled"
   ]
