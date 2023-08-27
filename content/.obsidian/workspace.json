@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fc9de47a4a0ccb8",
+            "id": "7fa58dc2176bbad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Good Life.md",
+                "file": "Home cafe - Kodukohvik.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Good Life.md",
+                "file": "Home cafe - Kodukohvik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Good Life.md",
+                "file": "Home cafe - Kodukohvik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Good Life.md"
+                "file": "Home cafe - Kodukohvik.md"
               }
             }
           }
@@ -155,10 +155,11 @@
       "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "4fc9de47a4a0ccb8",
+  "active": "7fa58dc2176bbad5",
   "lastOpenFiles": [
-    "Carl Jung.md",
     "The Good Life.md",
+    "Home cafe - Kodukohvik.md",
+    "Carl Jung.md",
     "Key to Writing Criminally Good Relationships.md",
     "Dr K's Guide - Anxiety.md",
     "9 tactics to build a stronger mind.md",
@@ -182,7 +183,6 @@
     "What is Self-Realization - A Full Explanation and Walkthrough.md",
     "Kaitsevägi, ajateenistus.md",
     "Stutz - The Tools.md",
-    "Tightrope of Discipline.md",
     "Untitled 1",
     "Untitled"
   ]
