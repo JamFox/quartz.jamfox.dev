@@ -1,6 +1,10 @@
-# How the World Thinks
+---
+title: How the World Thinks
+draft: false
+date: 2023-06-18
+---
 
-## 4 Logic
+## Logic
 
 > [!quote]
 > Logic is founded on the idea that reasoning should proceed by strict deductive steps, giving argument a kind of quasi-mathematical rigour.
@@ -9,7 +13,7 @@
 > Defenders of Western philosophy argue that its emphasis on logic has given it a unique robustness, while critics say it has trapped the Western mind in crude, inflexible, dichotomous either/or ways of thinking.
 
 > [!quote]
-> . An apory is ‘a group of contentions that are individually plausible but collectively inconsistent
+> An apory is ‘a group of contentions that are individually plausible but collectively inconsistent
 
 > [!quote]
 > You could then summarise the modus operandi of Western philosophy as an attempt to remove from the world as many breaches of the Law of Excluded Middle as possible, leaving us with a clear distinction between propositions that are true and others that are false.
@@ -26,7 +30,7 @@
 > [!quote]
 > By this logic, if ‘a son is sure to be produced as a result of performing the sacrifice’ but a son is not produced, it can only follow that the sacrifice was not performed correctly, however much it seems that it was performed properly. By such argument, the Nyāya Sūtra can safely conclude, ‘Therefore there is no untruth in the Veda.’
 
-## Introduction
+## Philosophical frameworks
 
 > [!quote]
 > understanding the philosophical framework of a people is like understanding the software their minds work on: ‘If you don’t know their software there will always be this gap in terms of understanding in conversation.
@@ -34,7 +38,7 @@
 > [!quote]
 > Most Americans and Europeans, for example, assert the value of individual freedom and liberty without any deep knowledge of how these concepts have been justified and explained by their philosophers. Millions of Indians live their lives according to principles of karma without an in-depth knowledge of the rich and complex literature articulating what precisely this involves. Ordinary Chinese assert the importance of harmony with little more than a cursory knowledge of the Confucian and Daoist texts that analyse and describe it. There is nonetheless a relationship between high scholarship and everyday living, which is why harmony, freedom and karma play
 
-## Prologue: A historical overview from the Axial to the Information Age
+## A historical overview from the Axial to the Information Age
 
 > [!quote]
 > In China, in the absence of a strong religious culture featuring gods or other-worldly heavens, the new philosophies were more naturalistic than those of India. Confucius (551–479 BCE) based his teachings on the cultural norms of order, respect for elders and tradition. The other major tradition, Daoism, valued harmony with nature above all else and its foundational text, the Daodejing, was written between the
@@ -60,7 +64,7 @@
 > [!quote]
 > Assuming a kind of unity is a prerequisite for any serious attempt at systematic understanding.
 
-## 1 Insight
+## Insight
 
 > [!quote]
 > In the hierarchy of sources of knowledge, the testimony (śabda) of the greatest seers (ṛṣis) usually trumps the perception (pratyakṣa) of even great minds, which in turn trumps the most impressive rational argument.
@@ -95,7 +99,7 @@
 > [!quote]
 > Insight without analysis and critique is just intuition taken on faith. But analysis without insight is empty intellectual game-playing.
 
-## 2 The ineffable
+## The ineffable
 
 > [!quote]
 > Meanings and judgments are an abstracted part of the original experience, and compared with the actual experiences they are meagre in content,
@@ -133,7 +137,7 @@
 > [!quote]
 > Extraordinary states may be more powerful than ordinary ones, but that is not evidence that they reveal truth better than ordinary ones. ‘Heightened’ experiences may simply be ones where our feet lose touch with the ground, not ones that take us closer to the heavens. The irony is that the attempt to go beyond experience to how things really are depends even more on the particularities of personal experience than ordinary knowledge of the everyday world, which can at least be corroborated by objective, third-party observations.
 
-## 3 Theology or philosophy?
+## Theology or philosophy?
 
 > [!quote]
 > However one resolves the dispute in Islamic philosophy, it is certainly true that in separating theology from philosophy the modern West is the global exception, not the rule.

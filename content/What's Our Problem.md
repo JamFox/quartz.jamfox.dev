@@ -1,6 +1,8 @@
-# What's Our Problem?
-
-## What's Our Problem?
+---
+title: What's Our Problem?
+draft: false
+date: 2023-06-18
+---
 
 > [!quote]
 > Everyone can do whatever they want, if they have the power to do so.
