@@ -1,3 +1,10 @@
+---
+title: Machiavelli
+draft: false
+date: 2023-08-10
+---
+
+
 From: [MACHIAVELLI: Be the Wolf Among Sheep](https://youtu.be/dYRJmzYSTag?si=tusI5TDUDL_JrVex) - Horses
 
 Machiavelli was also the antithesis of his writings, all of what is referenced here. Never rose to any significant position, was an outcast. What makes him significant is his courage to say out loud what others did not, influenced the thinking and philosophy of a lot people, the way he brought in to question things that were not - at least openly - questioned before, or even truths that we would not want to accept to this day.
