@@ -4,10 +4,7 @@ draft: false
 date: 2023-09-12
 ---
 
-From: [Understand People series playlist](https://www.youtube.com/playlist?list=PLUBU-DCzad1ZnN41dPSu7ShBnBFb-RdYs)
-
-By: [Jem Veda](https://www.youtube.com/@JemVeda)
-
+From: [Understand People series playlist](https://www.youtube.com/playlist?list=PLUBU-DCzad1ZnN41dPSu7ShBnBFb-RdYs) by  [Jem Veda](https://www.youtube.com/@JemVeda)
 ## Ego
 
 Ego is the self-concept each of us has made up, constructed arbitrarily.
@@ -142,3 +139,126 @@ Most commonly:
 - opinions of others
 - gossip
 - keeping busy, fomo
+
+## Self-Interest
+
+Everyone goes for what's best for them.
+
+Selfishness is taught to be bad, yet it is necessary to an extent. If you have no love and energy to give, then you *need* to focus on your self interest more.
+
+Each relationship should be two-way. One party can't only take or only give.
+
+Like the cycle of life according to Hinduism: first you depend, then you learn, use what you've learned for yourself, in the end you use what you've learned and experienced to give back. But first you have to learn and focus on yourself to even have something to give back.
+
+## Ego Defense Mechanisms
+
+Things we do to protect our egos and emotions:
+- Displacement - take negative event and project it to something less threatening
+- Regression - stress and anxiety lead to regressing to simpler times
+- Repression - push down and eliminate traumatic events
+- Projection - project thoughts, feelings and beliefs onto other people
+- Deflection - brush any attack or question related to pain points
+- Intellectualization - overuse logic and mental gymnastics to explain everything and dismiss emotion
+- Rationalization - twist and turn facts, opinions to fit their beliefs and actions after the fact
+- Sublimation - channeling negative emotions and thoughts to something positive, different
+- Denial - not come to terms with something that occurs, deny reality
+- Distortion - change things and events in the mind to defend the ego
+- Reaction-Formation - covering up true feelings, going roundabout to avoid directly acknowledging negative emotions
+- Compartmentalization - separate parts of life into different lives
+- Victim mentality - give away locus of control and turn responsibility off oneself
+
+## Self-Deception
+
+Self-deception is a process of denying or rationalizing away the relevance, significance, or importance of opposing evidence and logical argument. Self-deception involves convincing oneself of a truth so that one does not reveal any self-knowledge of the deception.
+
+"I'm fine" - it's okay to be not fine
+
+To avoid:
+- ask questions - In this moment am I deceiving myself? How did I deceive my self in that situation before?
+- feedback - Don't dismiss feedback from others, even subtle non direct way
+- tracking your actions - Raw facts, what have I really done, requires a lot of honesty
+
+## Neuroticism
+
+Defined as a tendency toward anxiety, depression, self-doubt, and other negative feelings. Susceptibility to negative emotions. Neurosis exists on a spectrum, everyone is on that spectrum. Persons with elevated neuroticism may respond poorly to stress, interpret ordinary as threatening, experience minor frustrations as hopelessly overwhelming.
+
+It can be described as dependence on outside factors to align with internal view of world.
+
+Important to notice our neuroticism to prevent it from distorting our view too much:
+- what sets you off and why?
+- what kind of comfort does your neurotic tendency bring?
+- when did a tendency begin?
+
+## Synchronicity
+
+When a group of people begins to think in one direction, their "thought/brain waves"
+superimpose over on another, and in the ocean of energy they create invisible but real energy-information structures - kind of like pendulums
+
+Show me your friends and I'll show you who you are. We are very heavily influenced by who we are around. We have to be mindful of who we want to be and surround ourselves with people that facilitate and accept that. Also covered in [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people) 
+
+## Social Games
+
+- Cherry picking - dropping in to get something specific, very transactional relationship
+- Fronting - faking a lifestyle, status, beliefs to gain something
+- Passive-Aggression - not stating things, using negative emotions under the surface / indirectly
+- Victimhood - play victim to gain sympathy and push responsibility
+- Reductionism - simplify or cut up problems too much, removing nuance
+- Indirection - avoiding the problem, pushing the elephant in the room forward to avoid discomfort
+- Downplaying - dismissing problems, emotions, opinions, situations
+- Humor - going around difficulties through humor, using that as a way to cope or to use as a crutch
+- Gaslighting - pushing responsibility for their actions onto others through manipulation, manipulating the worldview of others to fit their view instead
+- Self-serving bias - dismiss evidence that does not support their beliefs, ego
+- Framing - omitting information, changing focus to something instead of other things in the big picture
+
+## Trauma
+
+Trauma - challenging emotional consequences that living through a distressing event can have for an individual.
+
+Deepest trauma comes from the childhood as that is when we are the cleanest sheets and there is no ability to contextualize. After that all of what comes next is kind of piled on top. Except PTSD which might be even more serious and seriously disrupt life by recurring through triggers.
+
+Brain tries to protect you and is always looking for threats. And the brain takes past experiences and tries to avoid and protect you from them if they were negative.
+
+## Lying
+
+Reasons people lie:
+- gain a reward
+- protect personality, the ego
+- avoiding negative emotions
+- privacy
+- flattery
+- maintain previous lies
+- status and admiration
+- power, manipulation
+- bolster arguments
+- get attention
+- avoid awkwardness
+- avoid embarrassment
+- convenience
+- distorted beliefs
+- pleasure from the sake of lying
+- avoid negative feedback
+
+## Attachment Styles
+
+[[Key to Writing Criminally Good Relationships]]
+
+How caregivers act towards and meets child's needs forms the foundations for how the child perceives and acts within relationships. It's like an early template is formed for all future relationships.
+
+It's a matter of what and to what degree we find safe.
+
+Styles:
+- Secure - caregivers were reliable; comfort in expressing, secure in the wild so to speak, less or no fear of the unknown
+- Anxious / Fearful - caregivers weren't consistent; comes from unpredictability in childhood; results in constant fears, need for reassurance at every step, deem themselves as less worthy, fear of abandonment
+- Avoidant / Dismissive - lack of emotional or physical responsiveness; mistrust in others / environment, need to though it out on their own, high self reliance, overly value independence and fear interdependence, fear of disappointment and pain, hard to open up
+- Disorganized / Ambivalent - particularly tumultuous, unpredictable or neglecting; desire and fear in conflict, push and pull, want to feel the love but also maintain a distance
+
+To reform and redesign attachment:
+- Get comfortable being alone, truly alone, alone with thoughts and the self: hobbies, events, eating out, parties, bars etc
+- Study your anchors, what sets you off, what do you have strong reactions to?
+- Find your comfort zone and comfortable habits and analyze them, doubt them, hard to do as the ego really likes consistency
+- Don't let thought loops go unchecked, find feedback, open up
+- Give people time to show themselves, they might have really strong walls up, it takes time for people to show who they really are, this also helps rebuild the thought process of mistrust and assumptions
+- Disassociate from the past, the ego will want to hold on to the past as "it's what we are", yet it can prevent us from growing into what we want
+- Meditate - [[Dr K's Guide - Meditation]]
+- Reframing situations and events in the past, find new viewpoints
+- Self-awareness
