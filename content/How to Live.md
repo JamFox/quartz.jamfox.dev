@@ -3,7 +3,7 @@ title: How to Live
 draft: false
 date: 2023-09-26
 ---
-From by [Hack Your Brain With Elaborate Coping Mechanisms](https://www.youtube.com/watch?v=XUZ9VATeF_4)
+From and inspired by [Hack Your Brain With Elaborate Coping Mechanisms](https://www.youtube.com/watch?v=XUZ9VATeF_4)
 ## Declare bankruptcy on your memory 
 
 Your brain is for HAVING ideas, not STORING ideas. The sooner you realise this, the sooner you can build systems to easily replace this missing ability.
@@ -75,6 +75,12 @@ After all, you presumably don't feel overwhelmed by all the unread books in the 
 ## Just do a bit
 
 Cumulative change adds up. Doing little makes things seems manageable and easier. 
+
+## Do LESS
+
+There is an infinite amount of things to experience, do and create. You will be inclined to say yes to everything every time. Take a look at your calendar: what if you get sick? And yes, it allows you to double-triple-quadruple book events, but should you? Give slack.
+
+Find your limits, then commit to half of them. The other half will be filled by life itself anyway.
 
 ## humanize organize mechanize
 
