@@ -6,7 +6,7 @@ date: 2023-09-26
 From and inspired by [Hack Your Brain With Elaborate Coping Mechanisms](https://www.youtube.com/watch?v=XUZ9VATeF_4)
 ## Declare bankruptcy on your memory 
 
-Your brain is for HAVING ideas, not STORING ideas. The sooner you realise this, the sooner you can build systems to easily replace this missing ability.
+Your brain is for HAVING ideas, not STORING ideas. The sooner you realize this, the sooner you can build systems to easily replace this missing ability.
 
 1. Carry a notebook, use a post-it app for quick ideas and thoughts
 2. Calendars are GREAT, put events in there. Events are not tasks that have a due date - those things should go in a task management system.
@@ -14,11 +14,11 @@ Your brain is for HAVING ideas, not STORING ideas. The sooner you realise this, 
 
 ## Get Things Done
 
-Figure out a task managment system that works for you. David Allen's GTD, Trello or a notebook task system.
+Figure out a task management system that works for you. David Allen's GTD, Trello or a notebook task system.
 
 Make sure to make it possible filter tasks by what you can and can't do at a moment: task systems that don't do this filtering create more undue distractions.
 
-## Carry earplugs or noice cancelling head-/earphones
+## Carry earplugs or noise cancelling head-/earphones
 
 You only have one set of ears and cybernetics aren't that good or cheap yet. Plus it's nice to be able to switch off the world around you.
 
@@ -42,7 +42,7 @@ Tiny daily change adds up cumulatively over time. You won't see it at first.
 
 ## Public speaking is important
 
-At university you are going to realise public speaking is going to be 
+At university you are going to realize public speaking is going to be 
 1. a problem and 
 2. mandatory in the wider world
 
