@@ -6,6 +6,20 @@ date: 2023-07-01
 
 [Steno AI - #302 – Richard Haier: IQ Tests, Human Intelligence, and Group Differences - Transcripts](https://steno.ai/lex-fridman-podcast-10/302-richard-haier-iq-tests-human-intelligence-and-group)
 
+## Mõtteid
+
+Intelligentsus minu jaoks väga häguste piiridega osa isikust. Vana hea, et kui palju reduktsiooni saab selle defineerimisel kasutada enne kui see kasutuks muutub.
+AGA kui ma proovin intelligentsust kirjeldada, siis see on võime koguda, mõista, võrrelda (!), seostada (!) ja kasutada informatsiooni ja teadmisi. Informatsioon siis puhtad välised andmed ja meelte tulemused, teamised siis sisemiselt korrastatud, isiklikud tõed, arusaamised, seostatud ja internaliseeritud info sünteesid.
+Ja kuigi mainin info kogumist ja teadmiste sünteesi, siis tegelikult tunnetan, et intelligentsus on neist sõltuv ja mõjutatav (suurem info, kogemuste ja teadmiste hulk ju tegelikult muudab intelligentsuse kasutamise protsessi kiiremaks ja efektiivsemaks paremate/rohkemate seoste tõttu), kuid siiski erinev. Ka info ja teadmiste puudumisel eksisteerib intelligentsus, millega siis mõista, et infot ja/või teadmisi on puudu.
+G-factor, üldine intelligentsuse mõõt, samuti justkui toetab seda + minu teada IQ skoor on korrelatsioonis selliste asjadega nagu ajukoore paksus, mis on tugevasti seotud glükoosi ainevahetuse kiirusega ajus. Ehk suuresti on intelligentsus geenides, kehas, bioloogias kinni.
+Toon eraldi välja esikohale võrdluse komponendi, mis näib tähtsaima osana. Et intelligentsus on diskrimineeriv ja võrdlev olemuselt: mis on tähtis, mis on asja tuum, mis on asja kontrastsed tahtud, kust tulevad vastuolud asjale?
+Intelligentsust kirjeldab ka teatud eesmärgipärasus. Mulle näib, et see ei ole osa meist, mida kasutame selle enda pärast, vaid selleks, et jõuda mingi eesmärgi või vastuseni? Emotsioonid ja tunded justkui avalduvad iseenesest, ilma tahtliku eesmärgita, intelligentsus mitte - st suures pildis, siiski ka see näib hallides toonides loogilisem kui nii mustvalgelt.
+Ma isiklikult samastun väga Panchakosha teooriaga, mis kirjeldab inimest viies kihis, millest intelligentsuse komponent sisaldub Vijnanamaya koshas/kihis ja selles sisaldub intellektuaalne kiht, mõtted, analüüs, ego, intuitsioon, tarkus.
+Et minu arvates see kiht kirjeldab intelligentsust ja sellega tugevalt seotud komponente piisavalt hästi nii, et ei jää tunnet, nagu oleks see liialt palju redutseeritud/lihtsustatud/eraldiseisvaks väänatud.
+Teooria kohaselt kihi kultiveerimiseks saab meeli treenida, lugeda ja loetut analüüsida, uudishimu ergutamine uute asjade õppimise läbi jne.
+
+## Excerpts from podcast
+
 G-factor, the general intelligence measure. Probably the most stable, repeatable result in psychology.
 
 The way you find it is to give a battery of mental tests, what battery you choose, take a battery of any mental tests you want. Give it to a large number of diverse people. And you will be able to extract statistically the common the commonality among all those tests. It's done by a technique called factor analysis.
