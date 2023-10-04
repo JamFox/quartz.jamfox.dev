@@ -45,6 +45,9 @@ One day my prince shall arrive and all will be well!~
 
 In simple terms, man has self-awareness which by definition means that it perceives itself as separate from others, which creates the motivation to return to a sort of unity. I feel this is core foundation to a lot of religions that have taken this idea and reworded it in different ways.
 
+Ehk inimese eneseteadlikkusest tulenev teadmine tekitab igas inimeses põhiprobleemi, et ta on eraldiseisev isik ja eraldiseisvana on ta by definition üksi iseendaga. Põhiprobleem siis on leida leevendus või lahendus sellele üksikusele. Ja raamatu järgi see ongi meie kõigi peamine main quest.
+Tema lahendus on leida endas armastus enda, elu, teiste inimeste ja lähedaste vastu. Leida soov anda endast leitu ja väljendada seda. Aga ei saa anda ja väljendada, kui pole kedagi või midagi, mis võtaks vastu! Niisiis main quest on leida soov ennast anda ja siis leida kellele ja millele anda, kes selle vastu võtaksid. Ja ma tunnen, et see on see, millesse olen uskunud, aga pole osanud sõnadesse sellisel kujul panna.
+
 > Sexual attraction between the sexes is only partly motivated by the need for removal of tension; **it is mainly the need for union with the other sexual pole**.
 > But in many individuals in whom separateness is not relieved in other ways, the search for the sexual orgasm assumes a function which makes it not very different from alcoholism and drug addiction. It becomes a desperate attempt to escape the anxiety engendered by separateness, and it results in an ever-increasing sense of separateness, since the sexual act without love never bridges the gap between two human beings, except  momentarily.
 > Sexual desire, in this concept, is an itch, sexual satisfaction the removal of the itch. In fact, **as far as this concept of sexuality is concerned, masturbation would be the ideal sexual satisfaction**.
