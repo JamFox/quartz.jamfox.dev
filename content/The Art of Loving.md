@@ -170,6 +170,33 @@ In [Everything Is Television by Solar Sands](https://youtu.be/-BLAUhBl0nA?si=TEk
 
 > In the matriarchal aspect of religion, I love God as an all-embracing mother.
 
+> In all theistic religions, whether they are polytheistic or monotheistic, God stands for the highest value, the most desirable good. Hence, the specific meaning of God depends on what is the most desirable good for a person. The understanding of the concept of God must, therefore, start with an analysis of the character structure of the person who worships God.
+
+> In the beginning of human history man, though thrown out of the original unity with nature, still clings to these primary bonds. He finds his security by going back; or holding on to these primary bonds. He still feels identified with the world of animals and trees, and tries to find unity by remaining one with the natural world.
+
+> An animal is transformed into a totem; one wears animal masks in the most solemn religious acts, or in war; one worships an animal as God.
+
+> At a later stage of development, when human skill has developed to the point of artisan and artistic skill, when man is not dependent any more exclusively on the gifts of nature-the fruit he finds and the animal he kills-man transforms the product of his own hand into a god.
+
+> Man projects his own powers and skills into the things he makes, and thus in an alienated fashion worships his prowess, his possessions.
+
+> At a still later stage man gives his gods the form of human beings. It seems that this can happen only when he has become still more aware of himself, and when he has discovered man as the highest and most dignified "thing" in the world.
+
+> There can be little doubt that there was a matriarchal phase of religion preceding the patriarchal one, at least in many cultures. In the matriarchal phase, the highest being is the mother. She is the goddess, she is also the authority in family and society. In order to understand the essence of matriarchal religion, we have only to remember what has been said about the essence of motherly love. Mother's love is unconditional, it is all-protective, all-enveloping; because it is unconditional it can also not be controlled or acquired. Its presence gives the loved person a sense of bliss; its absence produces a sense of lostness and utter despair. Since mother loves her children because they are her children, and not because they are "good," obedient, or fulfill her wishes and commands, mother's love is based on equality. All men are equal, because they all are children of a mother, because they all are children of Mother Earth.
+
+> The next stage of human evolution, the only one of which we have thorough knowledge and do not need to rely on inferences and reconstruction, is the patriarchal phase.
+
+> The nature of fatherly love is that he makes demands, establishes principles and laws, and that his love for the son depends on the obedience of the latter to these demands.
+
+> As a consequence, patriarchal society is hierarchical; the equality of the brothers gives way to competition and mutual strife.
+
+> **The more I know what God is not, the more knowledge I have of God.**
+> **The truly religious person, if he follows the essence of the monotheistic idea, does not pray for anything, does not expect anything from God; he does not love God as a child loves his father or his mother; he has acquired the humility of sensing his limitations, to the degree of knowing that he knows nothing about God.**
+
+[[Bishop Robert Barron - Christianity and the Catholic Church (Lex Fridman Podcast)]]
+
+> Concept of God is only a historically conditioned one, in which man has expressed his experience of his higher powers, his longing for truth and for unity at a given historical period. But I believe also that the consequences of strict monotheism and a non-theistic ultimate concern with the spiritual reality are two views which, though different, need not fight each other.
+
 ## Love and Its Disintegration in Contemporary Western Society
 
 > Human relations are essentially those of alienated automatons, each basing his security on staying close to the herd, and not being different in thought, feeling or action. While everybody tries to be as close as possible to the rest, everybody remains utterly alone, pervaded by the deep sense of insecurity, anxiety and guilt which always results when human separateness cannot be overcome. Our civilization offers many palliatives which help people to be consciously unaware of this aloneness: first of all the strict routine of bureaucratized, mechanical work, which helps people to remain unaware of their most fundamental human desires, of the longing for transcendence and unity. Inasmuch as the routine alone does not succeed in this, man overcomes his unconscious despair by the routine of amusement, the passive consumption of sounds and sights offered by the amusement industry; furthermore by the satisfaction of buying ever new things, and soon exchanging them for others. **Modern man is actually close to the picture Huxley describes in his Brave New World.**
