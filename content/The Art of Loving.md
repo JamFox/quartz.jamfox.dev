@@ -152,6 +152,10 @@ In [Everything Is Television by Solar Sands](https://youtu.be/-BLAUhBl0nA?si=TEk
 
 > In contrast to both types of love is erotic love; it is the craving for complete fusion, for union with one other person. It is by its very nature exclusive and not universal; it is also perhaps the most deceptive form of love there is.
 
+> Taking these views into account one may arrive at the position that love is exclusively an act of will and commitment, and that therefore fundamentally it does not matter who the two persons are. Whether the marriage was arranged by others, or the result of individual choice, once the marriage is concluded, the act of will should guarantee the continuation of love. This view seems to neglect the paradoxical character of human nature and of erotic love. We are all One yet every one of us is a unique, unduplicable entity. In our relationships to others the same paradox is repeated. Inasmuch as we are all one, we can love everybody in the same way in the sense of brotherly love. But inasmuch as we are all also different, erotic love requires certain specific, highly individual elements which exist between some people but not between all. Both views then, that of erotic love as completely individual attraction, unique between two specific persons, as well as the other view that erotic love is nothing but an act of will, are true or, as it may be put more aptly, the truth is neither this nor that.
+
+Romantic love, as love in general, is paradoxical and non-dualistic. But there is an important part in finding people that accept your love. We posess the expression, the wish to give and we find those that accept what we give and express. They become our friends and romantic partners, in the truest sense. This is why I reject the idea that the people in our life are there primarily to fulfill some niche for us, they are there so that we can both give and take as equals.
+
 ## Self-Love
 
 > **Love, in principle, is indivisible as far as the connection between "objects" and one's own self is concerned.**
