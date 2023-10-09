@@ -116,7 +116,7 @@ Interesting thought, also explains a lot of religious thoughts on homosexuality.
 
 > While life in its merely biological aspects is a miracle and a secret, man in his human aspects is an unfathomable secret to himself-and to his fellow man. We know ourselves, and yet even with all the efforts we may make, we do not know ourselves. We know our fellow man, and yet we do not know him, because we are not a thing, and our fellow man is not a thing. The further we reach into the depth of our being, or someone else's being, the more the goal of knowledge eludes us. Yet we cannot help desiring to penetrate into the secret of man's soul, into the innermost nucleus which is "he."
 
-Also discussed in [A Diary Is As Much For Others As It Is For You](https://jamfox.dev/a-diary-is-as-much-for-you/):
+Also discussed in [A Diary Is As Much For Others As It Is For You](https://jamfox.dev/blog/a-diary-is-as-much-for-you/):
 In [Everything Is Television by Solar Sands](https://youtu.be/-BLAUhBl0nA?si=TEkVOlwzwNFgD2XK&t=1124) it is proposed that there are four levels of understanding:
 1. You understand that the person across from you has the capacity to think in the same way as you. You feel and think so you know they must feel and think. Both given the same information may come to the same conclusions.
 2. You understand that who you are trying to understand has different life experiences, so given the same information you will come to different conclusions because of that difference in experience.
