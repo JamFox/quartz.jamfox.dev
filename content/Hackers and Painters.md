@@ -10,4 +10,4 @@ Both morals and fashion trends are temporary, which is why nerds don’t care ab
 
 Hackers are more like painters than mathematicians. That is less described as scientists and more described as creatives.
 
-User feedback is the ultimate test of your programming skills, so get it as fast as possible.
+User feedback is the ultimate test of your programming skills, so get it as fast as possible ([[How to Start a Startup]]).

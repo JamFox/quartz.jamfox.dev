@@ -16,7 +16,7 @@ Rule for deciding who to hire: could you describe the person as an animal? It me
 
 In nearly every failed startup, the real problem was that customers didn't want the product.
 
-Raping prototyping and getting the product in front of customers/testers fast is essential.
+Rapid prototyping and getting the product in front of customers/testers fast is essential ([[The Iceberg Secret Revealed]]).
 
 It's worth trying very, very hard to make technology easy to use. Hackers are so used to computers that they have no idea how horrifying software seems to normal people. Stephen Hawking's editor told him that every equation he included in his book would cut sales in half. When you work on making technology easier to use, you're riding that curve up instead of down. A 10% improvement in ease of use doesn't just increase your sales 10%. It's more likely to double your sales.
 

@@ -30,7 +30,7 @@ Because half the time they DON'T, and it's not your responsibility to teach them
 ## Eat the frog
 
 Build a framework for your productivity.
-The first coping mechanism in this framework should be to eat the frog, which means to do the least pleasant or hardest task first. Don't let it loom over you while you do other easy things on your task list like laundry or shopping.
+The first coping mechanism in this framework should be to eat the frog, which means to do the least pleasant or hardest task first. Don't let it loom over you while you do other easy things on your task list like laundry or shopping. ([[Learn How To Learn]])
 
 Do the hardest thing first and feel as the weight rolls off your feathers.
 
