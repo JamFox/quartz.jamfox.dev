@@ -100,3 +100,5 @@ Find what you value, choose what you want to do and do it.
 ## Do not resist the flow of life, find your place in it
 
 Life is like a river we can't get out of. You either go with the flow, use the flow, and swim in the flow or you stay in place, frustrated, and eventually tire and break.
+
+Focus on action, not outcome ([[Dr K's Guide - Depression]]). Creating goals creates assumption which are essentially false realities, they may or may not align with the real flow of life. Focusing on action opens one up to the flow and its multiple possible outcomes and complexities.
