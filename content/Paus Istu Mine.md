@@ -26,7 +26,7 @@ Peavoolu kultuuris seonduvad liblikad peamiselt ilu, mitte ülevusega. Neid tät
 
 On ebaselge, kas see sümbol viitab noorte esinejate ilu kaduvusele või kasutatakse seda selle liigse, või _vägivaldse_ positiivsuse sümboolika kahtluse alla seadmiseks, nagu seda on raamatus _Topology of Violence_ (_Vägivalla topoloogia_) defineerinud filosoof Byung-Chul Han.
 
-Seos/sild raamatuga "Liblikapüüdja" / The Collector
+Seos/sild raamatuga "Liblikapüüdja" / The Collector ([[The Collector Liblikapüüdja]])
 
 Ekstreemne positiivsus materialiseerub mitte ainult inspireerivate tsitaatide kaudu, vaid sügavamalt ületootmise, liigse suhtlemise, hüpertähelepanu ja hüperaktiivsuse väärtustes tänapäeva kultuuris. 
 

@@ -96,3 +96,7 @@ Automate those patterns in a system, either by writing checklists, flowcharts or
 ## One thing at a time, most important thing first, start now
 
 Find what you value, choose what you want to do and do it.
+
+## Do not resist the flow of life, find your place in it
+
+Life is like a river we can't get out of. You either go with the flow, use the flow, and swim in the flow or you stay in place, frustrated, and eventually tire and break.
