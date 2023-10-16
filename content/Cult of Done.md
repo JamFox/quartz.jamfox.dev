@@ -7,7 +7,7 @@ date: 2023-09-26
 From: [The Cult of Done](https://www.youtube.com/watch?v=bJQj1uKtnus) by  [No Boilerplate](https://www.youtube.com/@NoBoilerplate)
 
 Three states of being (for any situation, work, art, draft, idea):
-1. Not knowing - unaware, ignorance, uncertainity and **curiosity**
+1. Not knowing - unaware, ignorance, uncertainty and **curiosity**
 2. Action - learn, explore, takes effort, struggle and **mistakes**
 3. Done - finished, problem solved, not knowing has been converted into knowledge or skill
 
@@ -19,7 +19,7 @@ Pretending you know what you're doing is almost the same as knowing what you are
 
 If you wait more than a week to get an idea done, abandon it. Not throw it away, mind you, but do something else.
 
-The point of being done is not to finish but to get other things done.
+The point of being done is not to finish but to get other things done ([[How to Live]]).
 
 Once you're done you can throw it away. "Art is not the art, art is never the art, art is inside you at the moment you're creating and inside the beholder of the creation."
 

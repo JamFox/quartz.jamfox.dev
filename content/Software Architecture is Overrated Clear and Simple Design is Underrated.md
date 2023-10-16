@@ -10,6 +10,8 @@ Software architecture is overrated, because trying to perfect the design and doc
 
 All diagrams and documentation should be as simple and as easily accessible as possible, so that even the least experienced can understand and get to it.
 
+Documentation should focus on *why* something was done, not only what was done.
+
 Always ask for and give new perspectives.
 
 In essence: focus on the primary task instead of using fancy software to perfect diagrams and whatnot. 

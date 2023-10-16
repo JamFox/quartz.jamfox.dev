@@ -6,6 +6,8 @@ date: 2023-10-16
 
 From: [How Religion Affects Your Mental Health](https://www.youtube.com/watch?v=sc3ycMvyuoo) by HealthyGamerGG
 
+This is aside from physical health (work out, walk more, go outside [[Stutz - The Tools]])
+
 Common factors for mental health:
 - Therapeutic alliance (find a trusted source) - someone you trust and talk to, a kind of consistent space for mental problems
 - Organizing framework (figure out how life works) - ways of organizing, labeling, turning thoughts into understanding; making sense of the world in individual ways

@@ -14,7 +14,7 @@ From: https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better
 - Do you have an up-to-date schedule?
 - Do you have a spec?
 - Do programmers have quiet working conditions?
-- Do you use the best tools money can buy?
+- Do you use the best tools money can buy? ([[Great Hackers]])
 - Do you have testers?
 - Do new candidates write code during their interview?
 - Do you do hallway usability testing?

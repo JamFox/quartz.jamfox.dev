@@ -12,6 +12,6 @@ This is but one example of what was dubbed the Law of Leaky Abstractions.
 
 All non-trivial abstractions, to some degree, are leaky.
 
-"Learn how to do it manually first, then use the wizzy tool to save time."
+"Learn how to do it manually first, then use the wizzy tool to save time." (humanize, mechanize, automate from [[How to Live]])
 
 So the abstractions save us time working, but they don't save us time learning.

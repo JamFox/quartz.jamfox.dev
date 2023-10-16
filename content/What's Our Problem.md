@@ -3,6 +3,7 @@ title: What's Our Problem?
 draft: false
 date: 2023-06-18
 ---
+Some links to [[How the World Thinks]].
 
 > Everyone can do whatever they want, if they have the power to do so.
 
@@ -76,6 +77,6 @@ date: 2023-06-18
 
 > Philosophers and scientists have been grappling with the "multiple minds" idea for millennia. Plato wrote about a "charioteer" (intellect) that managed the "horses" of rational modesty and passionate insolence. Sigmund Freud's structure consisted of the "id" (primitive instinct), the "superego" (the conscience), and the "ego" that balances the two with external reality. More recently, social psychologist Daniel Kahneman wrote about "System 1" (fast, involuntary thinking) and "System 2" (slow, complex thinking that requires effort). Social psychologist Jonathan Haidt wrote about the emotional "elephant" and its rational "rider" which appears to be in control but often is not. Harvard's Todd Rogers and Max H. Bazerman wrote about the conflict between the "want self" and the "should self." Others analyze specific brain structures, distinguishing between the more rational thinking of the prefrontal cortex and the more primitive workings of the limbic system.
 
-> For most beliefs, we're so concerned with where people stand that we often forget the most important thing about what someone thinks: how they arrived at what they think. This is where the Ladder can help. If the Idea Spectrum is a "what you think" axis, we can use the Ladder as a "how you think" axis.
+> For most beliefs, we're so concerned with where people stand that we often forget the most important thing about what someone thinks: how they arrived at what they think. This is where the Ladder can help. If the Idea Spectrum is a "what you think" axis, we can use the Ladder as a "how you think" axis. 
 
 > If you put individuals together in the right way, such that some individuals can use their reasoning powers to disconfirm the claims of others … you can create a group that ends up producing good reasoning as an emergent property of the social system.

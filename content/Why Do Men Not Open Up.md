@@ -23,7 +23,7 @@ Inside Out is true only for girls. If a boy had been on a tree branch, crying be
 
 There is no socially-acceptable outlet for any of it, so we just have to tank the damage and bottle it up until we break.
 
-Men in this society are valued for capability, reliability and durability. Anything that threatens their productivity, or could render them a liability rather than an asset in any given situation... makes them widely considered to be worthless.
+Men in this society are valued for capability, reliability and durability. Anything that threatens their productivity, or could render them a liability rather than an asset in any given situation... makes them widely considered to be worthless ([[Barbie]] and [[Has the sexual revolution backfired]]).
 
 It sucks absolute donkey balls, it's profoundly destructive, and it shouldn't be this way, but it is. 
 And on top of that, guys get told they're not being intimate enough if they don't 'open up', so they have to carefully craft a second mask, over the top of the first one, simulating just a little tiny but of emotional leakage, but not enough to threaten their perceived usefulness.
