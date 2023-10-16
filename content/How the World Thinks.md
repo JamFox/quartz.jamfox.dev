@@ -47,7 +47,15 @@ date: 2023-10-03
 
 > Our reasoning is not deductive, by incontrovertible steps from premise to conclusion, but inductive, from past experience to general cases.
 
-> An apory is 'a group of contentions that are individually plausible but collectively inconsistent
+> The East has tended to stress the extent to which attempts to understand things in terms of exclusive either/or categories often fail, while the West has stressed the progress that can be made when we bring out contradictions in our common-sense ways of thinking and replace them with new distinctions that preserve logical consistency. Nicholas Rescher describes this as the 'aporetic' nature of philosophy. An apory is 'a group of contentions that are individually plausible but collectively inconsistent'. Philosophy exists because our pre-philosophical understanding of the world constantly generates such apories. In ethics, for example, the principle of impartiality seems compelling, but so does the apparent duty to put our families first. These two principles are 'individually plausible but collectively inconsistent'. In epistemology, it seems that we have knowledge and that knowledge implies certainty, but when we look for the grounds of our certainty there don't seem to be any. Again, it seems plausible both that we have knowledge and that we have none, and both can't be true. As a final example, take the apparent existence of free will and the belief that everything in nature operates according to strict laws of cause and effect. The claim that we both have free will and can't have it seems plausible, and only one can be right.
+>
+>When faced with an apory, we could just throw up our hands and say it's beyond our comprehension. Western philosophy is based on the conviction that this is defeatist. We can't be sure that we will be able to resolve the apory, and indeed many of the problems of philosophy that persist have stubbornly resisted solution for millennia. But we have to try. Even if we can't entirely remove the contradiction, we might at least understand it more clearly or dissolve parts of it.
+>
+>You could then summarise the modus operandi of Western philosophy as an attempt to remove from the world as many breaches of the Law of Excluded Middle as possible, leaving us with a clear distinction between propositions that are true and others that are false. This is the truth in the claim that Western philosophy is 'binary' or 'dichotomous', based on 'either/or' rather than 'both/and' thinking. It's a way of thinking that has clearly permeated the culture and is particularly evident in many political structures. Elites have been educated to be fierce debaters, adopting clear for and against positions, skilled at exposing flaws in opponents' arguments. As a result, parliaments are organised rather like university debating chambers, with laws debated as though they were motions and decisions reached by majority vote.
+>
+>To Westerners, this seems so natural that it is hard to imagine alternatives, especially since the Western model has now been adopted by so many other countries. But whatever its philosophical merits, it is an approach that has several disadvantages. An antagonistic spirit of inquiry is antithetical to cooperation, compromise and seeking common ground. It is also more focused on winning arguments than achieving the best outcome. This dynamic can be seen in all corners of the culture, often with negative consequences. For instance, as a legal process, divorce has tended to be even more antagonistic than it needs to be because it is conducted in adversarial terms, where one of the partnership must sue for divorce and attribute blame. Only relatively recently has the idea of 'no fault' divorce, with mediation rather than litigation, become popular.
+>
+> The dichotomous mindset is also implicated in recent political problems. In Britain, America and several other countries we are seeing a new polarisation, with liberal, largely urban cosmopolitans pitted against conservative communitarians in smaller towns and villages. Such divisions were most evident in the US presidential election contest between Hillary Clinton and Donald Trump and in the referendum on EU membership in the UK, both in 2016. In each case the margin of victory was tiny but it is the nature of plebiscites with only two choices that all is given to the majority and nothing to the minority, even though they were very close to equal in size. The votes exposed the limitations of a dualistic culture which allows for only true or false, winner and loser.
 
 ## Secular reason
 
@@ -65,15 +73,16 @@ date: 2023-10-03
 
 > The past is vividly present to the Chinese in a way that is astonishing to foreigners. Although it is probably not true that the Chinese premier Zhou Enlai told Richard Nixon in 1972 that it was 'too early to say' what the impact of the 1789 French Revolution was, the story stuck because it accurately reflected something about China's long view of history.
 
-## Conclusion
+## Metaphysics
 
-> As we have seen, the Buddha, like Confucius, was explicitly not concerned with ultimate questions of metaphysics, reflecting a fault line that runs through the world's philosophical traditions. David Hall and Roger Ames describe this as the difference between 'truth-seekers' and 'way-seekers'. Western philosophy is characteristically truth-seeking. It seeks to describe the basic structure of reality, logic, language, the mind. One example of this is the Western emphasis on science for science's sake. For truth-seekers, disinterested learning is the best kind, while for way-seekers to be disinterested is as nonsensical as driving a car
+> As we have seen, the Buddha, like Confucius, was explicitly not concerned with ultimate questions of metaphysics, reflecting a fault line that runs through the world's philosophical traditions. David Hall and Roger Ames describe this as the difference between 'truth-seekers' and 'way-seekers'. Western philosophy is characteristically truth-seeking. It seeks to describe the basic structure of reality, logic, language, the mind. One example of this is the Western emphasis on science for science's sake. For truth-seekers, disinterested learning is the best kind, while for way-seekers to be disinterested is as nonsensical as driving a car without caring where you end up.
 
-> Philosophy in the West has always aspired to be more of a science: rigorous, precise, describing reality as it is. In the East it is
+> Philosophy in the West has always aspired to be more of a science: rigorous, precise, describing reality as it is. In the East it is more of an art of living.
 
 ## Time
 
-> His indigenous friends talk less of time or place independently but more of located events. The key temporal question is not 'When did this happen?' but 'How is this related to other
+> His indigenous friends talk less of time or place independently but more of located events. The key temporal question is not 'When did this happen?' but 'How is this related to other events?''
+> That word 'related' is important. Time and space have become theoretical abstractions in modern physics, but in human culture they are concrete realities. Nothing exists purely as a point on a map or a moment in time: everything stands in relation to everything else. So to understand time and space in oral philosophical traditions we have to see them less as abstract concepts in metaphysical theories and more as living conceptions, part and parcel of a broader way of understanding the world, one that is rooted in relatedness. Hirini Kaa says that 'the key underpinning of Māori thought is kinship, the connectedness between humanity, between one another, between the natural environment'. He sees this as a form of spirituality. 'The ocean wasn't just water, it wasn't something for us to be afraid of or to utilise as a commodity, but became an ancestor deity, Tangaroa. Every living thing has a life force.'
 
 > In Chinese thought, wisdom and truth are timeless, and we don't need to go forward to learn, only to hold on to what we already have. As the nineteenth-century Scottish sinologist James Legge put it, Confucius did not think his purpose was 'to announce any new truths, or to initiate any new economy. It was to prevent what had previously been known from being lost.
 
@@ -85,7 +94,7 @@ date: 2023-10-03
 
 > Any romantic notion that this is a simpler way of life that the 'spiritual' Indians enjoy living is contradicted by the endless posters and billboard adverts for schools, many emphasising maths and preparation for jobs in banks and teaching. There is a widespread aspiration for a more materially comfortable life for the next generation.
 
-> Belief in karma is very deeply rooted in India, but we can perhaps expect it to lose some of its fatalistic edge as people embrace Western ideas about the possibility of fulfilling
+> Belief in _karma_ is very deeply rooted in India, but we can perhaps expect it to lose some of its fatalistic edge as people embrace Western ideas about the possibility of fulfilling individual potential in this world, not the next.
 
 ## Emptiness
 
@@ -103,39 +112,37 @@ date: 2023-10-03
 
 > Chinese thought is therefore not typically naturalistic in the Western sense of the word. Rather, it does not distinguish between the natural and the supernatural and is focused on the needs of humans here and now.
 
-> There is no distinction here between the natural and the artificial because
+> 'Nature is not a paradise,' says Kobayashi, as it is for occidental romantics. 'We have no idea of paradise. Nature may be bad, may be disturbing, violent, like tsunamis, like volcanoes.' Japan has around 1,500 earthquakes every year. Showing respect and gratitude to nature is in part a way of trying to ensure it doesn't disturb us too much. It also means that what in the West is often disparagingly called trying to 'tame' nature is no more than good sense. Of course nature has to be tamed. This isn't a battle between humanity and nature, though, but a struggle for humanity within nature. We don't do things to nature, from the outside, but with nature, from the inside. As Kasulis explains it, 'If we join Shintō in considering human beings as part of nature instead of separate from it, even human inventiveness can be natural.' A tatami mat, for example, 'is not natural in that it is not found in nature […] yet much of the sensory experience of straw remains.' There is no distinction here between the natural and the artificial because everything is a part of nature.
 
-> Think of a top tennis player in action. It is not possible to react quickly enough and choose the right shot by thinking things through rationally and consciously. Rather, through years of effort and practice, the goal is to intuitively sense where to be and how to hit the ball. Looking with your qi, you become so sensitive to the dynamics of the situation that you can tune in and harmonise perfectly.
+> Think of a top tennis player in action. It is not possible to react quickly enough and choose the right shot by thinking things through rationally and consciously. Rather, through years of effort and practice, the goal is to intuitively sense where to be and how to hit the ball. Looking with your *qi*, you become so sensitive to the dynamics of the situation that you can tune in and harmonise perfectly.
 
-> Too often, living for today becomes a shallow pursuit of fleeting pleasure that always leaves us starting each day empty, needing another 'experience'. We are constantly dissatisfied, forever grasping at moments that elude us. Instead, we need to learn to savour without grasping, to caress the moment rather than to grab it. If we look east, we might find models for living as mortals in a natural world from cultures that have been doing just that for
+> Too often, living for today becomes a shallow pursuit of fleeting pleasure that always leaves us starting each day empty, needing another 'experience'. We are constantly dissatisfied, forever grasping at moments that elude us. Instead, we need to learn to savour without grasping, to caress the moment rather than to grab it. If we look east, we might find models for living as mortals in a natural world from cultures that have been doing just that for millenia.
 
 > Dualistic thinking is a hard habit to break, but if it is ditched distinctions assumed fundamental disappear. Take away the mind/body distinction and you also take away the interior/exterior distinction, because there is no matter for the immaterial mind to be housed in. Muecke told me that in indigenous Australia, 'Nobody's interested in what goes on in the mind, because the mind may not even be a concept. Any notion of psychological interiority or souls is not part of their vision. Everything is exterior, that's what matters.
 
-> Where the West tends to contrast natural with 'human-made', in China humanity does not stand apart from nature but is fully part of it, albeit a tiny part dwarfed by
+> Where the West tends to contrast natural with 'human-made', in China humanity does not stand apart from nature but is fully part of it, albeit a tiny part dwarfed by mountains and forests.
 
-> To see the world in terms of qi is not to commit yourself to beliefs about the fundamental forces or building blocks of reality but to see the world in terms of its dynamic interrelations. For instance, Wang says that 'In art, the movement of qi is what weaves together the painter, the painting, and the viewer into a single unified experience.'
+> To see the world in terms of *qi* is not to commit yourself to beliefs about the fundamental forces or building blocks of reality but to see the world in terms of its dynamic interrelations. For instance, Wang says that 'In art, the movement of *qi* is what weaves together the painter, the painting, and the viewer into a single unified experience.'
 
-> . It also means that what in the West is often disparagingly called trying to 'tame' nature is no more than good sense. Of course nature has to be tamed. This isn't a battle between humanity and nature, though, but a struggle for humanity within nature. We don't do things to nature, from the outside, but with nature, from the inside.
+> At least since the time of Confucius, in China there has been no God or focus on the afterlife. 'For the Chinese, philosophy takes the place of religion'
 
-> At least since the time of Confucius, in China there has been no God or focus on the afterlife. 'For the Chinese, philosophy takes the place of religion,
+> For example, _tian_ needs to be respected and if you offend it you will be punished. This is not the indifferent nature of Western science, but nor is it the purposeful, conscious will of Western theistic religion. _Tian_ is a fundamentally natural force but has a moral dimension.
 
-> For example, tian needs to be respected and if you offend it you will be punished. This is not the indifferent nature of Western science, but nor is it the purposeful, conscious will of Western theistic religion. Tian is a fundamentally natural force but has a moral
+> Cosmogonic traditions tend 'to be driven initially by the question "What is there (really)?"' while 'Chinese philosophy tends to ask "What should be done?"'
 
-> Cosmogonic traditions tend 'to be driven initially by the question "What is there (really)?"' while 'Chinese philosophy tends to ask "What should be done?"'18
-
-## 13 Unity
+## Unity
 
 > When reformists like Ramadan call for 'Islamic renewal' and 'an intellectual and psychological revolution', they are not calling for Islam to conform to secular ideals. Islamic modernity is a particular vision of Islamic principles at their best, a 'rediscovery of the way', not the taking of an alternative path.
 
 > Similarly, the concept of dharma, which concerns a harmony between the cosmic order and your own personal duty, draws on an assumption of fundamental unity. Dharma refers to the cosmic order as a whole (ṛta) but also to the duties of the individual. Right action is therefore that which upholds the fundamental unity and oneness of the whole.
 
-> Of course Islam accepts that there are many facts about the world that were not known at the time of Muḥammad and many more still to be discovered. But these new facts are in an important sense mere details. The growth of knowledge is like colouring in and embellishing a canvas rather than expanding the picture. The Qur'ān expresses a complete world view and nothing that comes after it can alter those
+> Of course Islam accepts that there are many facts about the world that were not known at the time of Muḥammad and many more still to be discovered. But these new facts are in an important sense mere details. The growth of knowledge is like colouring in and embellishing a canvas rather than expanding the picture. The Qur'ān expresses a complete world view and nothing that comes after it can alter those fundamentals.
 
 ## Reductionism
 
 > It has been said that everything good, but more usually bad, about Western culture can be found at a McDonald's. When people complain of Western cultural colonialism, they point to the globally ubiquitous golden arches. When people talk of poorly paid, menial work, they talk of 'McJobs'. When health campaigners lament the poor Western diet, a Big Mac and fries is Exhibit A.
 
-> Credible research even suggests the same amount of saturated fat from a diary source might have a different effect on cholesterol depending on whether it comes from cheese or cream. The reductionist response is that we must reduce further, to be more specific in what we analyse. While there may be some truth in this, it seems certain that without looking at the context in which food is ingested, including the specific features of the individual eater, the reductionist picture will always be incomplete at best and misleading at
+> Credible research even suggests the same amount of saturated fat from a diary source might have a different effect on cholesterol depending on whether it comes from cheese or cream. The reductionist response is that we must reduce further, to be more specific in what we analyse. While there may be some truth in this, it seems certain that without looking at the context in which food is ingested, including the specific features of the individual eater, the reductionist picture will always be incomplete at best and misleading at worst.
 
 > Behind this information is a deep philosophical assumption that has informed Western ways of thinking for centuries: reductionism. This is the idea that the best way to understand anything is to break it down into its constituent parts, emphasising these over wholes.
 
@@ -143,59 +150,59 @@ date: 2023-10-03
 
 ## Conclusion
 
-> Although Kant said that 'the time for the collapse of all dogmatic metaphysics is undoubtedly here' he was right to add, 'There will always be metaphysics in the world, and what is more, in every human being, and especially the
+> Although Kant said that 'the time for the collapse of all dogmatic metaphysics is undoubtedly here' he was right to add, 'There will always be metaphysics in the world, and what is more, in every human being, and especially the reflective ones.'
 
 ## No-self
 
 > In Buddhism, one of the purposes of meditation is to attend carefully to the nature of your consciousness so as to see that there is no abiding self, merely thoughts and feelings that arise and fade.
 
-> Observe yourself, your own consciousness. What do you find? A thought here, a sensation there, a catchy tune that you can't get out of your head, a desire for some of that cake you can see out of the corner of your eye and so on. What you observe are particular thoughts, perceptions and sensations. 'I never catch my self, distinct from some such perception,'
+> Observe yourself, your own consciousness. What do you find? A thought here, a sensation there, a catchy tune that you can't get out of your head, a desire for some of that cake you can see out of the corner of your eye and so on. What you observe are particular thoughts, perceptions and sensations. 'I never catch my self, distinct from some such perception.'
 
 ## The relational self
 
-> 'In the Western tradition individuality is part of your relationship between you and God,' he said. This is a point which has often been made by Christians who argue that supposedly secular enlightenment values are in fact deeply rooted in religion. Individualism starts with Christianity, which stressed personal salvation, the individual's relationship with God, the fact that God cares for each one of us. For the Chinese, the sacred is found in society and your peer group, says Xu. That's what defines Chinese individuality and also in a sense its religiosity. Religion is usually thought of as a set of creeds, but perhaps more fundamentally it is a source of transcendence: something which takes us beyond our mundane lives and allows us to partake of something greater. Westerners transcend themselves through belief in a God; transcendence for the Chinese comes from wider society, the
+> 'In the Western tradition individuality is part of your relationship between you and God,' he said. This is a point which has often been made by Christians who argue that supposedly secular enlightenment values are in fact deeply rooted in religion. Individualism starts with Christianity, which stressed personal salvation, the individual's relationship with God, the fact that God cares for each one of us. For the Chinese, the sacred is found in society and your peer group, says Xu. That's what defines Chinese individuality and also in a sense its religiosity. Religion is usually thought of as a set of creeds, but perhaps more fundamentally it is a source of transcendence: something which takes us beyond our mundane lives and allows us to partake of something greater. Westerners transcend themselves through belief in a God; transcendence for the Chinese comes from wider society, the group.
 
 > The nature of any individual is determined by how that individual stands in relation to others. Take away those relations and you are left not with a self stripped down to its essence, but a self stripped of its essence.
 
-> When she got to know them, however, she found they were much more diverse than most Westerners, who went to great lengths to express their individuality but were all remarkably similar
+> When she got to know them, however, she found they were much more diverse than most Westerners, who went to great lengths to express their individuality but were all remarkably similar in their tastes, political views, even shopping habits.
 
-> Westerners do seem to appreciate this, but in a lopsided way: families feel pride in the achievements of their members, sharing the glory,
+> Westerners do seem to appreciate this, but in a lopsided way: families feel pride in the achievements of their members, sharing the glory, but rarely take any responsibility for their failures.
 
 ## The atomised self
 
-> His famous slogan 'Existence precedes essence' captures the idea that human beings are born into the world without any unchanging core of being and we must create our own identities for ourselves.5 Yet this denial of essence if anything puts even more focus on the individual than the Cogito ergo sum (I think, therefore I am) doctrine it replaces. Value, meaning, purpose, identity - all are determined by
+> His famous slogan 'Existence precedes essence' captures the idea that human beings are born into the world without any unchanging core of being and we must create our own identities for ourselves.5 Yet this denial of essence if anything puts even more focus on the individual than the Cogito ergo sum (I think, therefore I am) doctrine it replaces. Value, meaning, purpose, identity - all are determined by individuals for themselves.
 
-> This view of the soul - 'uniform', 'indissoluble', 'immortal', 'divine' - arguably shaped the Western conception of self for the millennia that followed. Its impact is most striking on Christianity. It was no mere detail that Christ's resurrection was a bodily one. Jesus's soul didn't ascend to heaven; he did, body and all. The idea that the soul was separate from the body was a later Platonic corruption of original Christian thinking but one
+> This view of the soul - 'uniform', 'indissoluble', 'immortal', 'divine' - arguably shaped the Western conception of self for the millennia that followed. Its impact is most striking on Christianity. It was no mere detail that Christ's resurrection was a bodily one. Jesus's soul didn't ascend to heaven; he did, body and all. The idea that the soul was separate from the body was a later Platonic corruption of original Christian thinking but one which had a profound influence.
 
 > Much of the rise of populism and nationalism in the West is a backlash against the gradual erosion of belonging.
 
-> Individuality is not opposed to intimacy. We are who we are because of our relations to others. We do not subsume our identities into the whole, but rather express our identities by finding our own place in that whole. The individual needs the group, autonomy needs
+> Individuality is not opposed to intimacy. We are who we are because of our relations to others. We do not subsume our identities into the whole, but rather express our identities by finding our own place in that whole. The individual needs the group, autonomy needs belonging.
 
 ## Harmony
 
 > Confucian virtue ethics places great importance on the moral exemplar over enforcing laws. It is not that Confucians don't see laws as important. Mencius approved of the old saying, 'Virtue alone is not sufficient for the exercise of government; laws alone cannot carry themselves into practice.'76 There has to be a balance of law and virtue, and if a law has to be enforced it already shows that harmony has broken down.
 
-> In this analysis, social inequality is the result of environmental degradation caused by social disharmonies. For example, when water supply is good, everyone gets a decent share, but water shortages create tensions between those who can afford to buy in supplies and those who can't. This suggests that harmony promotes equality rather than that equality promotes harmony, or at least that harmony is a prerequisite for equality and that trying to achieve greater equality in the absence of harmony is going to be a difficult, if not impossible,
+> In this analysis, social inequality is the result of environmental degradation caused by social disharmonies. For example, when water supply is good, everyone gets a decent share, but water shortages create tensions between those who can afford to buy in supplies and those who can't. This suggests that harmony promotes equality rather than that equality promotes harmony, or at least that harmony is a prerequisite for equality and that trying to achieve greater equality in the absence of harmony is going to be a difficult, if not impossible, task.
 
-> This is difficult, because on the face of it yinyang is full of binary distinctions. Wang lists at least thirty-five pairs of opposites in the Daodejing, such as beautiful/ugly, good/not good, presence/non-presence, difficult/easy.58 And yet she insists that 'the distinction of oppositions like yin and yang is not a matter of seeing reality through a dualistic or atomistic lens'. The very word for 'things' in Chinese, wu, does not mean 'entities in isolation', says Wang. Wu are better seen as 'phenomena, events, and even histories' which have stages and 'are always becoming'.59 In Chinese thought, the principle is not so much 'the whole is greater than the sum of its parts' as 'parts become less when artificially isolated from the wholes to which they belong'. When a thing is only what it is when it is in relation to others, no items in any list of pairs can
+> This is difficult, because on the face of it _yinyang_ is full of binary distinctions. Wang lists at least thirty-five pairs of opposites in the _Daodejing_, such as beautiful/ugly, good/not good, presence/non-presence, difficult/easy. And yet she insists that 'the distinction of oppositions like _yin_ and _yang_ is not a matter of seeing reality through a dualistic or atomistic lens'. The very word for 'things' in Chinese, _wu_, does not mean 'entities in isolation', says Wang. _Wu_ are better seen as 'phenomena, events, and even histories' which have stages and 'are always becoming'. In Chinese thought, the principle is not so much 'the whole is greater than the sum of its parts' as 'parts become less when artificially isolated from the wholes to which they belong'. When a thing is only what it is when it is in relation to others, no items in any list of pairs can be seen as mutually exclusive or discrete.
 
-> Rules are readily discarded if they are seen to create more problems than they solve. As Pieter Boele van Hensbroek explains, 'Why are you going to apply some general principle when you see with your eyes that the practical result is creating animosity? So then they would say maybe the principle can be a bit less a principle and we're going to bend and work with this to come to a kind of settlement.' For traditions that value the rule of law, this looks like compromising justice. But bending of the rules in Africa is often rooted in commitment to a deep
+> Rules are readily discarded if they are seen to create more problems than they solve. As Pieter Boele van Hensbroek explains, 'Why are you going to apply some general principle when you see with your eyes that the practical result is creating animosity? So then they would say maybe the principle can be a bit less a principle and we're going to bend and work with this to come to a kind of settlement.' For traditions that value the rule of law, this looks like compromising justice. But bending of the rules in Africa is often rooted in commitment to a deep moral principle and is not always corruption.
 
-> Even in Daosim, which exalts the natural state, the Daodejing says, 'In government, the good lies in orderliness.'80 The Daoists take the idea of the natural flow of harmony even further, suggesting that when government is working at its best, it does as little as possible: 'The more dull and depressed the government, the more honest and agreeable the people. The more active and searching the government, the more deformed and deficient the people.'81 In a metaphor that would delight modern-day libertarians, the Daodejing says, 'Ruling a great state is like cooking a small fish.'82 In other words, the more you meddle, the more it
+> Even in Daosim, which exalts the natural state, the _Daodejing_ says, 'In government, the good lies in orderliness.' The Daoists take the idea of the natural flow of harmony even further, suggesting that when government is working at its best, it does as little as possible: 'The more dull and depressed the government, the more honest and agreeable the people. The more active and searching the government, the more deformed and deficient the people.' In a metaphor that would delight modern-day libertarians, the _Daodejing_ says, 'Ruling a great state is like cooking a small fish.' In other words, the more you meddle, the more it falls apart.
 
-> Clear laws make everything work well: 'When handing out rewards, it is best to make them substantial and dependable, so that the people will prize them; when assigning penalties, it is best to make them heavy and inescapable, so that the people will fear them; when framing laws, it is best to make them unequivocal and fixed, so that the
+> Clear laws make everything work well: 'When handing out rewards, it is best to make them substantial and dependable, so that the people will prize them; when assigning penalties, it is best to make them heavy and inescapable, so that the people will fear them; when framing laws, it is best to make them unequivocal and fixed, so that the people will understand them.'
 
 ## Virtue
 
-> once practice has been embedded, good actions become almost automatic. 'The great man does not think beforehand of his words that they may be sincere, nor of his actions that they may be resolute; - he simply speaks and does what
+> _Li_ fits neatly with the Aristotelian ideal of _hexis_ or habit. In both Confucius and Aristotle, by repeatedly doing the right things one becomes a more virtuous person. 'Wear the clothes of Yâo, repeat the words of Yâo, and do the actions of Yâo, and you will just be a Yâo,' writes Mencius. As with Aristotle, once practice has been embedded, good actions become almost automatic. 'The great man does not think beforehand of his words that they may be sincere, nor of his actions that they may be resolute; - he simply speaks and does what is right.'
 
 > So we should talk not of 'moral virtue' but of 'ethical excellence', the kinds of habits and dispositions that enable us to live well.
 
 > Virtue ethics can never result in rigid rules because the good person cultivates the wisdom and sensitivity to judge each case on its merits.
 
-> The Zen master Dōgen found the biblical imperative 'Thou shalt not kill' inadequate as it sets out an imperative to obey. The objective, however, is to become the kind of person who is simply no longer capable of killing. This transforms the order 'Thou shalt not kill' into a description, 'You are such a person that you will not kill.'80
+> The Zen master Dōgen found the biblical imperative 'Thou shalt not kill' inadequate as it sets out an imperative to obey. The objective, however, is to become the kind of person who is simply no longer capable of killing. This transforms the order 'Thou shalt not kill' into a description, 'You are such a person that you will not kill.'
 
-> Doctrine of the Mean. Aristotle defines the mean as the virtue which stands 'between two vices, that which depends on excess and that which depends on defect'. So generosity is the mean that falls between the excess of profligacy and the deficiency of meanness. Bravery is the mean between the deficiency of cowardice and the excess of rashness. 'Vices respectively fall short of or exceed what is right in both passions and actions, while virtue both
+> Doctrine of the Mean. Aristotle defines the mean as the virtue which stands 'between two vices, that which depends on excess and that which depends on defect'. So generosity is the mean that falls between the excess of profligacy and the deficiency of meanness. Bravery is the mean between the deficiency of cowardice and the excess of rashness. 'Vices respectively fall short of or exceed what is right in both passions and actions, while virtue both finds and chooses that which is intermediate.'
 
 > Because virtue is a matter of having the right habits and dispositions (hexis), it must be cultivated and nurtured by right actions.
 
@@ -215,19 +222,19 @@ date: 2023-10-03
 
 > But even in these traditions, it is more important to really feel what emptiness, impermanence or nothingness means than to define it or analyse it conceptually. As a merely abstract idea, it is almost useless. Anyone can intellectually understand that everything passes. But for this idea to affect how you live, you need to feel it. This is what the Japanese do. When crowds gather to watch the cherry blossoms as they disappear, blown away by the wind, they appreciate a beauty that is of its nature fleeting, not eternal.
 
-> Japan exerts a particular fascination for many in the West. On the one hand, it seems so modern, so Western in its infrastructure, and on the other, it seems utterly exotic, alien in its cultural superstructure. Yet for all its otherness, it has in many ways a philosophical tradition that is easier to learn and borrow from than many others. It is not tied to any particular religious metaphysics but is essentially rooted in an appreciation of and attention to the immanent world of nature. It is reflective but
+> Japan exerts a particular fascination for many in the West. On the one hand, it seems so modern, so Western in its infrastructure, and on the other, it seems utterly exotic, alien in its cultural superstructure. Yet for all its otherness, it has in many ways a philosophical tradition that is easier to learn and borrow from than many others. It is not tied to any particular religious metaphysics but is essentially rooted in an appreciation of and attention to the immanent world of nature. It is reflective but not purely or even mainly in a logical, analytic way. Its philosophy offers an opportunity to deepen and enrich other systems of philosophy without requiring them to give up anything essential of their own.
 
 ## Thought framework
 
-> Most Americans and Europeans, for example, assert the value of individual freedom and liberty without any deep knowledge of how these concepts have been justified and explained by their philosophers. Millions of Indians live their lives according to principles of karma without an in-depth knowledge of the rich and complex literature articulating what precisely this involves. Ordinary Chinese assert the importance of harmony with little more than a cursory knowledge of the Confucian and Daoist texts that analyse and describe it. There is nonetheless a relationship between high scholarship and everyday living, which is why harmony, freedom and karma play
+> Most Americans and Europeans, for example, assert the value of individual freedom and liberty without any deep knowledge of how these concepts have been justified and explained by their philosophers. Millions of Indians live their lives according to principles of karma without an in-depth knowledge of the rich and complex literature articulating what precisely this involves. Ordinary Chinese assert the importance of harmony with little more than a cursory knowledge of the Confucian and Daoist texts that analyse and describe it. There is nonetheless a relationship between high scholarship and everyday living, which is why harmony, freedom and karma play very different roles in different parts of the world.
 
 > Understanding the philosophical framework of a people is like understanding the software their minds work on: 'If you don't know their software there will always be this gap in terms of understanding in conversation.
 
 ## A historical overview from the Axial to the Information Age
 
-> In China, in the absence of a strong religious culture featuring gods or other-worldly heavens, the new philosophies were more naturalistic than those of India. Confucius (551-479 BCE) based his teachings on the cultural norms of order, respect for elders and tradition. The other major tradition, Daoism, valued harmony with nature above all else and its foundational text, the Daodejing, was written between the
+> In China, in the absence of a strong religious culture featuring gods or other-worldly heavens, the new philosophies were more naturalistic than those of India. Confucius (551-479 BCE) based his teachings on the cultural norms of order, respect for elders and tradition. The other major tradition, Daoism, valued harmony with nature above all else and its foundational text, the Daodejing, was written between the fourth and third centuries BCE.
 
-> In contrast, Greece had to accommodate its gods. But since these were often portrayed as human superheroes in myths, interacting with mortals in the same physical spaces, there was no fundamental problem in explaining the universe in terms of principles that would
+> In contrast, Greece had to accommodate its gods. But since these were often portrayed as human superheroes in myths, interacting with mortals in the same physical spaces, there was no fundamental problem in explaining the universe in terms of principles that would apply to gods and humans equally.
 
 > Assuming a kind of unity is a prerequisite for any serious attempt at systematic understanding.
 
@@ -243,17 +250,17 @@ date: 2023-10-03
 
 ## Insight
 
-> The 'charm of Japanese philosophical thought' is that it is about being touched by what is near. 'The most important thing happens not over there but in this present,' he told me. 'The important thing is to feel, not to conceptualise. Concepts always indicate something over there, it's very
+> The 'charm of Japanese philosophical thought' is that it is about being touched by what is near. 'The most important thing happens not over there but in this present,' he told me. 'The important thing is to feel, not to conceptualise. Concepts always indicate something over there, it's very abstract.'
 
-> philosophy has been conceived in India as a kind of seeing. For instance, the original poets of the Vedas were the first ṛṣis (rishis), meaning seers. It was believed that the route to understanding involved not so much reasoning as learning practices of ānvīkṣikī - looking at - which enable us to attain direct realisation (sākṣāt-kāra) of reality as it is. That helps explain why one of the giants of Indian thought, Śaṅkara (sometimes Śaṅkarācārya), who is believed to have written in the eighth century CE, used the terms māya (illusion) and avidyā (ignorance) interchangeably. Ignorance is a failure to see correctly, the flip side of the view that seeing and knowing are
+> A clue is in the traditional word for philosophy in India: darśana. Darśana comes from the root dṛś, meaning 'to see'. It means both philosophy and to see, or to look at. It has these dual meanings because to a large extent philosophy has been conceived in India as a kind of seeing. For instance, the original poets of the Vedas were the first *ṛṣis* (*rishis*), meaning seers. It was believed that the route to understanding involved not so much reasoning as learning practices of *ānvīkṣikī* – looking at – which enable us to attain direct realisation (*sākṣāt-kāra*) of reality as it is. That helps explain why one of the giants of Indian thought, Śaṅkara (sometimes Śaṅkarācārya), who is believed to have written in the eighth century CE, used the terms *māya* (illusion) and *avidyā* (ignorance) interchangeably. Ignorance is a failure to see correctly, the flip side of the view that seeing and knowing are identical.
 
 > Its basic definition in the Yoga Sūtras sounds very calming, being 'the cessation of the functioning of ordinary awareness'. However, the purpose of this mind-calming goes beyond mere relaxation. The basic principle behind it is that in daily life we are led astray by our senses and the mind is kept busy with ordinary, everyday things. By stopping this activity, we not only regain calm and control but can see things as they really are.
 
 > One difference is that in Japanese philosophy perception is primarily aesthetic and this-worldly rather than spiritual and other-worldly.
 
-> Although every school understands the pramāṇas differently, there are essentially six which they either reject or endorse. It's impossible to make sense of them by their names alone, but even a cursory overview shows that there is much more to Indian philosophy than mystical insight. The six pramāṇas are: pratyakṣa (perception), anumāna (inference), upamāna (comparison and analogy), arthāpatti (postulation, derivation from circumstances), anupalabdhi (non-perception, negative/cognitive proof) and śabda (word, testimony of reliable experts). Of these, anumāna is almost as ubiquitous as pratyakṣa, making it clear that for many schools at least forms of reasoning are as much a part of the
+> Although every school understands the pramāṇas differently, there are essentially six which they either reject or endorse. It's impossible to make sense of them by their names alone, but even a cursory overview shows that there is much more to Indian philosophy than mystical insight. The six pramāṇas are: pratyakṣa (perception), anumāna (inference), upamāna (comparison and analogy), arthāpatti (postulation, derivation from circumstances), anupalabdhi (non-perception, negative/cognitive proof) and śabda (word, testimony of reliable experts). Of these, anumāna is almost as ubiquitous as pratyakṣa, making it clear that for many schools at least forms of reasoning are as much a part of the Indian philosophical tradition as any insight.
 
-> Such a first-person approach is as natural in a philosophical culture that emphasises first-person experience as it is alien in a Western tradition that
+> Such a first-person approach is as natural in a philosophical culture that emphasises first-person experience as it is alien in a Western tradition that emphasises third-person objectivity.
 
 > In the hierarchy of sources of knowledge, the testimony (śabda) of the greatest seers (ṛṣis) usually trumps the perception (pratyakṣa) of even great minds, which in turn trumps the most impressive rational argument.
 
@@ -273,9 +280,9 @@ date: 2023-10-03
 
 > But as Kant suggests, a view from nowhere is no view at all. Hence the title of Thomas Nagel's contemporary classic The View from Nowhere, in which he criticises this notion of objectivity.
 
-> The relative unimportance of asserting doctrine helps to explain the syncretic nature of religion in Japan, where a common expression is 'Born Shintō, live Confucian, die Buddhist
+> The relative unimportance of asserting doctrine helps to explain the syncretic nature of religion in Japan, where a common expression is 'Born Shintō, live Confucian, die Buddhist.'
 
-> If you meet the Buddha on the road, kill him.' As ShidōBunan put it less violently, 'The teachings of the Buddha are greatly in error. How much more in error it is to learn them.
+> If you meet the Buddha on the road, kill him.' As Shidō Bunan put it less violently, 'The teachings of the Buddha are greatly in error. How much more in error it is to learn them.
 
 > The deep respect for words in Japan is reflected in the Shintōbelief in kotodama, a compound of 'word' and 'soul': the soul of a word. From this belief flow superstitions around words that sound like other, ominous ones.
 
@@ -289,7 +296,7 @@ date: 2023-10-03
 
 > You could say that it is because Japanese have such respect for words that their poets and thinkers use them so sparingly. It is not so much a mistrust of language as a reverence for it. Maeda Naoki, a junior priest from the Shingon sect of esoteric Buddhism, recently said, 'Speech is the silver medal. You get a gold medal for not speaking.'
 
-> Meanings and judgments are an abstracted part of the original experience, and compared with the actual experiences they are meagre in content,
+> In Zen, language and rationality are both intellectual straitjackets. 'Language is a product of intellection and intellection is what our intellect adds to, or rather, subtracts from, reality,' wrote Suzuki. Language adds to reality in that it creates an extra layer on top of it, and this in turn subtracts from reality by obscuring its fullness. 'Meanings and judgments are an abstracted part of the original experience, and compared with the actual experiences they are meagre in content,' said Nishida. One of the purposes of some paradoxical koans – such as 'What is the colour of wind?' or 'When you can do nothing, what can you do?' – is to draw our attention to the inadequacy of words and how apparently perfectly well-formed sentences can nonetheless be meaningless. 'Those who find Zen foolish are still under the spell of linguistic magic,' said Suzuki.
 
 ## Theology or philosophy?
 
@@ -297,9 +304,9 @@ date: 2023-10-03
 
 > In Buddhism, religion and philosophy are like a tree that forks into two from its base. Both stem from the same roots and are nourished by the same sap. […] There have been times in the long history of Buddhism in which a pruning of the philosophical branch has helped the trunk to flourish, and other times at which the philosophical branch stood in full bloom while the trunk had become hollowed out.
 
-> philosophy and religion have a somewhat paradoxical relationship, 'inseparable yet distinct, complementary yet opposed, or in Nishida's words, self-contradictory and yet identical
+> Philosophy and religion have a somewhat paradoxical relationship, 'inseparable yet distinct, complementary yet opposed, or in Nishida's words, self-contradictory and yet identical.'
 
-> Generally, religion in Japan is not about belief,' says Carter. 'Instead, religion in Japan is about consciousness transformation.' It seeks to help people experience the world differently, not to change their beliefs about it.
+> Religion in the Japanese context has a different character from that in the West. 'Generally, religion in Japan is not about belief,' says Carter. 'Instead, religion in Japan is about consciousness transformation.' It seeks to help people experience the world differently, not to change their beliefs about it. This distinction between belief and consciousness transformation is also found in Buddhism more generally. 'The Buddha himself often warned his disciples against confusing the religious search, the "noble quest", with philosophical and metaphysical questions,' says Takeuchi. Hence philosophy and religion have a somewhat paradoxical relationship, 'inseparable yet distinct, complementary yet opposed, or in Nishida's words, self-contradictory and yet identical'.
 
 ## Dualistic thought
 
