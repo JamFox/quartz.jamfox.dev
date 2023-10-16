@@ -68,7 +68,14 @@ True love is an action, if love is a passive accident then it is illusory reprie
 
 > **In the act of giving something is born, and both persons involved are grateful for the life that is born for both of them.**
 
-1+1=3
+
+$$
+1 + 1 = 3
+$$
+$$
+1 + 1 = \pi
+$$
+
 One gives, yet both receive. Homeostasis is already achieved by the act of giving and receiving. There is no score to keep, the score is maintained *by definition* of true giving.
 
 > To respect a person is not possible without knowing him; care and responsibility would be blind if they were not guided by knowledge. Knowledge would be empty if it were not motivated by concern.

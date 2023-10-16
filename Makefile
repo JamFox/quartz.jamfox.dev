@@ -12,5 +12,8 @@ serve:
 sync: 
 	npx quartz sync
 
+updat:
+	npx quartz update
+
 clean:
 	rm -rf public
