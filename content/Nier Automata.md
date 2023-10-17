@@ -24,7 +24,7 @@ Few that are told that god is still on the moon, holding purpose, answers; find 
 
 Humans are creatures of purpose. No wonder then that it's so easy to cling on to anything that lands in front of the eyes.
 
-## Pyramid of meaning
+## Pyramid of Meaning
 
 Maslow's pyramid of needs describes the stages machine groups have gone through in the game:
 - physiological - beginning of the game the machines are shown as only being able to understand the basics: reproduction, awareness, sustenance etc. No real survival instinct, just charging at you, but still kind of being able to survive.
@@ -54,18 +54,21 @@ worry about survival vs accumulating gold and estate
 
 have to find meaning yourself, but why, for what, why does this desire exist in us
 
+emotions prohibited but what purpose do they serve then
+
 happy endings vs joy of destruction (similar to [[Metal Gear Rising - Revengeance]] "Everyone you killed, maybe they are people too?" and Metal Gear Solid 1 and 2 "Why did you come here?")
 
 by the end the players learns just like the characters that all they've been doing is meaningless, the war is just a **cycle** (!), its purposefully repeating and endless, all that is left is destruction and video gamey rewards?
 
 ## Answers to Question of Meaning
 
-Simone, "look at me", exercising femininity to gain approval, validation through appearance
-Pascal, pursuit of knowledge, peaceful coexistence, living in fear, fear vs peace
-Religion becomes and institution which justifies itself by becoming increasingly conservative and fundamentalist about its own beliefs. Eventually it degenerates into a cult, where the followers become meaningless/expendable
+- Simone, "look at me", exercising femininity to gain approval, validation through appearance
+- Pascal, pursuit of knowledge, peaceful coexistence, living in fear, fear vs peace
+- Machine Cult: religion becomes and institution which justifies itself by becoming increasingly conservative and fundamentalist about its own beliefs. Eventually it degenerates into a cult, where the followers become meaningless/expendable
 
 Nier **loop** (!): philosophy of existence or identity is referenced, then subverted. Each ending in bitter or outright unhappy result.
-Reason: 
+
+Backbone of meaning and the loss of it comes from: 
 - machines killed off their masters, but soon saw themselves stagnate, never improving (No change = death as mentioned in [[Corporeal Mime - GUILLAUME PIGÉ]]), so they started mimicking humanities aspects to see if that would propel them into becoming something greater.
 - androids keep fighting a lie, because they need a god/cause/reason/hope worth fighting for, a reason to exist. "Without hope, they would drown in their sorrow" - Final Fantasy
 
