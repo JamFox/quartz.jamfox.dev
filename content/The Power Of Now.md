@@ -8,7 +8,7 @@ I truly believe *every single human* should be taught the principles of this boo
 
 ## The Greatest Obstacle To Enlightenment
 
->“But I am not a beggar,” I can hear you say.
+>"But I am not a beggar," I can hear you say.
 >
 >Those who have not found their true wealth, which is the radiant joy of Being and the deep, unshakable peace that comes with it, are beggars, even if they have great material wealth. They are looking outside for scraps of pleasure or fulfillment, for validation, security, or love, while they have a treasure within that not only includes all those things but is infinitely greater than anything the world can offer.
 >
@@ -18,19 +18,19 @@ I truly believe *every single human* should be taught the principles of this boo
 
 >The word Being explains nothing, but nor does God. Being, however, has the advantage that it is an open concept. It does not reduce the infinite invisible to a finite entity. It is impossible to form a mental image of it. Nobody can claim exclusive possession of Being. It is your very essence, and it is immediately accessible to you as the feeling of your own presence, the realization I am that is prior to I am this or I am that. So it is only a small step from the word Being to the experience of Being.
 
->The philosopher Descartes believed that he had found the most fundamental truth when he made his famous statement: “I think, therefore I am.” He had, in fact, given expression to the most basic error, to equate thinking with Being and identity with thinking. The compulsive thinker, which means almost everyone, lives in a state of apparent separateness, in an insanely complex world of continuous problems and conflict, a world that reflects the ever- increasing fragmentation of the mind. Enlightenment is a state of wholeness, of being “at one” and therefore at peace. At one with life in its manifested aspect, the world, as well as with your deepest self and life unmanifested at one with Being. Enlightenment is not only the end of suffering and of continuous conflict within and without, but also the end of the dreadful enslavement to incessant thinking. What an incredible liberation this is!
+>The philosopher Descartes believed that he had found the most fundamental truth when he made his famous statement: "I think, therefore I am." He had, in fact, given expression to the most basic error, to equate thinking with Being and identity with thinking. The compulsive thinker, which means almost everyone, lives in a state of apparent separateness, in an insanely complex world of continuous problems and conflict, a world that reflects the ever- increasing fragmentation of the mind. Enlightenment is a state of wholeness, of being "at one" and therefore at peace. At one with life in its manifested aspect, the world, as well as with your deepest self and life unmanifested at one with Being. Enlightenment is not only the end of suffering and of continuous conflict within and without, but also the end of the dreadful enslavement to incessant thinking. What an incredible liberation this is!
 
 >The mind is a superb instrument if used rightly. Used wrongly, however, it becomes very destructive. To put it more accurately, it is not so much that you use your mind wrongly you usually don't use it at all. **It uses you. This is the disease. You believe that you are your mind. This is the delusion. The instrument has taken you over.**
 
 ## Freeing Yourself From Your Mind
 
->This is what I mean by “watching the thinker,” which is another way of saying: **listen to the voice in your head, be there as the witnessing presence.**
+>This is what I mean by "watching the thinker," which is another way of saying: **listen to the voice in your head, be there as the witnessing presence.**
 >
 >When you listen to that voice, listen to it impartially. That is to say, do not judge. Do not judge or condemn what you hear, for doing so would mean that the same voice has come in again through the back door. You'll soon realize: there is the voice, and here I am listening to it, watching it. This I am realization, this sense of your own presence, is not a thought. It arises from beyond the mind.
 >
 >So when you listen to a thought, you are aware not only of the thought but also of yourself as the witness of the thought. A new dimension of consciousness has come in. As you listen to the thought, you feel a conscious presence your deeper self behind or underneath the thought, as it were. The thought then loses its power over you and quickly subsides, because you are no longer energizing the mind through identification with it. This is the beginning of the end of involuntary and compulsive thinking.
 
->Instead of “watching the thinker,” you can also create a gap in the mind stream simply by directing the focus of your attention into the Now. Just become intensely conscious of the present moment. This is a deeply satisfying thing to do. In this way, you draw consciousness away from mind activity and create a gap of no-mind in which you are highly alert and aware but not thinking. This is the essence of meditation.
+>Instead of "watching the thinker," you can also create a gap in the mind stream simply by directing the focus of your attention into the Now. Just become intensely conscious of the present moment. This is a deeply satisfying thing to do. In this way, you draw consciousness away from mind activity and create a gap of no-mind in which you are highly alert and aware but not thinking. This is the essence of meditation.
 
 ## Rising Above Thought
 
@@ -48,11 +48,11 @@ I truly believe *every single human* should be taught the principles of this boo
 
 >The more you are identified with your thinking, your likes and dislikes, judgments and interpretations, which is to say the less present you are as the watching consciousness, the stronger the emotional energy charge will be, whether you are aware of it or not. If you cannot feel your emotions, if you are cut off from them, you will eventually experience them on a purely physical level, as a physical problem or symptom
 
->You sap that an emotion is the mind's reflection in the body. But sometimes there is a conflict between the two: the mind saps “no” while the emotion saps "yes,' or the other way around. **If you really want to know your mind, the body will always give you a truthful reflection, so look at the emotion or rather feel it in your body. If there is an apparent conflict between them, the thought will be the lie, the emotion will be the truth.**
+>You sap that an emotion is the mind's reflection in the body. But sometimes there is a conflict between the two: the mind saps "no" while the emotion saps "yes,' or the other way around. **If you really want to know your mind, the body will always give you a truthful reflection, so look at the emotion or rather feel it in your body. If there is an apparent conflict between them, the thought will be the lie, the emotion will be the truth.**
 >
 >Not the ultimate truth of who you are, but the relative truth of your state of mind at that time.
 
->Glimpses of love and joy or brief moments of deep peace are possible whenever a gap occurs in the stream of thought. For most people, such gaps happen rarely and only accidentally, in moments when the mind is rendered “speechless,” sometimes triggered by great beauty, extreme physical exertion, or even great danger. Suddenly, there is inner stillness. And within that stillness there is a subtle but intense joy, there is love, there is peace.
+>Glimpses of love and joy or brief moments of deep peace are possible whenever a gap occurs in the stream of thought. For most people, such gaps happen rarely and only accidentally, in moments when the mind is rendered "speechless," sometimes triggered by great beauty, extreme physical exertion, or even great danger. Suddenly, there is inner stillness. And within that stillness there is a subtle but intense joy, there is love, there is peace.
 
 ## Create No More Pain In The Present
 
@@ -72,7 +72,7 @@ I truly believe *every single human* should be taught the principles of this boo
 >
 >This accumulated pain is a negative energy field that occupies your body and mind. If you look on it as an invisible entity in its own right, you are getting quite close to the truth. Its the emotional pain-body.
 
->Watch out for any sign of unhappiness in yourself, in whatever form it may be the awakening pain-body. This can take the form of irritation, impatience, a somber mood, a desire to hurt, anger, rage, depression, a need to have some drama in your relationship, and so on. Catch it the moment it awakens from its dormant state. The pain-body wants to survive, just like every other entity in existence, and it can only survive if it gets you to unconsciously identify with it. It can then rise up, take you over, “become you,” and live through you. It needs to get its “food” through you. It will feed on any experience that resonates with its own kind of energy, anything that creates further pain in whatever form: anger, destructiveness, hatred, grief, emotional drama, violence, and even illness. So the pain-body, when it has taken you over, will create a situation in your life that reflects back its own energy frequency for it to feed on. Pain can only feed on pain. Pain cannot feed on joy. It finds it quite indigestible.
+>Watch out for any sign of unhappiness in yourself, in whatever form it may be the awakening pain-body. This can take the form of irritation, impatience, a somber mood, a desire to hurt, anger, rage, depression, a need to have some drama in your relationship, and so on. Catch it the moment it awakens from its dormant state. The pain-body wants to survive, just like every other entity in existence, and it can only survive if it gets you to unconsciously identify with it. It can then rise up, take you over, "become you," and live through you. It needs to get its "food" through you. It will feed on any experience that resonates with its own kind of energy, anything that creates further pain in whatever form: anger, destructiveness, hatred, grief, emotional drama, violence, and even illness. So the pain-body, when it has taken you over, will create a situation in your life that reflects back its own energy frequency for it to feed on. Pain can only feed on pain. Pain cannot feed on joy. It finds it quite indigestible.
 >
 >Once the pain-body has taken you over, you want more pain. You become a victim or a perpetrator. You want to inflict pain, or you want to suffer pain, or both. There isn't really much difference between the two. You are not conscious of this, of course, and will vehemently claim that you do not want pain. But look closely and you will find that your thinking and behavior are designed to keep the pain going, for yourself and others. If you were truly conscious of it, the pattern would dissolve, for to want more pain is insanity, and nobody is consciously insane.
 >
@@ -100,15 +100,15 @@ I truly believe *every single human* should be taught the principles of this boo
 
 ## Key To Spiritual Dimension Of Time
 
->“What, at this moment, is lacking?” A powerful question that does not require an answer on the level of the mind. It is designed to take your attention deeply into the Now. A similar question in the Zen tradition is this: “If not now, when?”
+>"What, at this moment, is lacking?" A powerful question that does not require an answer on the level of the mind. It is designed to take your attention deeply into the Now. A similar question in the Zen tradition is this: "If not now, when?"
 
->And Rumi, the great poet and teacher of Sufism, declares: “Past and future veil God from our sight; burn up both of them with fire.”
+>And Rumi, the great poet and teacher of Sufism, declares: "Past and future veil God from our sight; burn up both of them with fire."
 
->Meister Eckhart, the thirteenth-century spiritual teacher, summed it all up beautifully “Time is what keeps the light from reaching us. There is no greater obstacle to God than time.”
+>Meister Eckhart, the thirteenth-century spiritual teacher, summed it all up beautifully "Time is what keeps the light from reaching us. There is no greater obstacle to God than time."
 
 ## Letting Go Of Psychological Time
 
->Learn to use time in the practical aspects of your life we may call this “clock time” but immediately return to present-moment awareness when those practical matters have been dealt with. In this way, there will be no build-up of “psychological time,” which is identification with the past and continuous compulsive projection into the future.
+>Learn to use time in the practical aspects of your life we may call this "clock time" but immediately return to present-moment awareness when those practical matters have been dealt with. In this way, there will be no build-up of "psychological time," which is identification with the past and continuous compulsive projection into the future.
 
 >Nonforgiveness necessarily implies a heavy burden of psychological time.
 
@@ -136,7 +136,7 @@ I truly believe *every single human* should be taught the principles of this boo
 
 >To alert you that you have allowed yourself to be taken over by psychological time, you can use a simple criterion. Ask yourself: Is there joy, ease, and lightness in what I am doing? If there isn't, then time is covering up the present moment, and life is perceived as a burden or a struggle.
 >
->If there is no joy, ease, or lightness in what you are doing, it does not necessarily mean that you need to change what you are doing. It may be sufficient to change the how. “How” is always more important than “what.” See if you can give much more attention to the doing than to the result that you want to achieve through it. Give your fullest attention to whatever the moment presents. This implies that you also completely accept what is, because you cannot give your full attention to something and at the same time resist it.
+>If there is no joy, ease, or lightness in what you are doing, it does not necessarily mean that you need to change what you are doing. It may be sufficient to change the how. "How" is always more important than "what." See if you can give much more attention to the doing than to the result that you want to achieve through it. Give your fullest attention to whatever the moment presents. This implies that you also completely accept what is, because you cannot give your full attention to something and at the same time resist it.
 
 >**Do not be concerned with the fruit of your action just give attention to the action itself.** The fruit will come of its own accord.
 
@@ -144,7 +144,7 @@ I truly believe *every single human* should be taught the principles of this boo
 
 >Ordinary unconsciousness means being identified with your thought processes and emotions, your reactions, desires, and aversions. It is most people's normal state. In that state, you are run by the egoic mind, and you are unaware of Being.
 
->The unease of ordinary unconsciousness turns into the pain of deep unconsciousness a state of more acute and more obvious suffering or unhappiness when things “go wrong,” when the ego is threatened or there is a major challenge, threat, or loss, real or imagined, in your life situation or conflict in a relationship. It is an intensified version of ordinary unconsciousness, different from it not in kind but in degree.
+>The unease of ordinary unconsciousness turns into the pain of deep unconsciousness a state of more acute and more obvious suffering or unhappiness when things "go wrong," when the ego is threatened or there is a major challenge, threat, or loss, real or imagined, in your life situation or conflict in a relationship. It is an intensified version of ordinary unconsciousness, different from it not in kind but in degree.
 >
 >In ordinary unconsciousness, **habitual resistance to or denial of what is creates the unease and discontent that most people accept as normal living**. When this resistance becomes intensified through some challenge or threat to the ego, it brings up intense negativity such as anger, acute fear, aggression, depression, and so on. Deep unconsciousness often means that the pain-body has been triggered and that you have become identified with it.
 
@@ -154,17 +154,19 @@ I truly believe *every single human* should be taught the principles of this boo
 
 >Are you polluting the world or cleaning up the mess? You are responsible for your inner space; nobody else is, just as you are responsible for the planet. As within, so without: If humans clear inner pollution, then they will also cease to create outer pollution.
 
->**Stress is caused by being “here” but wanting to be “there,” or being in the present but wanting to be in the future. If you have to, you can move fast, work fast, or even run, without projecting yourself into the future and without resisting the present.** As you move, work, run do it totally. Enjoy the flow of energy, the high energy of that moment. Now you are no longer stressed, no longer splitting yourself in two. Just moving, running, working and enjoying it. Or you can drop the whole thing and sit on a park bench. But when you do, watch your mind. It may say: “You should be working. You are wasting time.” Observe the mind. Smile at it.
+>**Stress is caused by being "here" but wanting to be "there," or being in the present but wanting to be in the future. If you have to, you can move fast, work fast, or even run, without projecting yourself into the future and without resisting the present.** As you move, work, run do it totally. Enjoy the flow of energy, the high energy of that moment. Now you are no longer stressed, no longer splitting yourself in two. Just moving, running, working and enjoying it. Or you can drop the whole thing and sit on a park bench. But when you do, watch your mind. It may say: "You should be working. You are wasting time." Observe the mind. Smile at it.
 
->“One day I'll make it.” Is your goal taking up so much of your attention that you reduce the present moment to a means to an end? Is it taking the joy out of your doing? Are you waiting to start living? If you develop such a mind pattern, no matter what you achieve or get, the present will never be good enough; the future will always seem better. A perfect recipe for permanent dissatisfaction and nonfulfillment, don't you agree?
+>"One day I'll make it." Is your goal taking up so much of your attention that you reduce the present moment to a means to an end? Is it taking the joy out of your doing? Are you waiting to start living? If you develop such a mind pattern, no matter what you achieve or get, the present will never be good enough; the future will always seem better. A perfect recipe for permanent dissatisfaction and nonfulfillment, don't you agree?
 
->Are you a habitual “waiter”? How much of your life do you spend waiting? What I call “small-scale waiting” is waiting in line at the post office, in a traffic jam, at the airport, or waiting for someone to arrive, to finish work, and so on. “Large-scale waiting” is waiting for the next vacation, for a better job, for the children to grow up, for a truly meaningful relationship, for success, to make money, to be important, to become enlightened. It is not uncommon for people to spend their whole life waiting to start living.
+>Are you a habitual "waiter"? How much of your life do you spend waiting? What I call "small-scale waiting" is waiting in line at the post office, in a traffic jam, at the airport, or waiting for someone to arrive, to finish work, and so on. "Large-scale waiting" is waiting for the next vacation, for a better job, for the children to grow up, for a truly meaningful relationship, for success, to make money, to be important, to become enlightened. It is not uncommon for people to spend their whole life waiting to start living.
 
 >**Waiting is a state of mind.**
 
+How you spend your days is how you spend your life.
+
 ## Inner Purpose Of Life's Journey
 
->When you are on a journey, it is certainly helpful to know where you are going or at least the general direction in which you are moving, but don't forget: **the only thing that is ultimately real about your journey is the step that you are taking at this moment.** Thats all there ever is.
+>When you are on a journey, it is certainly helpful to know where you are going or at least the general direction in which you are moving, but don't forget: **the only thing that is ultimately real about your journey is the step that you are taking at this moment.** That's all there ever is.
 
 "Kindel teejuht, kes ei tea isegi täpselt kuhu ta läheb."
 
@@ -172,7 +174,7 @@ I truly believe *every single human* should be taught the principles of this boo
 
 >Does it matter whether we achieve our outer purpose, whether we succeed or fail in the world?
 >
->It will matter to you as long as you haven't realized your inner purpose. After that, the outer purpose is just a game that you may continue to play simply because you enjoy it. It is also possible to fail completely in your outer purpose and at the same time totally succeed in your inner purpose. Or the other way around, which is actually more common: outer riches and inner poverty, or to “gain the world and lose your soul,” as Jesus puts it. Ultimately, of course, every outer purpose is doomed to “fail” sooner or later, simply because it is subject to the law of impermanence of all things. The sooner you realize that your outer purpose cannot give you lasting fulfillment, the better.
+>It will matter to you as long as you haven't realized your inner purpose. After that, the outer purpose is just a game that you may continue to play simply because you enjoy it. It is also possible to fail completely in your outer purpose and at the same time totally succeed in your inner purpose. Or the other way around, which is actually more common: outer riches and inner poverty, or to "gain the world and lose your soul," as Jesus puts it. Ultimately, of course, every outer purpose is doomed to "fail" sooner or later, simply because it is subject to the law of impermanence of all things. The sooner you realize that your outer purpose cannot give you lasting fulfillment, the better.
 
 ## State Of Presence
 
@@ -194,7 +196,7 @@ I truly believe *every single human* should be taught the principles of this boo
 
 >Jesus attempted to convey directly, not through discursive thought, the meaning of presence, of self-realization. He had gone beyond the consciousness dimension governed by time, into the realm of the timeless. The dimension of eternity had come into this world. Eternity, of course, does not mean endless time, but no time. Thus, the man Jesus became Christ, a vehicle for pure consciousness.
 
->The “second coming” of Christ is a transformation of human consciousness, a shift from time to presence, from thinking to pure consciousness, not the arrival of some man or woman.
+>The "second coming" of Christ is a transformation of human consciousness, a shift from time to presence, from thinking to pure consciousness, not the arrival of some man or woman.
 
 >**Never personalize Christ.** Don't make Christ into a form identity. Avatars, divine mothers, enlightened masters, the very few that are real, are not special as persons.
 
