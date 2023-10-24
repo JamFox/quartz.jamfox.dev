@@ -207,3 +207,147 @@ How you spend your days is how you spend your life.
 >If you had a strong aversion to the word God, which is a negative form of attachment, you may be denying not just the word but also the reality to which it points. You would be cutting yourself off from the possibility of experiencing that reality. All this is, of course, intrinsically connected with being identified with your mind.
 
 >If a word doesnt work for you anymore, then drop it and replace it with one that does work. If you dont like the word sin, then call it unconsciousness or insanity. That may get you closer to the truth, the reality behind the word, than a long-misused word like sin, and leaves little room for guilt.
+
+## Transformation Through The Body
+
+>A long time after their fall from a state of grace and oneness into illusion, humans suddenly woke up in what seemed to be an animal body and they found this very disturbing. "Don't fool yourself. You are no more than an animal."
+
+>Unconscious denial of their animal nature set in very quickly. The threat that they might be taken over by powerful instinctual drives and revert back to complete unconsciousness was indeed a very real one. Shame and taboos appeared around certain parts of the body and bodily functions, especially sexuality.
+
+>So they did what they had to do. They began to disassociate from their body. They now saw themselves as having a body, rather than just being it.
+
+>The fact is that no one has ever become enlightened through denying or fighting the body or through an out-of- the-body experience. Although such an experience can be fascinating and can give you a glimpse of the state of liberation from the material form, in the end you will always have to return to the body, where the essential work of transformation takes place. Transformation is through the body, not away from it.
+
+>What you perceive as a dense physical structure called the body, which is subject to disease, old age, and death, is not ultimately real is not you. It is a misperception of your essential reality that is beyond birth and death, and is due to the limitations of your mind, which, having lost touch with Being, creates the body as evidence of its illusory belief in separation and to justify its state of fear. But do not turn away from the body, for within that symbol of impermanence, limitation, and death that you perceive as the illusory creation of your mind is concealed the splendor of your essential and immortal reality. Do not turn your attention elsewhere in your search for the Truth, for it is nowhere else to be found but within your body.
+
+>If you keep your attention in the body as much as possible, you will be anchored in the Now. You won't lose yourself in the external world, and you wont lose yourself in your mind. Thoughts and emotions, fears and desires, may still be there to some extent, but they won't take you over.
+
+>Presence is pure consciousness consciousness that has been reclaimed from the mind, from the world of form. The inner body is your link with the Unmanifested, and in its deepest aspect is the Unmanifested: the Source from which consciousness emanates as light emanates from the sun. Awareness of the inner body is consciousness remembering its origin and returning to the Source.
+
+>**We could say, don't just think with your head, think with your whole body.**
+
+## The Art Of Listening
+
+>**Feel the energy field of your inner body as you listen. That takes attention away from thinking and creates a still space that enables you to truly listen without the mind interfering. You are giving the other person space space to be.** It is the most precious gift you can give.
+
+>They pay more attention to that than to what the other person is saying, and none at all to what really matters: the Being of the other person underneath the words and the mind. Of course, you cannot feel someone else's Being except through your own. This is the beginning of the realization of oneness, which is love.
+
+>Most human relationships consist mainly of minds interacting with each other, not of human beings communicating, being in communion. No relationship can thrive in that way, and that is why there is so much conflict in relationships. When the mind is running your life, conflict, strife and problems are inevitable. Being in touch with your inner body creates a clear space of no-mind within which the relationship can flower.
+
+## Dreamless Sleep
+
+>But in dreamless sleep, you don't go into it consciously. Although the bodily functions are still operating, "you" no longer exist in that state. Can you imagine what it would be like to go into dreamless sleep with full consciousness? It is impossible to imagine it, because that state has no content.
+
+>The Unmanifested does not liberate you until you enter it consciously. Thats why Jesus did not say:. the truth will make you free, but rather: "You will know the truth, and the truth will make you free." This is not a conceptual truth. It is the truth of eternal life beyond form, which is known directly or not at all.
+
+## Portals
+
+>The Now can be seen as the main portal. It is an essential aspect of every other portal, including the inner body. You cannot be in your body without being intensely present in the Now.
+
+>Directly, you feel it as the radiance and power of your conscious presence no content, just presence. Indirectly, you are aware of the Unmanifested in and through the sensory realm. In other words, you feel the God-essence in every creature, every flower, every stone, and you realize: 'All that is, is holy." This is why Jesus, speaking entirely from his essence or Christ identity, says in the Gospel of Thomas: "Split a piece of wood; I am there. Lift up a stone, and you will find me there."
+
+>It's up to you to open a portal in your life that gives you conscious access to the Unmanifested. Get in touch with the energy field of the inner body, be intensely present, disidentify from the mind, surrender to what is; these are all portals you can use but you only need to use one.
+>
+>Surely love must also be one of those portals?
+>
+>No, it isn't. As soon as one of the portals is open, love is present in you as the "feeling-realization" of oneness. Love isn't a portal; it's what comes through the portal into this world. As long as you are completely trapped in your form identity, there can be no love. Your task is not to search for love but to find a portal through which love can enter.
+
+## Silence
+
+>Look for it in the silence out of which the sounds come and into which they return. Pay more attention to the silence than to the sounds. Paying attention to outer silence creates inner silence: the mind becomes still. A portal is opening up.
+
+## Space
+
+>Just as no sound can exist without silence, nothing can exist without nothing, without the empty space that enables it to be. Every physical object or body has come out of nothing, is surrounded by nothing, and will eventually return to nothing.
+
+>"Form is emptiness, emptiness is form," states the Heart Sutra, one of the best known ancient Buddhist texts. The essence of all things is emptiness.
+
+>**"Nothing" can only become a portal into the Unmanifested for you if you don't try to grasp or understand it.** We are not trying to understand it. There is nothing to understand.
+
+>Space and silence are two aspects of the same thing, the same nothing. They are an externalization of inner space and inner silence, which is stillness: the infinitely creative womb of all existence.
+
+## Nature Of Space And Time
+
+>If there were nothing but silence, it wouldn't exist for you; you wouldn't know what it is. Only when sound appears does silence come into being. Similarly, if there were only space without any objects in space, it wouldn't exist for you. Imagine yourself as a point of consciousness floating in the vastness of space no stars, no galaxies, just emptiness. Suddenly, space wouldn't be vast anymore; it would not be there at all. There would be no speed, no movement from here to there. At least two points of reference are needed for distance and space to come into being.
+
+>**Nothing could be without space, yet space is nothing.**
+
+>That stillness and vastness that enables the universe to be, is not just out there in space it is also within you. When you are utterly and totally present, you encounter it as the still inner space of no-mind. Within you, it is vast in depth, not in extension.
+
+>What you perceive externally as space and time are ultimately illusory, but they contain a core of truth. They are the two essential attributes of God, infinity and eternity, perceived as if they had an external existence outside you.
+
+>Hence, the ultimate purpose of the world lies not within the world but in transcendence of the world. Just as you would not be conscious of space if there were no objects in space, the world is needed for the Unmanifested to be realized. You may have heard the Buddhist saying: "If there were no illusion, there would be no enlightenment."
+
+## Conscious Death
+
+>**Every portal is a portal of death, the death of the false self.**
+
+## Love/Hate Relationships
+
+>It may appear that if you could only eliminate the negative or destructive cycles, then all would be well and the relationship would flower beautifully but alas, this is not possible. The polarities are mutually interdependent. You cannot have one without the other. **The positive already contains within itself the as yet unmanifested negative.**
+
+## Addiction And The Search For Wholeness
+
+>Why should we become addicted to another person?
+>
+>The reason why the romantic love relationship is such an intense and universally sought-after experience is that it seems to offer liberation from a deep-seated state of fear, need, lack, and incompleteness that is part of the human condition in its unredeemed and unenlightened state. There is a physical as well as a psychological dimension to this state.
+
+>The root of this physical urge is a spiritual one: the longing for an end to duality, a return to the state of wholeness. Sexual union is the closest you can get to this state on the physical level. This is why it is the most deeply satisfying experience the physical realm can offer. But **sexual union is no more than a fleeting glimpse of wholeness, an instant of bliss.**
+
+>All the other things that you derived your sense of self from before, now become relatively insignificant. You now have a single focal point that replaces them all, gives meaning to your life, and through which you define your identity: the person you are "in love" with. You are no longer a disconnected fragment in an uncaring universe, or so it seems. Your world now has a center: the loved one. The fact that the center is outside you and that, therefore, you still have an externally derived sense of self does not seem to matter at first. What matters is that the underlying feelings of incompleteness, of fear, lack and unfulfillment so characteristic of the egoic state are no longer there or are they? Have they dissolved, or do they continue to exist underneath the happy surface reality?
+>
+>If in your relationships you experience both "love" and the opposite of love attack, emotional violence, and so on then it is likely that you are confusing ego attachment and addictive clinging with love. You cannot love your partner one moment and attack him or her the next. True love has no opposite. If your "love" has an opposite, then it is not love but a strong ego-need for a more complete and deeper sense of self, a need that the other person temporarily meets. It is the ego's substitute for salvation, and for a short time it almost does feel like salvation.
+>But there comes a point when your partner behaves in ways that fail to meet your needs, or rather those of your ego. The feelings of fear, pain, and lack that are an intrinsic part of egoic consciousness but had been covered up by the "love relationship" now resurface.
+
+>**Every addiction arises from an unconscious refusal to face and move through your own pain. Every addiction starts with pain and ends with pain.**
+
+>Avoidance of relationships in an attempt to avoid pain is not the answer either. The pain is there anyway. Three failed relationships in as many years are more likely to force you into awakening than three years on a desert island or shut away in your room. But if you could bring intense presence into your aloneness, that would work for you too.
+
+## Enlightened Relationships
+
+>If you stop investing it with "selfness," the mind loses its compulsive quality, which basically is the compulsion to judge, and so to resist what is, which creates conflict, drama, and new pain. In fact, the moment that judgment stops through acceptance of what is, you are free of the mind. You have made room for love, for joy, for peace. First you stop judging yourself; then you stop judging your partner. The greatest catalyst for change in a relationship is complete acceptance of your partner as he or she is, without needing to judge or change them in any way. That immediately takes you beyond ego. All mind games and all addictive clinging are then over. There are no victims and no perpetrators anymore, no accuser and accused. This is also the end of all codependency, of being drawn into somebody else's unconscious pattern and thereby enabling it to continue. You will then either separate in love or move ever more deeply into the Now together into Being.
+
+>**Love is a state of Being. Your love is not outside; it is deep within you.** You can never lose it, and it cannot leave you. It is not dependent on some other body, some external form. In the stillness of your presence, you can feel your own formless and timeless reality as the unmanifested life that animates your physical form. You can then feel the same life deep within every other human and every other creature. You look beyond the veil of form and separation. This is the realization of oneness. This is love.
+
+>Love is not selective, just as the light of the sun is not selective. It does not make one person special.
+>
+>There may be one person who reflects your love back to you more clearly and more intensely than others, and if that person feels the same toward you, it can be said that you are in a love relationship with him or her. The bond that connects you with that person is the same bond that connects you with the person sitting next to you on a bus, or with a bird, a tree, a flower. Only the degree of intensity with which it is felt differs.
+
+>**Whenever your relationship is not working, whenever it brings out the "madness" in you and in your partner, be glad**. What was unconscious is being brought up to the light. It is an opportunity for salvation.
+
+>Sanity consciousness can only come into this world through you. You do not need to wait for the world to become sane, or for somebody else to become conscious, before you can be enlightened. You may wait forever. Do not accuse each other of being unconscious.
+
+>To relinquish judgment does not mean that you do not recognize dysfunction and unconsciousness when you see it. It means "being the knowing" rather than "being the reaction" and the judge.
+
+>Learn to give expression to what you feel without blaming. Learn to listen to your partner in an open, nondefensive way. Give your partner space for expressing himself or herself. Be present. Accusing, defending, attacking all those patterns that are designed to strengthen or protect the ego or to get its needs met will then become redundant. Giving space to others and to yourself is vital. Love cannot flourish without it.
+
+>If your partner is still identified with the mind and the pain-body while you are already free, this will represent a major challenge not to you but to your partner. It is not easy to live with an enlightened person, or rather it is so easy that the ego finds it extremely threatening. Remember that the ego needs problems, conflict, and "enemies" to strengthen the sense of separateness on which its identity depends. The unenlightened partner's mind will be deeply frustrated because its fixed positions are not resisted, which means they will become shaky and weak, and there is even the "danger" that they may collapse altogether, resulting in loss of self. The pain-body is demanding feedback and not getting it. The need for argument, drama, and conflict is not being met. But beware: Some people who are unresponsive, withdrawn, insensitive, or cut off from their feelings may think and try to convince others that they are enlightened, or at least that there is "nothing wrong" with them and everything wrong with their partner. Men tend to do that more than women. They may see their female partners as irrational or emotional. But if you can feel your emotions, you are not far from the radiant inner body just underneath. If you are mainly in your head, the distance is much greater, and you need to bring consciousness into the emotional body before you can reach the inner body. If there isn't an emanation of love and joy, complete presence and openness toward all beings, then it is not enlightenment. Another indicator is how a person behaves in difficult or challenging situations or when things "go wrong." If your "enlightenment" is egoic self-delusion, then life will soon give you a challenge that will bring out your unconsciousness in whatever form as fear, anger, defensiveness, judgment, depression, and so on. If you are in a relationship, many of your challenges will come through your partner.
+
+## Why Women Are Closer To Enlightenment
+
+>Generally speaking, it is easier for a woman to feel and be in her body, so she is naturally closer to Being and potentially closer to enlightenment than a man.
+
+>It was often seen as a womb that gives birth to everything in creation and sustains and nourishes it during its life as form. In the Tao Te Ching, one of the most ancient and profound books ever written, the Tao, which could be translated as Being, is described as "infinite, eternally present, the mother of the universe." Naturally, women are closer to it than men since they virtually "embody" the Unmanifested.
+
+>When the mind took over and humans lost touch with the reality of their divine essence, they started to think of God as a male figure. Society became male dominated, and the female was made subordinate to the male.
+
+>What does remain true, however, is that the energy frequency of the mind appears to be essentially male. The mind resists, fights for control, uses, manipulates, attacks, tries to grasp and possess, and so on. This is why the traditional God is a patriarchal, controlling authority figure, an often angry man who you should live in fear of, as the Old Testament suggests. This God is a projection of the human mind.
+
+>To go beyond the mind and reconnect with the deeper reality of Being, very different qualities are needed: surrender, nonjudgment, an openness that allows life to be instead of resisting it, the capacity to hold all things in the loving embrace of your knowing. All these qualifies are much more closely related to the female principle. Whereas mind-energy is hard and rigid, Being-energy is soft and yielding and yet infinitely more powerful than mind. The mind runs our civilization, whereas Being is in charge of all life on our planet and beyond.
+
+## Dissolving The Collective Female Pain-Body
+
+>The pain-body usually has a collective as well as a personal aspect. The personal aspect is the accumulated residue of emotional pain suffered in one's own past. The collective one is the pain accumulated in the collective human psyche over thousands of years through disease, torture, war, murder, cruelty, madness, and so on. Everyone's personal pain-body also partakes of this collective pain-body.
+
+>Apart from her personal pain-body, every woman has her share in what could be described as the collective female pain-body unless she is fully conscious. This consists of accumulated pain suffered by women partly through male subjugation of the female, through slavery, exploitation, rape, childbirth, child loss, and so on, over thousands of years. The emotional or physical pain that for many women precedes and coincides with the menstrual flow is the pain- body in its collective aspect that awakens from its dormancy at that time, although it can be triggered at other times too.
+
+>The first thing to remember is this: As long as you make an identity for yourself out of the pain, you cannot become free of it. As long as part of your sense of self is invested in your emotional pain, you will unconsciously resist or sabotage every attempt that you make to heal that pain.
+
+>So do not use the pain-body to give you an identity. Use it for enlightenment instead. Transmute it into consciousness. One of the best times for this is during menses. I believe that, in the years to come, many women will enter the fully conscious state during that time. Usually, it is a time of unconsciousness for many women, as they are taken over by the collective female pain-body. Once you have reached a certain level of consciousness, however, you can reverse this, so instead of becoming unconscious you become more conscious.
+
+## Give Up The Relationship With Yourself
+
+>As you approach adulthood, uncertainty about your sexuality followed by the realization that you are "different" from others may force you to disidentify from socially conditioned patterns of thought and behavior. This will automatically raise your level of consciousness above that of the unconscious majority, whose members unquestioningly take on board all inherited patterns. In that respect, being gay can be a help. Being an outsider to some extent, someone who does not "fit in" with others or is rejected by them for whatever reason, makes life difficult, but it also places you at an advantage as far as enlightenment is concerned. It takes you out of unconsciousness almost by force.
+>On the other hand, if you then develop a sense of identity based on your gayness, you have escaped one trap only to fall into another. You will play roles and games dictated by a mental image you have of yourself as gay. You will become unconscious. You will become unreal. Underneath your ego mask, you will become very unhappy. If this happens to you, being gay will have become a hindrance. But you always get another chance, of course. Acute unhappiness can be a great awakener.
+
+>If you cannot be at ease with yourself when you are alone, you will seek a relationship to cover up your unease. You can be sure that the unease will then reappear in some other form within the relationship, and you will probably hold your partner responsible for it.
