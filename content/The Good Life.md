@@ -17,7 +17,7 @@ But the good life process according consists of:
 > Direction which constitutes the good life is that which is selected by the total organism, when there is psychological freedom to move in any direction.
 > -Carl Rogers
 
-- Existential living - wu-wei, go with the flow, accept life as is
+- Existential living - wu-wei, go with the flow, accept life as is ([[The Power Of Now]])
 
 > Self and personality emerge from experience, rather than experience being translated or twisted to fit preconceived self-structure. It means that one becomes a participant in and an observer of the ongoing process of organismic experience, rather than being in control of it.
 > -Carl Rogers

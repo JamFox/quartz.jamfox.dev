@@ -4,6 +4,11 @@ draft: false
 date: 2023-09-26
 ---
 From and inspired by [Hack Your Brain With Elaborate Coping Mechanisms](https://www.youtube.com/watch?v=XUZ9VATeF_4)
+
+## Live In The Now
+
+[[The Power Of Now]] is enlightenment. The past, the future, and pain are of the mind, the present is being, truly being, expressing, and existing.
+
 ## Declare bankruptcy on your memory 
 
 Your brain is for HAVING ideas, not STORING ideas. The sooner you realize this, the sooner you can build systems to easily replace this missing ability.

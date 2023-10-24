@@ -149,10 +149,10 @@ Gain confidence:
 
 ## Karma Fal / Action vs Outcome
 
-In Hindu tradition Krishna explains to Arjuna that **humans don't deserve any kind of fruit from actions. All humans are entitled to are actions themselves**. This is pretty much opposite to the modern outcome oriented thinking which leads to a lot of suffering. How many likes did something get? What grade did you get? How much money do you make? All questions regarding the outcome, not the action or process. And if the outcome does not match with our expectation, it shatters motivation. Krishna tells that we should devote ourselves to actions not outcomes.
+In Hindu tradition Krishna explains to Arjuna that **humans don't deserve any kind of fruit from actions. All humans are entitled to are actions themselves** ([[The Power Of Now]]). This is pretty much opposite to the modern outcome oriented thinking which leads to a lot of suffering. How many likes did something get? What grade did you get? How much money do you make? All questions regarding the outcome, not the action or process. And if the outcome does not match with our expectation, it shatters motivation. Krishna tells that we should devote ourselves to actions not outcomes.
 Focusing on the outcome is an endless loop if we define success by outcome because there is always a higher goal to achieve.
 
-Framing goals based on outcome actually makes the brain work against us. Brain is incredibly good at behavioral reinforcement, if things work out a particular way consistently the brain will reinforce that as a belief. If something does not get the desired result, the brain discourages that behaviour in the future.
+Framing goals based on outcome actually makes the brain work against us. Brain is incredibly good at behavioural reinforcement, if things work out a particular way consistently the brain will reinforce that as a belief. If something does not get the desired result, the brain discourages that behaviour in the future.
 If we set goals with outcomes in mind and we don't reach those goals then the brain sort of sees it as futile and useless.
 Reframing goals as little constituent components, a series on tasks broken down from a single abstract outcome is a way of focusing on actions.
 

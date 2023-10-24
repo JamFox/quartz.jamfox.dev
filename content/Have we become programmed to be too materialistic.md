@@ -6,6 +6,15 @@ date: 2023-08-09
 
 From: https://tildes.net/~talk/194r/have_we_become_programmed_to_be_too_materialistic
 
+The end of capitalism and the modern productivity, power, wealth accumulation culture will realize as a painful revolution or extinction.
+
+The nirvana of capitalism is the current state: straddling the fine line between the unhappiness of everyone at the bottom and accumulating as much as possible to the top. Keep people as stretched out, stressed, unhappy, disidentified as possible, but not enough to bring revolution.
+Either the planet and humans are destroyed or the value of humans is automated out of life itself (humans need not apply).
+
+Right now the automation is driving people out of jobs, removing them of their usefulness and livelihood, thus making companies and processes more efficient and productive. This could be good, people in principle could all work less, but those benefits are only reaped by the companies, not the people being automated out.
+
+The end is where companies live for only themselves, without requiring humans at all, they may not even serve humans or humanity, only a couple of dudes at the top. Nothing for everyone else.
+
 ## Space in Japan vs UK
 
 > Japan is a small island country (especially when compared to the US), so the Japanese have to be VERY mindful of space; whereas America has TONS of space, so people keep buying crap to fill said space.

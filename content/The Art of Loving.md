@@ -142,6 +142,8 @@ In [Everything Is Television by Solar Sands](https://youtu.be/-BLAUhBl0nA?si=TEk
 
 > Love is not primarily a relationship to a specific person; it is an attitude, an orientation of character which determines the relatedness of a person to the world as a whole, not toward one "object" of love. If a person loves only one other person and is indifferent to the rest of his fellow men, his love is not love but a symbiotic attachment, or an enlarged egotism. Yet, most people believe that love is constituted by the object, not by the faculty.
 
+[[The Power Of Now]]
+
 > The most fundamental kind of love, which underlies all types of love, is brotherly love. By this I mean the sense of responsibility, care, respect, knowledge of any other human being, the wish to further his life.
 
 ## Parent/Motherly Love

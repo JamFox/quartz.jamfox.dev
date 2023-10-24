@@ -351,3 +351,117 @@ How you spend your days is how you spend your life.
 >On the other hand, if you then develop a sense of identity based on your gayness, you have escaped one trap only to fall into another. You will play roles and games dictated by a mental image you have of yourself as gay. You will become unconscious. You will become unreal. Underneath your ego mask, you will become very unhappy. If this happens to you, being gay will have become a hindrance. But you always get another chance, of course. Acute unhappiness can be a great awakener.
 
 >If you cannot be at ease with yourself when you are alone, you will seek a relationship to cover up your unease. You can be sure that the unease will then reappear in some other form within the relationship, and you will probably hold your partner responsible for it.
+
+## Higher Good Beyond Good And Bad
+
+>**Happiness depends on conditions being perceived as positive; inner peace does not.**
+
+>Do you truly know what is positive and what is negative? Do you have the total picture? There have been many people for whom limitation, failure, loss, illness, or pain in whatever form turned out to be their greatest teacher. It taught them to let go of false self-images and superficial ego-dictated goals and desires. It gave them depth, humility, and compassion. It made them more real.
+
+>If you forgive every moment allow it to be as it is then there will be no accumulation of resentment that needs to be forgiven at some later time.
+
+>When a loved one has just died, or you feel your own death approaching, you cannot be happy. It is impossible. But you can be at peace. There may be sadness and tears, but provided that you have relinquished resistance, underneath the sadness you will feel a deep serenity, a stillness, a sacred presence.
+
+>"Accept whatever comes to you woven in the pattern of your destiny, for what could more aptly fit your needs?" This was written 2,000 years ago by Marcus Aurelius, one of those exceedingly rare humans who possessed worldly power as well as wisdom.
+
+## Drama
+
+>**Whenever two or more egos come together, drama of one kind or another ensues.** But even if you live totally alone, you still create your own drama. When you feel sorry for yourself, thats drama. When you feel guilty or anxious, thats drama. When you let the past or future obscure the present, you are creating time, psychological time the stuff out of which drama is made. Whenever you are not honoring the present moment by allowing it to be, you are creating drama. Most people are in love with their particular life drama.
+
+>When you live in complete acceptance of what is, that is the end of all drama in your life. Nobody can even have an argument with you, no matter how hard he or she tries. You cannot have an argument with a fully conscious person. An argument implies identification with your mind and a mental position, as well as resistance and reaction to the other person's position. The result is that the polar opposites become mutually energized. These are the mechanics of unconsciousness. You can still make your point clearly and firmly, but there will be no reactive force behind it, no defense or attack. So it won't turn into drama.
+
+## Impermanence And The Cycles Of Life
+
+>Through allowing the "isness" of all things, a deeper dimension underneath the play of opposites reveals itself to you as an abiding presence, an unchanging deep stillness, an uncaused joy beyond good and bad.
+
+>On the level of form, there is birth and death, creation and destruction, growth and dissolution, of seemingly separate forms. This is reflected everywhere: in the life cycle of a star or a planet, a physical body, a tree, a flower; in the rise and fall of nations, political systems, civilizations; and in the inevitable cycles of gain and loss in the life of an individual.
+
+>There are cycles of success, when things come to you and thrive, and cycles of failure, when they wither or disintegrate and you have to let them go in order to make room for new things to arise, or for transformation to happen. If you cling and resist at that point, it means you are refusing to go with the flow of life, and you will suffer. It is not true that the up cycle is good and the down cycle bad, except in the mind's judgment. **Growth is usually considered positive, but nothing can grow forever.**
+
+>The down cycle is absolutely essential for spiritual realization. You must have failed deeply on some level or experienced some deep loss or pain to be drawn to the spiritual dimension. Or perhaps your very success became empty and meaningless and so turned out to be failure. Failure lies concealed in every success, and success in every failure. In this world, which is to say on the level of form, everybody "fails" sooner or later, of course, and every achievement eventually comes to naught. All forms are impermanent.
+
+>Your physical energy is also subject to cycles. It cannot always be at a peak. There will be times of low as well as high energy. There will be periods when you are highly active and creative, but there may also be times when everything seems stagnant, when it seems that you are not getting anywhere, not achieving anything. A cycle can last for anything from a few hours to a few years. There are large cycles and small cycles within these large ones.
+
+>As long as a condition is judged as "good" by your mind, whether it be a relationship, a possession, a social role, a place, or your physical body, the mind attaches itself to it and identifies with it. It makes you happy, makes you feel good about yourself, and it may become part of who you are or think you are. But nothing lasts in this dimension where moth and rust consume. Either it ends or it changes, or it may undergo a polarity shift: The same condition that was good yesterday or last year has suddenly or gradually turned into bad. The same condition that made you happy, then makes you unhappy. The prosperity of today becomes the empty consumerism of tomorrow.
+
+>The Buddha taught that even your happiness is dukkha a Pali word meaning "suffering" or "unsatisfactoriness." It is inseparable from its opposite. This means that **your happiness and unhappiness are in fact one. Only the illusion of time separates them.**
+
+## Relinquishing Negativity
+
+>Couldn't a negative emotion also contain an important message? For example, if I often feel depressed, it may be a signal that there is something wrong with my life, and it may force me to look at my life situation and make some changes. So **I need to listen to what the emotion is telling me and not just dismiss it as negative.**
+
+>Lets say that you are sitting quietly at home. Suddenly, there is the penetrating sound of a car alarm from across the street. Irritation arises. What is the purpose of the irritation? None whatsoever. Why did you create it? You didn't. The mind did. It was totally automatic, totally unconscious. Why did the mind create it? Because it holds the unconscious belief that its resistance, which you experience as negativity or unhappiness in some form, will somehow dissolve the undesirable condition. This, of course, is a delusion. The resistance that it creates, the irritation or anger in this case, is far more disturbing than the original cause that it is attempting to dissolve.
+
+>Do you know the story of Banzan? Before he became a great Zen master, he spent many years in the pursuit of enlightenment, but it eluded him. Then one day, as he was walking in the marketplace, he overheard a conversation between a butcher and his customer. "Give me the best piece of meat you have," said the customer. And the butcher replied, "Every piece of meat I have is the best. There is no piece of meat here that is not the best." Upon hearing this, Banzan became enlightened.
+
+## Nature Of Compassion
+
+>As long as you are unaware of Being, the reality of other humans will elude you, because you have not found your own. Your mind will like or dislike their form, which is not just their body but includes their mind as well. True relationship becomes possible only when there is an awareness of Being. Coming from Being, you will perceive another person's body and mind as just a screen, as it were, behind which you can feel their true reality, as you feel yours.
+
+>**Compassion is the awareness of a deep bond between yourself and all creatures.** But there are two sides to compassion, two sides to this bond. On the one hand, since you are still here as a physical body, you share the vulnerability and mortality of your physical form with every other human and with every living being. Next time you say "I have nothing in common with this person," remember that you have a great deal in common: A few years from now two years or seventy years, it doesnt make much difference both of you will have become rotting corpses, then piles of dust, then nothing at all. This is a sobering and humbling realization that leaves little room for pride. Is this a negative thought? No, it is a fact. Why close your eyes to it? In that sense, there is total equality between you and every other creature.
+
+>But true compassion, as I have just described it, is as yet rare. To have deep empathy for the suffering of another being certainly requires a high degree of consciousness but represents only one side of compassion. It is not complete. **True compassion goes beyond empathy or sympathy. It does not happen until sadness merges with joy, the joy of Being beyond form, the joy of eternal life.**
+
+## Death
+
+>We believe in death and that's why the body dies. The body does not die because you believe in death. The body exists, or seems to, because you believe in death. Body and death are part of the same illusion, created by the egoic mode of consciousness, which has no awareness of the Source of life and sees itself as separate and constantly under threat.
+
+>**But your true nature is concealed somewhere within that illusion, not outside it, so the body is still the only point of access to it.**
+
+>Remember that **your perception of the world is a reflection of your state of consciousness. You are not separate from it, and there is no objective world out there.** Every moment, your consciousness creates the world that you inhabit. One of the greatest insights that has come out of modern physics is that of the unity between the observer and the observed: the person conducting the experiment the observing consciousness cannot be separated from the observed phenomena, and a different way of looking causes the observed phenomena to behave differently. If you believe, on a deep level, in separation and the struggle for survival, then you see that belief reflected all around you and your perceptions are governed by fear.
+>
+>**You see it in terms of bodies and birth and death, or as a struggle for survival.**
+
+>Your primary task is not to seek salvation through creating a better world, but to awaken out of identification with form. You are then no longer bound to this world, this level of reality. You can feel your roots in the Unmanifested and so are free of attachment to the manifested world. You can still enjoy the passing pleasures of this world, but there is no fear of loss anymore, so you don't need to cling to them.
+
+>If you feel called upon to alleviate suffering in the world, that is a very noble thing to do, but remember not to focus exclusively on the outer; otherwise, you will encounter frustration and despair. Without a profound change in human consciousness, the world's suffering is a bottomless pit. So don't let your compassion become one-sided. Empathy with someone else's pain or lack and a desire to help need to be balanced with a deeper realization of the eternal nature of all life and the ultimate illusion of all pain. Then let your peace flow into whatever you do and you will be working on the levels of effect and cause simultaneously.
+>
+>Stay alert and very, very present. The causal level needs to remain your primary focus, the teaching of enlightenment your main purpose, and peace your most precious gift to the world.
+
+## Surrender: Acceptance Of The Now
+
+>To some people, surrender may have negative connotations, implying defeat, giving up, failing to rise to the challenges of life, becoming lethargic, and so on. True surrender, however, is something entirely different. It does not mean to passively put up with whatever situation you find yourself in and to do nothing about it. Nor does it mean to cease making plans or initiating positive action.
+>
+>**Surrender is the simple but profound wisdom of yielding to rather than opposing the flow of life.** The only place where you can experience the flow of life is the Now, so to surrender is to accept the present moment unconditionally and without reservation.
+
+>Inner resistance is to say "no" to what is, through mental judgment and emotional negativity. It becomes particularly pronounced when things "go wrong," which means that there is a gap between the demands or rigid expectations of your mind and what is. That is the pain gap.
+
+>You don't need to accept an undesirable or unpleasant life situation. Nor do you need to deceive yourself and say that there is nothing wrong with being stuck in the mud. No. You recognize fully that you want to get out of it.
+>You accept the "isness" of this moment. Then you take action and do all that you can to get out of the mud. Such action I call positive action. It is far more effective than negative action, which arises out of anger, despair, or frustration.
+
+>Do not confuse surrender with an attitude of "I can't be bothered anymore" or "I just don't care anymore." If you look at it closely, you will find that such an attitude is tainted with negativity in the form of hidden resentment and so is not surrender at all but masked resistance.
+
+>Start by acknowledging that there is resistance. Be there when it happens, when the resistance arises. Observe how your mind creates it, how it labels the situation, yourself, or others. Look at the thought process involved. Feel the energy of the emotion. By witnessing the resistance, you will see that it serves no purpose. By focusing all your attention on the Now, the unconscious resistance is made conscious, and that is the end of it. You cannot be conscious and unhappy, conscious and in negativity. Negativity, unhappiness, or suffering in whatever form means that there is resistance, and resistance is always unconscious.
+
+>**Would you choose unhappiness? If you did not choose it, how did it arise? What is its purpose? Who is keeping it alive?**
+
+>But surrender doesn't mean that you allow yourself to be used by unconscious people. Not at all. It is perfectly possible to say "no" firmly and clearly to a person or to walk away from a situation and be in a state of complete inner nonresistance at the same time. When you say "no" to a person or a situation, let it come not from reaction but from insight, from a clear realization of what is right or not right for you at that moment. Let it be a nonreactive "no," a high-quality "no," a "no" that is free of all negativity and so creates no further suffering.
+
+>Let me illustrate how surrender can work in relationships. When you become involved in an argument or some conflict situation, perhaps with a partner or someone close to you, start by observing how defensive you become as your own position is attacked, or feel the force of your own aggression as you attack the other person's position. Observe the attachment to your views and opinions. Feel the mental-emotional energy behind your need to be right and make the other person wrong. That's the energy of the egoic mind. You make it conscious by acknowledging it, by feeling it as fully as possible. Then one day, in the middle of an argument, you will suddenly realize that you have a choice, and you may decide to drop your own reaction just to see what happens. You surrender. I don't mean dropping the reaction just verbally by saying "Okay, you are right," with a look on your face that says, "I am above all this childish unconsciousness." That's just displacing the resistance to another level, with the egoic mind still in charge, claiming superiority. I am speaking of letting go of the entire mental-emotional energy field inside you that was fighting for power. The ego is cunning, so you have to be very alert, very present, and totally honest with yourself to see whether you have truly relinquished your identification with a mental position and so freed yourself from your mind. If you suddenly feel very light, clear and deeply at peace, that is an unmistakable sign that you have truly surrendered. Then observe what happens to the other person's mental position as you no longer energize it through resistance. When identification with mental positions is out of the way, true communication begins.
+
+>Nonresistance doesn't necessarily mean doing nothing. All it means is that any "doing" becomes nonreactive. Remember the deep wisdom underlying the practice of Eastern martial arts: don't resist the opponents force. **Yield to overcome.**
+
+>Illness is not the problem. You are the problem as long as the egoic mind is in control. When you are ill or disabled, do not feel that you have failed in some way, do not feel guilty. Do not blame life for treating you unfairly, but do not blame yourself either. All that is resistance. If you have a major illness, use it for enlightenment. Anything "bad" that happens in your life use it for enlightenment. Withdraw time from the illness. Do not give it any past or future. Let it force you into intense present-moment awareness and see what happens. Become an alchemist. Transmute base metal into gold, suffering into consciousness, disaster into enlightenment. Are you seriously ill and feeling angry now about what I have just said? Then that is a clear sign that the illness has become part of your sense of self and that you are now protecting your identity as well as protecting the illness. The condition that is labeled "illness" has nothing to do with who you truly are.
+
+>I do not mean to say that you will become happy in such a situation. You will not. But fear and pain will become transmuted into an inner peace and serenity that come from a very deep place from the Unmanifested itself. It is "the peace of God, which passes all understanding." Compared to that, happiness is quite a shallow thing. With this radiant peace comes the realization not on the level of mind but within the depth of your Being that you are indestructible, immortal. This is not a belief. It is absolute certainty that needs no external evidence or proof from some secondary source.
+
+>Your first chance is to surrender each moment to the reality of that moment. Knowing that what is cannot be undone because it already is you say yes to what is or accept what isn't. Then you do what you have to do, whatever the situation requires. If you abide in this state of acceptance, you create no more negativity, no more suffering, no more unhappiness.
+>
+>Your second chance at surrender: If you cannot accept what is outside, then accept what is inside. If you cannot accept the external condition, accept the internal condition. This means: Do not resist the pain. Allow it to be there. Surrender to the grief, despair, fear, loneliness, or whatever form the suffering takes. Witness it without labeling it mentally. Embrace it. Then see how the miracle of surrender transmutes deep suffering into deep peace. This is your crucifixion. Let it become your resurrection and ascension.
+
+## The Way Of The Cross
+
+>There are many accounts of people who say they have found God through their deep suffering, and there is the Christian expression "the way of the cross, " which I suppose points to the same thing.
+>Strictly speaking, they did not find God through their suffering, because suffering implies resistance. They found God through surrender, through total acceptance of what is, into which they were forced by their intense suffering.
+
+>I don't call it finding God, because how can you find that which was never lost, the very life that you are? The word God is limiting not only because of thousands of years of misperception and misuse, but also because it implies an entity other than you. God is Being itself, not a being. There can be no subject-object relationship here, no duality, no you and God. God-realization is the most natural thing there is.
+
+## Power To Choose
+
+>Choice implies consciousness a high degree of consciousness. Without it, you have no choice. Choice begins the moment you disidentify from the mind and its conditioned patterns, the moment you become present. Until you reach that point, you are unconscious, spiritually speaking. This means that you are compelled to think, feel, and act in certain ways according to the conditioning of your mind.
+
+>This is not related to intelligence in the conventional sense of the word. I have met many highly intelligent and educated people who were also completely unconscious, which is to say completely identified with their mind. In fact, if mental development and increased knowledge are not counterbalanced by a corresponding growth in consciousness, the potential for unhappiness and disaster is very great.
+
+>The mind always adheres to the known. The unknown is dangerous because it has no control over it.
+
+>Nobody chooses dysfunction, conflict, pain. Nobody chooses insanity. They happen because there is not enough presence in you to dissolve the past, not enough light to dispel the darkness. You are not fully here. You have not quite woken up yet. In the meantime, the conditioned mind is running your life.
