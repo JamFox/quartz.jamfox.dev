@@ -8,7 +8,7 @@ date: 2023-10-04
 
 > IS LOVE AN ART? Then it requires knowledge and effort. Or is love a pleasant sensation, which to experience is a matter of chance, something one "falls into" if one is lucky?
 
-Exacerbated by social media and apparent limitless "sea of fish". "There is always someone better! Never settle! Dump them at the first sign of any red flag" etc (also discussed in [[Why finding a partner is so hard in the internet age]]).
+Exacerbated by social media and apparent limitless "sea of fish". "There is always someone better! Never settle! Dump them at the first sign of any red flag" etc.
 
 > Confusion between the initial experience of "falling" in love, and the permanent state of being in love, or as we might better say, of "standing" in love.
 
@@ -20,7 +20,7 @@ This was also discussed in the book, but we really need a richer lexicon beyond 
 
 > Could it be that only those things are considered worthy of being learned with which one can earn money or prestige, and that love, which "only" profits the soul, but is profitless in the modern sense, is a luxury we have no right to spend much energy on?
 
-Worse then, that the modern reaction to troubles of the mind (including those from love) is to channel the trouble into "something productive" (also in [[Self-Improvement Addiction]]) instead of focusing inwards.
+Worse then, that the modern reaction to troubles of the mind (including those from love) is to channel the trouble into "something productive" instead of focusing inwards.
 
 > I am out for a bargain; the object should be desirable from the standpoint of its social value, and at the same time should want me, considering my overt and hidden assets and potentialities. Two persons thus fall in love when they feel they have found the best object available on the market, considering the limitations of their own exchange values.
 > As a matter of fact, what most people in our culture mean by being lovable is essentially a mixture between being popular and having sex appeal.
@@ -60,7 +60,6 @@ There is no worse pain than that of the one after a one night stand. The feeling
 > The marketing character is willing to give, but only in exchange for receiving; giving without receiving for him is being cheated. People whose main orientation is a non-productive one feel giving as an impoverishment. Most individuals of this type therefore refuse to give. Some make a virtue out of giving in the sense of a sacrifice. They feel that just because it is painful to give, one should give; the virtue of giving to them lies in the very act of acceptance of the sacrifice.
 
 It is staggering to see most people just don't see how much the 1+1=3 actually holds true.
-Scarcity mindset discussed in [[Understanding People]].
 
 > He differentiates among the affects between active and passive affects, "actions" and "passions." In the exercise of an active affect, man is free, he is the master of his affect; in the exercise of a passive affect, man is driven, the object of motivations of which he himself is not aware. Thus Spinoza arrives at the statement that virtue and power are one and the same. Envy, jealousy, ambition, any kind of greed are passions; **love is an action, the practice of a human power, which can be practiced only in freedom and never as the result of a compulsion.**
 

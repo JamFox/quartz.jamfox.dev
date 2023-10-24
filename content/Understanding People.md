@@ -42,7 +42,7 @@ Need for belonging creates emergence and allows us to build ever greater things 
 
 ## Scarcity Mindset
 
-Scarcity is a mindset that is taught, it's not inherent to an extent. There literally isn't unlimited resources, but people tend to overemphasize lack. Important to note that a lot of the time, giving produces MORE not less than taking, even though the scarcity mindset will drive more selfish hoarding.
+Scarcity is a mindset that is taught, it's not inherent to an extent. There literally isn't unlimited resources, but people tend to overemphasize lack. Important to note that a lot of the time, giving produces MORE not less than taking, even though the scarcity mindset will drive more selfish hoarding ([[The Art of Loving]]).
 
 Even limited things and events will come to you again, even if in different forms.
 

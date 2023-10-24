@@ -4,7 +4,7 @@ draft: false
 date: 2023-06-19
 ---
 
-Line between a friend and a foe is paper thin. You just need to see the other side of the paper to come to understanding and find empathy ([[Why I’m against empathy]]).
+Line between a friend and a foe is paper thin. You just need to see the other side of the paper to come to understanding and find empathy ([[Why I'm against empathy]]).
 
 What is the meaning to go on living after the gods are dead? We invent our gods, become as gods, live for our fellows? 
 
@@ -91,4 +91,4 @@ Mirrors Samsara - endless **cycle** (!) of life, death, rebirth. Break free by d
 
 ## Ultimate Answer
 
-Nier's ultimate solution: Meaning and salvation in struggle and sharing the struggle with others (for examples: the struggle of [[Elden Ring]], [[Do not chase happiness, become antifragile]]), defiance of impossibility/suffering/struggle (interestingly this is a trait that is respected in cultures around the world, depicted in all mediums in different forms). Requires hell of a strength of character though.
+Nier's ultimate solution: Meaning and salvation in struggle and sharing the struggle with others, defiance of impossibility/suffering/struggle (interestingly this is a trait that is respected in cultures around the world, depicted in all mediums in different forms). Requires hell of a strength of character though.

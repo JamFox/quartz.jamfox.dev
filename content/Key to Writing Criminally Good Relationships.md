@@ -28,8 +28,6 @@ Sexual attraction the only difference?
 
 ## Attachment Theory
 
-(Also laid out in [[Dr K's Guide - Anxiety]])
-
 Spectrum from Anxious Attachment to Avoidant Attachment:
 
 Anxious: no sense of inner security, obsessively looking for signs of attraction, euphoric then these signs are found, clingy and overbearing when these signs are not found

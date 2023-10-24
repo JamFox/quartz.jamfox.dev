@@ -6,8 +6,6 @@ date: 2023-07-01
 
 [Recapping Lex Fridman and Shia LaBeouf](https://m.youtube.com/watch?v=4M4J5dIiPMM)
 
-[Transcript Forest - #304 – Bishop Robert Barron: Christianity and the Catholic Church](https://www.transcriptforest.com/en/lex-fridman-podcast/8671-304-bishop-robert-barron-christianity-and-the-catholic-church-2023-01-29)
-
 God is the act of being. To be god is to be to be. God is not an entity in the world.
 God is the reason why there's a contingent realm at all. This is the way to put it. In more theological language, God's the creator of all things. So if God is outside of our world, is it possible for us to visualize, to comprehend, to know God? Not utterly, of course. But I think we can, through metaphysical analysis, through philosophical reasoning, can come to some knowledge of a reality which is transcendent to our experience. So we gesture toward it ([[The Power Of Now]]).
 

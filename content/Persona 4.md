@@ -25,6 +25,6 @@ All of these parts together form something of a japanese high-school life simula
 
 Characters have a lot to say, but end up saying so little. The gameplay is fun, but yet so unbelievably boring. It pulls me in and pushes me away at every, god, damn, turn. Persona 4 is so great, yet so bad at the same time that it feels deliberate.
 
-I applaud it for intuitively introducing players to philosophy and psychology, or at least some concepts of it. I think in the end, the more people understand or even just think about or recognize their shadow (as posed by [[Carl Jung]] and [[Stutz - The Tools]]) the better!
+I applaud it for intuitively introducing players to philosophy and psychology, or at least some concepts of it. I think in the end, the more people understand or even just think about or recognize their shadow (as posed by [[Carl Jung]]) the better!
 
 Max points for style and OST though. 

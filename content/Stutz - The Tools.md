@@ -19,7 +19,7 @@ In Stutz's Life Force model, there are three levels to what make you, you:
 	- Diet
 	- Exercise
 	- Sleep
-- The second level is your relationship with other people (related to [[Why sex, food, and shelter aren't enough for Homo Sapiens]] and [[Outliers - extended families, better health outcomes]])
+- The second level is your relationship with other people ([[Outliers - extended families, better health outcomes]])
 	- Initiative is important
 	- Pull back into life using relationships
 	- Any interaction is positive
@@ -28,7 +28,7 @@ In Stutz's Life Force model, there are three levels to what make you, you:
 
 Stutz says that when we don't know where we are going or what to work on, we always have our _life force_ - let go, don't try to figure it out; take care of your body, take care of your people, take care of yourself. 
 
-The layers and advice is quite similar to the advice of yogis from [[Dr K's Guide - Meditation]] and [[Dr K's Guide - Depression]].
+The layers and advice is quite similar to the advice of yogis from [[Dr K's Guide - Meditation]].
 
 ## Part X
 
@@ -48,8 +48,6 @@ Stutz identifies three aspects of reality:
 No matter how much mental gymnastics you try to construct, there is no escaping these facts.
 
 Moreover it is a prerequisite to growth, without the aspects, there would be no story/process/growth.
-
-To embrace these aspects is also the road to antifragility, from [[Do not chase happiness, become antifragile]].
 
 ## Highest expression
 
@@ -94,8 +92,6 @@ Rather than focus on the past that deepens the maze, active love is a meditation
 If you can visualize this love - _your_ love hitting so forcefully that the two of you become the shared energy of that love - you accomplished it.
 
 Active loving is not ignorant acceptance, but rather an intentional rising above divisiveness.
-
-Active/inactive idea of love related to [[Why finding a partner is so hard in the internet age]].
 
 ## Radical Acceptance
 

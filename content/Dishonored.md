@@ -5,6 +5,7 @@ date: 2023-09-18
 ---
 
 The real person is the one under all the masks (aka personas of [[Carl Jung]]), supposedly
+
 But who are we if we're wearing a mask? A physical one?
 
 Who are you when no one can stop you?

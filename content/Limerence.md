@@ -9,11 +9,15 @@ From: [Limerence: What Is It And How Do We Let It Go?](https://youtu.be/9l5ALCPE
 Limerence definition: an involuntary state of mind which seems to result from a romantic attraction for another person combined with an overwhelming, obsessive need to have one's feelings reciprocated.
 
 Limerence is when you are more attached the idea of someone inside of your head than to the actual person.
+
 Fantasy vs reality
+
 Expecting certain ways of acting from the person, resistance to changing the image of someone as new connections form and changes happen to the person ("Oh no! This is not really them!")
+
 Kind of a emotional masturbation at the expense of actually getting to know someone.
 
 For real connection to happen, limerence must be non-existent to minimal, because limerence creates fantasy expectations.
+
 For real connection to happen, people must show up in real time, share their vulnerable authentic experience of being alive and connecting on that.
 
 ## Sexual Attraction

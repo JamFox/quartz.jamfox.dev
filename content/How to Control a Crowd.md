@@ -12,7 +12,7 @@ Reason why most people won't as much as acknowledge others when sitting on a pla
 From "Alone together with separate goals" to "Together with shared side goal", from separate identities to shared identities.
 
 This shared identity creates trust and cooperation rather than selfish destructive chaos often depicted in movies or as one might fear. During a disaster/emergency, unless their life is in immediate danger and physical health in active peril, there is actually *more* order and compassion than usually. 
-(Reminds me of the result of the Acali Raft Experiment: turns out people are naturally prone to sharing and loving each other, to create peace: make different kinds of people live together, and give them a common problem. Kind of related to [[Outliers - extended families, better health outcomes]])
+(Reminds me of the result of the Acali Raft Experiment: turns out people are naturally prone to sharing and loving each other, to create peace: make different kinds of people live together, and give them a common problem)
 
 Semi-related tangent: shared identities are found all over. I feel this is more related to shared pain than joy. At least the degree of intimacy and trust is greater over shared pain. Hence why guys who've went through mandatory military service ([[Kaitsevägi, ajateenistus]]) will immediately connect and wax lyrical about their (mostly shitty) experience for close to whole duration of parties they're attending.
 This empathy of "you are me and I am you, we understand each other's pain and thus trust that we will not abuse it"

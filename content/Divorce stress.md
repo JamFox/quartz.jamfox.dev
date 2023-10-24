@@ -27,8 +27,6 @@ For me, that looks like:
 - Long, hot showers.
 - Dragging my ass out of the house to get in some sunshine and some exercise. Whatever that looks like for you, that is generally a first-line intervention for the kind of acute stress you're describing. If you cannot get up enough energy to do that, it's not a failing on your part - please talk to your doctor if this is the case.
 
-(so primarily and mostly physical, also mentioned in [[Stutz - The Tools]])
-
 Your 'capacity builders' might look very different than mine. They might be something you know intuitively that charge your batteries or make you feel safe, or you might have to sit down and have a really good think about it. You might have not taken the time to try and relax in years, so you might have to just try things and see what works.
 
 These things, cumulatively, might add a few percentage points to your resilience battery and stress tolerance meter. But those tiny percentage points really matter for you right now. On their own, they'll do almost nothing, but combined with having a psychologist or therapist you can trust, and a doctor to help you if you need assistance with sleep or mood, that's essentially the recipe.

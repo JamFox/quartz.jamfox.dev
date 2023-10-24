@@ -6,8 +6,6 @@ date: 2023-08-25
 
 From [the good life is not for the weak](https://www.youtube.com/watch?v=TsC_EeiDjjc) - Sisyphus 55
 
-[[Darkest Truths About Life]]
-
 Having your shit together is not a state of being but a process.
 
 But the good life process according consists of:
