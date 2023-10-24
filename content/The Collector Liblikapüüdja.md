@@ -10,7 +10,7 @@ The Collector by John Fowles
 
 Miranda as giver, but no-one to give to, no receiver. Overflowing with desire to create, love and express, but all of it goes to die, into the void as the void. Without change there is no life, without life there is no beauty ([[The Art of Loving]]). Beauty is also ugly, one requires both, yin can not be separated from the yang, to do that is to deny reality.
 
-Ferd as taker, but no-one to take from, no giver. And he does not know *how* to receive, only how to take ("Do you take only when it suits you? Can you give when its inconvenient?" [[Iraani Konverents]]).
+Ferd as taker, but no-one to take from, no giver. And he does not know *how* to receive, only how to take ("Do you take only when it suits you? Can you give when its inconvenient?").
 He does not know what it means to express, to give, to see outside of himself. 
 He asks the question of how the world exists to provide for him, how it benefits him, how he can take what he wants. He looks for objects to enjoy (to use the word love would destroy the meaning of the word), but he does not see the objects as themselves or as existing for the sake of themselves, but as something to take apart and use as needed. He sees Miranda/butterflies as beauty to capture and preserve in moment. He does not see life holistically, as a whole, in its non-duality, non-uniformity, unpredictability, chaotic nature - he sees it as something to optimize, to take apart, to control, to freeze.
 
