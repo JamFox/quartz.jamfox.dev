@@ -9,6 +9,7 @@ From: https://youtu.be/4BvlBoZsV_I - LocalScriptMan
 ## Types of Dynamics
 
 For best results the people in relationship should have needs that the other(s) is(/are) are filling.
+
 Focus on needs and deep insufficiencies and not to be confused by magical love, vibes etc
 
 Works for both healthy and toxic: 
@@ -16,7 +17,9 @@ Works for both healthy and toxic:
 - one depends on their validation, the other likes the power it gives them
 
 But for self-sufficient/-actualized people where there are no gaping holes or emotional needs to fill, but the relationship is more like an extra spice to their already well structured meal?
+
 The perfect/imperfect pairing with a "meet me at my level" dynamic where the effort and change from the imperfect becomes the focus reconciles this.
+
 Or the "we are here now, but we had to go to hell and back to build this" dynamic
 
 Very generally both parties have flaws, missing pieces and then:
@@ -24,6 +27,7 @@ Very generally both parties have flaws, missing pieces and then:
 - they become codependent, not learning, but using each other
 
 Friendships usually follow a similar structure of balancing qualities and needs, learning from them to become better persons etc
+
 Sexual attraction the only difference?
 
 ## Attachment Theory
