@@ -29,7 +29,7 @@ Actual solutions:
 - Meditation
 - Exploring, observing and being aware of where and how the anxiety comes from
 - Surrendering to the outcomes that the anxiety is trying to prevent, kind of "so be it, bring it on" mindset
-- Focus on action not the outcome as explained in [[Dr K's Guide - Meditation]]. 
+- Focus on action not the outcome as explained in [[Dr K's Guide - Meditation]]
 
 ## Clinical Anxiety Disorder
 
