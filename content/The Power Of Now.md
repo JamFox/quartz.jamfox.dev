@@ -6,6 +6,8 @@ date: 2023-10-24
 
 I truly believe *every single human* should be taught the principles of this book from birth and should read this book as early as possible (so that probably means after puberty).
 
+Ask yourself: "what will my next thought be?"
+
 ## The Greatest Obstacle To Enlightenment
 
 >"But I am not a beggar," I can hear you say.
@@ -304,6 +306,8 @@ How you spend your days is how you spend your life.
 >Avoidance of relationships in an attempt to avoid pain is not the answer either. The pain is there anyway. Three failed relationships in as many years are more likely to force you into awakening than three years on a desert island or shut away in your room. But if you could bring intense presence into your aloneness, that would work for you too.
 
 ## Enlightened Relationships
+
+>You think that you can't get there from where and who you are at this moment because you are not yet complete or good enough, but the truth is that here and now is the only point from where you can get there. **You "get" there by realizing that you are there already.**
 
 >If you stop investing it with "selfness," the mind loses its compulsive quality, which basically is the compulsion to judge, and so to resist what is, which creates conflict, drama, and new pain. In fact, the moment that judgment stops through acceptance of what is, you are free of the mind. You have made room for love, for joy, for peace. First you stop judging yourself; then you stop judging your partner. The greatest catalyst for change in a relationship is complete acceptance of your partner as he or she is, without needing to judge or change them in any way. That immediately takes you beyond ego. All mind games and all addictive clinging are then over. There are no victims and no perpetrators anymore, no accuser and accused. This is also the end of all codependency, of being drawn into somebody else's unconscious pattern and thereby enabling it to continue. You will then either separate in love or move ever more deeply into the Now together into Being.
 
