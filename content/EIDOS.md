@@ -16,6 +16,8 @@ We never see the sun itself directly, only its reflecting light
 
 "Ma ei kummarda kellegi ees. Minu austus inimeste või autoriteetide ees ei ole automaatne, vaid see sünnib sellest, et me peame vastastikku teineteise pilgule vastu. Mu pilk küsitleb ja kutsub välja, ja ma saan austada neid, kes mulle vastavad ning väljakutse vastu võtavad, ei põgene ega põikle pilguga, ei muutu ülbeks ega püüa minust üle olla, nõnda oma ebakindlust paljastades – vaid vaatavad otsa ja ütlevad, mis neil öelda on."
 
+"Kaitse on rünnak"
+
 "Mul tõesti on armastust, mida jagada… Ma lihtsalt ei tea, kuhu seda panna!"
 
 "Ma nõrisen" - what it is like to be in the body biologically/physically vs what it is like to be in the body mentally [Brenda Purtsak "Sünnitus"](https://brendapurtsak.myportfolio.com/)
