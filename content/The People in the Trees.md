@@ -1,8 +1,8 @@
-
+---
 title: The People in the Trees
 draft: false
 date: 2023-11-20
-
+---
 
 >There is little here to do, and, after a certain point, even less to think. I never considered that I might find myself in such a state, so exhausted, really, that I feel exsanguinated, not of blood but of thought. Boredom-I'd always thought, really, that I would treasure a period of unceasing emptiness, that I would easily fill it. But time, I've come to realize, is not for us to fill in such great, blank slabs: we speak of managing time, but it is the opposite-our lives are filled with busyness because those thin chinks of time are all we can truly master.
 
