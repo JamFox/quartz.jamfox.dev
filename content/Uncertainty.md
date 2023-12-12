@@ -11,7 +11,7 @@ From [The Allergy to Uncertainty](https://moretothat.com/the-allergy-to-uncertai
 Uncertainty is:
 
 1. a liability when optimizing for one’s productivity.
-2. Uncertainty is often mischaracterized as a lack of focus.
+2. often mischaracterized as a lack of focus.
 
 Productivity is a system of habits and routines that allows for this cultivation of value. What this means is that productivity only works if it’s well-defined, and anything with a tight scope has little tolerance for uncertainty. Repetition only works if you know exactly what to repeat in the first place, and this is only sustainable if you believe in the vision of what you’re cycling toward.
 
