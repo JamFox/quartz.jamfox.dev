@@ -1,7 +1,7 @@
 ---
 title: The Art of Loving
 draft: true
-date: {{date:YYYY-MM-DD}}
+date: YYYY-MM-DD
 ---
 
 ## I. Is Love an Art?

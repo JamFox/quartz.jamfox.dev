@@ -1,7 +1,7 @@
 ---
 title: What's Our Problem?
 draft: true
-date: {{date:YYYY-MM-DD}}
+date: YYYY-MM-DD
 ---
 
 ## What's Our Problem?

@@ -1,7 +1,7 @@
 ---
 title: How the World Thinks
 draft: true
-date: {{date:YYYY-MM-DD}}
+date: YYYY-MM-DD
 ---
 
 ## 4 Logic
@@ -186,11 +186,11 @@ date: {{date:YYYY-MM-DD}}
 
 ## 24 Transience
 
+> Japan exerts a particular fascination for many in the West. On the one hand, it seems so modern, so Western in its infrastructure, and on the other, it seems utterly exotic, alien in its cultural superstructure. Yet for all its otherness, it has in many ways a philosophical tradition that is easier to learn and borrow from than many others. It is not tied to any particular religious metaphysics but is essentially rooted in an appreciation of and attention to the immanent world of nature. It is reflective but
+
 > However, Okakura captures beautifully sensibilities behind the tea ceremony which endure beyond it. He shows the aesthetic rather than the intellectual appreciation of emptiness and impermanence in action. ‘Teaism,’ he says, ‘is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. […] It is essentially a worship of the imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.’
 
 > But even in these traditions, it is more important to really feel what emptiness, impermanence or nothingness means than to define it or analyse it conceptually. As a merely abstract idea, it is almost useless. Anyone can intellectually understand that everything passes. But for this idea to affect how you live, you need to feel it. This is what the Japanese do. When crowds gather to watch the cherry blossoms as they disappear, blown away by the wind, they appreciate a beauty that is of its nature fleeting, not eternal.
-
-> Japan exerts a particular fascination for many in the West. On the one hand, it seems so modern, so Western in its infrastructure, and on the other, it seems utterly exotic, alien in its cultural superstructure. Yet for all its otherness, it has in many ways a philosophical tradition that is easier to learn and borrow from than many others. It is not tied to any particular religious metaphysics but is essentially rooted in an appreciation of and attention to the immanent world of nature. It is reflective but
 
 ## Introduction
 
