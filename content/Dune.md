@@ -3,8 +3,11 @@ title: Dune, Dune Messiah, Children of Dune
 draft: false
 date: 2024-01-28
 ---
+
 [[How the World Thinks]]
+
 [[The Power Of Now]]
+
 ## Dune
 
 > For the others, we can say that Muad'Dib learned rapidly because his first training was in how to learn. And the first lesson of all. was the basic trust in himself that he could learn. It is shocking to think how many people do not believe they can learn, and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson.
