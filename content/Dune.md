@@ -3,7 +3,8 @@ title: Dune, Dune Messiah, Children of Dune
 draft: false
 date: 2024-01-28
 ---
-
+[[How the World Thinks]]
+[[The Power Of Now]]
 ## Dune
 
 > For the others, we can say that Muad'Dib learned rapidly because his first training was in how to learn. And the first lesson of all. was the basic trust in himself that he could learn. It is shocking to think how many people do not believe they can learn, and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson.
@@ -36,13 +37,13 @@ date: 2024-01-28
 
 > 'Thou shalt not make a machine to counterfeit a human mind.'
 
-> "A human is still the finest computer," she said, "the smallest for its variability, portable and self-propelled, self-programming, capable of performing more tasks simultaneously, cheapest to maintain because it maintains itself . . . I could go on at much greater length.
+> "A human is still the finest computer," she said, "the smallest for its variability, portable and self-propelled, self-programming, capable of performing more tasks simultaneously, cheapest to maintain because it maintains itself . . . I could go on at much greater length."
 
 > "The Great Revolt took away a crutch, forced human minds to develop. Almost immediately afterward, schools were started to train these human talents."
 
-> . "Yes, politics. The original Bene Gesserit school was directed by a human who saw the need for a thread of continuity in human affairs. She saw there could be no such continuity without separating human stock from animal stock . . . for breeding purposes."
+> "Yes, politics. The original Bene Gesserit school was directed by a human who saw the need for a thread of continuity in human affairs. She saw there could be no such continuity without separating human stock from animal stock . . . for breeding purposes."
 
-> The Reverend Mother must combine the seductive wiles of a courtesan with the untouchable majesty of a virgin goddess, holding these attributes in tension so long as the powers of her youth endure. For when youth and beauty have gone, she will find that the place-between, once occupied by tension, has become a wellspring of cunning and resourcefulness
+> The Reverend Mother must combine the seductive wiles of a courtesan with the untouchable majesty of a virgin goddess, holding these attributes in tension so long as the powers of her youth endure. For when youth and beauty have gone, she will find that the place-between, once occupied by tension, has become a wellspring of cunning and resourcefulness.
 
 > You well know the weakness there! Shield your son too much, Jessica, and he'll not grow strong enough to fulfill any destiny.
 
@@ -54,7 +55,7 @@ date: 2024-01-28
 
 > "A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow
 
-> She said the mystery of life isn't a problem to be solved, it's a reality to be experienced. She said I'd have to .,. woo my world . . . seduce it and not fight it.
+> She said the mystery of life isn't a problem to be solved, it's a reality to be experienced. She said I'd have to . . . woo my world . . . seduce it and not fight it.
 
 > What has mood to do with it? You fight when the necessity arises—no matter your mood! Mood's a thing for cattle or for making love or playing the baliset.
 
