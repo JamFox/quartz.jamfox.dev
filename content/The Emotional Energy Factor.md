@@ -4,6 +4,8 @@ draft: false
 date: 2024-01-28
 ---
 
+[[The Power Of Now]]
+
 ## Emotional energy booster 1: Stop buying into someone elses expectations for you
 
 Diagnostic Question 1: Do you often feel angry with someone important to you because that person tells you how you should live your life? Do you feel that people are disappointed in you? Do you live in fear of other people's judgments of you?
