@@ -16,7 +16,7 @@ With soulslikes and games in general the first prerequisite is guaranteed by def
 
 Self-efficacy is a little more complicated, it comes from within and this is where most of the weight of soulslikes come from.
 
-Cycle of samsara: each rebirth you have new knowledge and skill to overcome what you couldn't before. Failure is growth. You either embrace the cycle for itself or you use it to exercise your agency towards desire.
+Cycle of samsara: each rebirth you have new knowledge and skill to overcome what you couldn't before. Failure is growth. You either embrace the cycle for itself or you use it to exercise your agency towards desire. ("Ride the snake" Getting Over It with Bennet Foddy)
 
 This cycle is kind of a given in gaming in general (checkpoints, savepoints etc), yet in fromsoft it is not punishment. In other games its like a slap on the wrist "do not do this" in a kind of "you were supposed to notice something that you did not, try again." For fromsoft its an integral part of the experience. There is no other way *but* to die and gain experience from death itself, kind of like "death is not punishment, it is the experience itself."
 
