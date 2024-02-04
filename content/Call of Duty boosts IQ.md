@@ -1,5 +1,5 @@
 ---
-title: Call of Duty boosts IQ.md
+title: Call of Duty boosts IQ
 draft: false
 date: 2024-02-04
 ---
