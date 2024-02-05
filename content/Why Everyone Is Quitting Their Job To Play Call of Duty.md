@@ -8,31 +8,69 @@ From: [Why Everyone Is Quitting Their Job To Play Call of Duty](https://youtube.
 
 Related: [[Runescape is good for you]]
 
-0:00 There is an epidemic of young men opting out of the workforce to stay home and play video games. Despite the consequences of lower income and having to live with their parents, subjects reported higher levels of life satisfaction and happiness compared to their working counterparts. Obsession with gaming is a reflection of how bad real life has become in many ways, rather than being due to our lack of self-control or the quality of modern academic and labor systems. Gaming addiction may be a symptom of a more serious and systemic problem.
+0:00 There is an epidemic of young men opting out of the workforce to stay home and play video games. Despite the consequences of lower income and having to live with their parents, subjects reported higher levels of life satisfaction and happiness compared to their working counterparts. **Obsession with gaming is a reflection of how bad real life has become in many ways, rather than being due to our lack of self-control or the quality of modern academic and labor systems.** Gaming addiction may be a symptom of a more serious and systemic problem.
 
-10:44 BDobbins personal experience with school: Life outside of school was its own dull slog and it wasn't clear what to do with free time. Gaming was the source of radiant life in free time.
+10:44 BDobbins personal experience with school: Life outside of school was its own dull slog and it wasn't clear what to do with free time. Gaming was the source of radiant life in free time. **"Nothing is comparable to that first high of competitive FPS: when you fight an enemy that is real, that grows and adapts with you, that feels things, that feels you as you sink the knife in."**
 
-28:41 Real-life school is so shallow that it reduces people to shallow avatars typically associated with online games
+12:12 Urge to compete is deeply embedded in the human nature: it shapes our economy (capitalism) and social hierarchies. It is so ingrained that it is often overlooked and almost never talked about. "Prove our worth by besting others, win the admiration of our peers by being better than they are."
 
-30:03 [[Carl Jung]]'s definition of loneliness
+13:44 There is no competition in schools other than "you vs the system," as other students' presence is irrelevant, no teams. **In school you complete tasks that were designed to be completed, no benefit to you or others, no way to distinguish yourself from others, no way to explore yourself, no way to earn others' respect, no way to win self respect. Meaningless tasks, sheets and projects that matter to no one, not the teachers not the students.**
 
-53:48 Why is labor in video games enjoyable while labor in our jobs is miserable? 
+15:03 BDobbins personal experience playing CoD
 
-58:24 School is only difficult because it requires you to suspend your biological imperatives for stimulation and novelty long enough to slog through all the busywork
+19:58 Flow state, you lose yourself in the game, forgetting time and space, fully immersed in the game. Skill and difficulty are balanced: results in "the zone" of "flow state".
+
+21:20 BDobbins personal experience playing CoD continued
+
+24:41 Additionally, flow produces an offspring called "fiero," which is the intense emotional high one gets when they triumph over adversity, and psychologists and game developers have deemed it one of the most powerful neurochemical highs one can experience. Fiero is related to pride and addiction. Evolutionary explanation: reward for challenges overcome, battles won, dangers vanquished.
+
+27:14 To know someone you must know their fears, principles, goals, ideas, their abilities, how they handle stress/winning/losing, what they take pride in, what they are embarrassed of. **Play with someone long enough and you will start to feel and predict their decisions and movement without any verbals.**
+
+28:23 **Real-life school is so surface level, there is no connection to most people in school, everyone doing their own thing and only worried about their own results, no impact on others.** Ironically real-life school is so shallow that it reduces people to shallow avatars typically only associated with online games.
+
+30:03 [[Carl Jung]]'s definition of **loneliness: it does not come from not having people around, but from being unable to communicate the things that seems important to you**.
+
+31:31 Multiplayer games are about ego as competition is about ego. It isn't only about accomplishment alone, it is also about making sure others know about them: award ceremonies, fancy titles, competitive ranks, playtime counts etc. Respect is ingrained and powerful in all human aspects. "Respect matters more than money for happiness in life" paper. Respect incentivizes us to do what is good for the group of belonging to solidify a place in the group: kind of a social currency.
+
+34:18 **How do you measure respect in school?** On what basis do you respect you peers? Students more likely boast about doing the minimum rather than taking pride in good grades. **If respect is based on actions valuable to the group then how are grades valuable to student groups?** There was nothing to compare each other on, so it was easy to default to money and sex.
+
+38:10 BDobbins experience about gaming respect
+
+40:37 BDobbins experience about gaming becoming more important than real life
+
+49:12 Boredom, stress, anxiety, worthlessness, loneliness, hopelessness lead to addiction ("things will not get better"). People feel more and more worthless and lonely, more and more turn to addictions (thus also gaming).
+
+51:10 BDobbins experience with degrading traditional work lifestyle
+
+52:36 Workers increasingly feel unengaged, unfulfilled and unhappy at work. There is a loss of meaning in work as workers get more detached from value.
+
+53:25 **"Depression wasn't meant to inspire us to pursue leisure, but labor/value."**
+
+53:48 Why is labor in video games enjoyable while labor in our jobs is miserable? **For flow we need: clear goals (to really understand that what we are doing is worth it), immediate feedback (so that we derive meaning and feedback on feasibility), difficulty aligned with skill (it isn't boring or impossible). These optimal states are met most consistently when efforts are self-directed.**
+
+58:14 School is only difficult because it requires you to suspend your biological imperatives for stimulation and novelty long enough to slog through all the busywork. Procrastination happens when brain calculates effort and does not find it worthwhile.
 
 1:03:03 BDobbins' path through post-high school life and realization of the nihilistic void awaiting him down the law path 
 
-1:07:59 Once the system ensnares you, you will not have enough free time to pursue your interests and develop
+1:07:17 **40 hour work week is the maximum you can push an average human before their productive capacity dropped below their wage value.** Once the system ensnares you, you will not have enough free time to pursue your interests and develop.
 
-1:10:13 Working is boring, depressing and soul-draining, and there is no escape
+1:10:13 Working is boring, depressing and soul-draining, and there is no escape. Cant work your way out of it, cant save your way out of it.
 
 1:12:21 BDobbins describing how every leisure activity he did felt like a waste of time because of the nagging productive voice in his head
 
-1:14:51 Beginning of discussion of Marx's and Kaczynski's thoughts about the failure of modern society
+1:14:10 **Is it any surprise that more people are opting to play videogames instead of work when not only are they happier but also healthier doing so?**
 
-1:18:54 Reforming the workers suffering under the current system is easier than reforming the system itself
+1:14:51 Beginning of discussion of Marx's and Kaczynski's thoughts about the failure of modern society. **Industrialization separate people from the value that they provide, both value to any group or personal achievement. Surrogate activities like gaming are an attempt to reclaim the lost real meaning.** Like dogs playing fetch, except humans with abstract thinking eventually realize the meaninglessness of it.
 
-1:23:44 The pizza analogy to describe Marx's theory of alienation. "They rob us of our humanity and sell it back to us in tiny, overpriced pieces" (1:28:24)
+1:18:54 Reforming the workers suffering under the current system is easier than reforming the system itself. **"We've spent so long building a system predicated on the assumption that there would always be an underclass of people to suffer for us that it has now become like a heroin addiction: any attempt to get clean would require the courage to go severe and prolonged withdrawals which if mismanaged could result in serious harm" ([[How inflation enriches politicians and the 1%]])**. The ruling class is of course against any change, as it currently benefits them greatly.
+
+1:21:40 Marx's theory of alienation. Types of alienation: 1) worker from human nature; 2) fellow human beings; 3) worker from the act or producing; 4) worker from the product of his labor
+
+1:23:44 Pizza analogy: make it from scratch or order premade. If you're praised for your from-scratch pizza, you feel the praise and satisfaction; praised for the premade one, you feel nothing.
+
+1:26:30 What's inside you, is who you really are, more than anything (ties back to 27:14). **The only way to show what's inside you comes from self-expression. Self-expression is needed just as much for conveying yourself clearly to others as it is to figure out who you are yourself.**
+
+1:28:24 Skins, cosmetics in games kind of selling our self-expression back to us: **"They rob us of our humanity and sell it back to us in tiny, overpriced pieces"**
 
 1:33:21 The system we are all living in inflicts severe physical and psychological damage on all who participate in it. "A clever catch 22 in which pursuing needs beyond physical survival requires sacrificing the means by which said physical survival is made possible" (1:33:40)
 
