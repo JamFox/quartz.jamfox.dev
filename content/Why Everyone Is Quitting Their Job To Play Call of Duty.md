@@ -62,7 +62,7 @@ Related: [[Runescape is good for you]]
 
 1:14:51 Beginning of discussion of Marx's and Kaczynski's thoughts about the failure of modern society. **Industrialization separate people from the value that they provide, both value to any group or personal achievement. Surrogate activities like gaming are an attempt to reclaim the lost real meaning.** Like dogs playing fetch, except humans with abstract thinking eventually realize the meaninglessness of it.
 
-1:18:54 Reforming the workers suffering under the current system is easier than reforming the system itself. **"We've spent so long building a system predicated on the assumption that there would always be an underclass of people to suffer for us that it has now become like a heroin addiction: any attempt to get clean would require the courage to go severe and prolonged withdrawals which if mismanaged could result in serious harm" ([[How inflation enriches politicians and the 1%]])**. The ruling class is of course against any change, as it currently benefits them greatly.
+1:18:54 Reforming the workers suffering under the current system is easier than reforming the system itself. **"We've spent so long building a system predicated on the assumption that there would always be an underclass of people to suffer for us that it has now become like a heroin addiction: any attempt to get clean would require the courage to go severe and prolonged withdrawals which if mismanaged could result in serious harm". The ruling class is of course against any change, as it currently benefits them greatly.**
 
 1:21:40 Marx's theory of alienation. Types of alienation: 1) worker from human nature; 2) fellow human beings; 3) worker from the act or producing; 4) worker from the product of his labor
 
@@ -72,15 +72,25 @@ Related: [[Runescape is good for you]]
 
 1:28:24 Skins, cosmetics in games kind of selling our self-expression back to us: **"They rob us of our humanity and sell it back to us in tiny, overpriced pieces"**
 
-1:33:21 The system we are all living in inflicts severe physical and psychological damage on all who participate in it. "A clever catch 22 in which pursuing needs beyond physical survival requires sacrificing the means by which said physical survival is made possible" (1:33:40)
+1:28:34 BDobbins experience making gaming videos: what mattered more than good gameplay and skill was ideas and personal connections. Making videos led him to learn a myriad of topics about economy, people, psychology, philosophy. Chasing money, power and fame, led him to discover his nature, making him something greater and contributing back to fellow men in the process.
 
-1:37:38 America is Call of Duty, and modern America is like a spawn-trapped match
+1:33:21 The system we are all living in inflicts severe physical and psychological damage on all who participate in it. "A clever catch 22 in which pursuing needs beyond physical survival requires sacrificing the means by which said physical survival is made possible" (1:33:40). Going to college does not help move up, with college debt it actually makes it harder. Those having well paid jobs report higher dissatisfaction and higher loss of meaning, mountains of money do not matter if they do not come with a higher degree of freedom.
 
-1:48:14 We are biologically inclined to work with another, for one another. If people are lazy, then why do they do such incredible projects in video games for free? "We aren't addicted to video games. There's no such thing. We're addicted to life." (1:52:19)
+1:34:21 Call to action for USA gamers: path of least resistance, accept and submit or take it into own hands to change the way of things. Dedicate skills and influence from gaming into action and change in the real world (nicely mirrors the earlier complaint about parents and teachers "if you would apply the same focus on school as you do for gaming...")
 
-1:53:35 Suggestions for improvements to public education
+1:37:38 America is Call of Duty, and modern America is like a spawn-trapped match (pitfall of capitalism). **r > g**, Capital by Thomas Piketty
 
-1:55:33 UBI, US economics and busting the myth of human laziness. "I think our broken view of man as an inherently lazy beast is driven by the simple fact that we've come up in a grotesque system in which our concept of work is synonymous with the empty, soul-crushing, intellectual prisons that are our modern-day work and school; that we know we would abandon in a heartbeat <...> if we weren't coerced into it by threats to our survival." (2:02:38)
+1:48:14 We are biologically inclined to work with another, for one another. If people are lazy, then why do they do such incredible projects in video games for free? 
+
+1:52:19 **"We aren't addicted to video games. There's no such thing. We're addicted to life."**
+
+1:53:35 Suggestions for improvements to public education: 1) No more homework, 4 day school weeks; 2) More student choice on what to learn and do. Science shows homework has little benefit, instead it takes away social and free time from kids. Student freedom leverages personal freedom and self motivation.
+
+1:55:33 UBI, which can be afforded the same way we afforded it during COVID. Such as the gov prints money to afford their own projects, it could be directed towards the citizens instead ([[How inflation enriches politicians and the 1%]]). To keep inflation in check, you must take money out of the system as you put new money in (done with bonds, people buy bonds as an easy way to make money, gov freezes the money, given then back as printed money, which then stimulates the economy then making a profit on the printed money that was at first conjured from nothing). Money is tied to how much labor is available.
+
+2:02:38 "I think our broken view of man as an inherently lazy beast is driven by the simple fact that we've come up in a grotesque system in which our concept of work is synonymous with the empty, soul-crushing, intellectual prisons that are our modern-day work and school; that we know we would abandon in a heartbeat <...> if we weren't coerced into it by threats to our survival."
+
+2:04:32 Point is gov already prints money, why not use it on people instead of wars and weapon R&D?
 
 2:06:35 Employers who depend on wage slaves should go out of business
 
