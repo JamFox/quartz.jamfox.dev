@@ -18,7 +18,7 @@ In Stutz's Life Force model, there are three levels to what make you, you:
 - The bottom, most primal level is your relationship with your physical body
 	- Diet
 	- Exercise
-	- Sleep
+	- [[Sleep]]
 - The second level is your relationship with other people ([[Outliers - extended families, better health outcomes]])
 	- Initiative is important
 	- Pull back into life using relationships

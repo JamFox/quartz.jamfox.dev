@@ -14,6 +14,6 @@ Kuigi paps mainis, et see kirjutatud 70ndatel vist, selle aja kohta sisu väga k
 
 Hullus on ebakindlusl enda osas?
 
-Skiso, bipolaar, hullus? Kuis määratleda?
+Skiso, bipolaar, hullus? Kuis määratleda? [[The Collector Liblikapüüdja]]
 
 Kui näed "tegelikult olematut" orkestrit ja usud sellese kindlusega isegi kui mõistad, et teised seda orkestrit ei näe, siis see ei ole hullus. Kui näed "tegelikult olematut" orkestrit, aga eitad (nt teiste survel) selle olekut siis oled hull, taju ja reaalsuse vahel tekib lahkheli, kahtlus valgub ka kõike muusse.

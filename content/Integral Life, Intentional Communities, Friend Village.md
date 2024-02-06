@@ -3,6 +3,7 @@ title: Integral Life, Intentional Communities, Friend Village
 draft: false
 date: 2024-01-29
 ---
+[[Metatheory of Ego and Society Development]]
 
 https://bigthink.com/series/great-question/loneliness-epidemic/
 

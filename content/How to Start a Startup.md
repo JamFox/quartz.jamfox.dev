@@ -10,7 +10,7 @@ Start with good people, to make something customers actually want, and to spend 
 
 In particular, you don't need a brilliant idea to start a startup around. The way a startup makes money is to offer people better technology than they have now. But what people have now is often so bad that it doesn't take brilliance to do better.
 
-What matters is not ideas, but the people who have them. Good people can fix bad ideas, but good ideas can't save bad people. 
+What matters is not ideas, but the people who have them. Good people can fix bad ideas, but good ideas can't save bad people.
 
 Rule for deciding who to hire: could you describe the person as an animal? It means someone who takes their work a little too seriously; someone who does what they do so well that they pass right through professional and cross over into obsessive.
 
@@ -22,4 +22,4 @@ It's worth trying very, very hard to make technology easy to use. Hackers are so
 
 When and if you get an infusion of real money from investors, what should you do with it? Not spend it, that's what. In nearly every startup that fails, the proximate cause is running out of money. Usually there is something deeper wrong. But even a proximate cause of death is worth trying hard to avoid.
 
-So who should start a startup? Someone who is a good hacker, between about 23 and 38, and who wants to solve the money problem in one shot instead of getting paid gradually over a conventional working life.
+So who should start a startup? Someone who is a good hacker ([[Great Hackers]]), between about 23 and 38, and who wants to solve the money problem in one shot instead of getting paid gradually over a conventional working life.

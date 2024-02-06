@@ -14,7 +14,7 @@ Sitting to the side, almost unnoticable. How we seem calm, collected, simple, ye
 
 We never see the sun itself directly, only its reflecting light
 
-"Ma ei kummarda kellegi ees. Minu austus inimeste või autoriteetide ees ei ole automaatne, vaid see sünnib sellest, et me peame vastastikku teineteise pilgule vastu. Mu pilk küsitleb ja kutsub välja, ja ma saan austada neid, kes mulle vastavad ning väljakutse vastu võtavad, ei põgene ega põikle pilguga, ei muutu ülbeks ega püüa minust üle olla, nõnda oma ebakindlust paljastades – vaid vaatavad otsa ja ütlevad, mis neil öelda on."
+"Ma ei kummarda kellegi ees. Minu austus inimeste või autoriteetide ees ei ole automaatne, vaid see sünnib sellest, et me peame vastastikku teineteise pilgule vastu. Mu pilk küsitleb ja kutsub välja, ja ma saan austada neid, kes mulle vastavad ning väljakutse vastu võtavad, ei põgene ega põikle pilguga, ei muutu ülbeks ega püüa minust üle olla, nõnda oma ebakindlust paljastades – vaid vaatavad otsa ja ütlevad, mis neil öelda on." (ole või ära ole, [[Päva lõpuks kiigu]])
 
 "Kaitse on rünnak"
 

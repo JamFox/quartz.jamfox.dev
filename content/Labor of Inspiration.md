@@ -6,6 +6,8 @@ date: 2024-01-29
 
 From: https://moretothat.com/the-labor-of-inspiration/
 
+Related: [[Why Everyone Is Quitting Their Job To Play Call of Duty]]
+
 Inspiration: laborer and fairy
 
 If my creativity is scheduled in advance, then I look forward to the end of it more than I do the start. And since this removes the joy of what it means to create in the first place, it’s only inevitable that you face discontentment after some time.
