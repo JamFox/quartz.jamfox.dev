@@ -90,25 +90,27 @@ Related: [[Runescape is good for you]]
 
 2:02:38 "I think our broken view of man as an inherently lazy beast is driven by the simple fact that we've come up in a grotesque system in which our concept of work is synonymous with the empty, soul-crushing, intellectual prisons that are our modern-day work and school; that we know we would abandon in a heartbeat <...> if we weren't coerced into it by threats to our survival."
 
-2:04:32 Point is gov already prints money, why not use it on people instead of wars and weapon R&D?
+2:04:32 Point is gov already prints money, why not use it on people instead of wars and weapon R&D? Jobs will be lost to automation and there just will not be jobs for everyone nor will there be a need for them, UBI is the solution.
 
-2:06:35 Employers who depend on wage slaves should go out of business
+2:05:53 Employers who depend on wage slaves should go out of business. UBI will lift leverage to employees who will have the freedom to walk away from abusive employers.
 
 2:08:00 I give a shit you exist!
 
-2:09:23 Great minds flourished in isolation with freedom to pursue their interests
+2:09:23 Great minds flourished in isolation with freedom to pursue their interests in self directed manners. Great minds seem to have come from a freedom to choose and shape their days, environments and doings according to their whims and desires allowing them to flourish. "Let's unlock the Beethoven in each of us!"
 
 2:12:15 "YOU are a beautiful flower. YOU will thrive and the world be a better place for having tasted your nectar."
 
-2:13:11 The American Super PAC and money in politics
+2:13:11 The American Super PAC (anyone can donate as much money to any politician as they want, legal corruption) and money in politics. "Imagine a killstreak reward that would let you write new rules into the game." - IRL the ones that hold the power make the rules for the powerful.
 
-2:19:14 Gamers are the only ones who truly understand how stupid of a game we're playing right now
+2:19:14 Gamers are the only ones who truly understand how stupid of a game we're playing right now. Just as gamers roar against bad game updates, people should roar at the bad policies IRL.
 
-2:29:49 People are losing faith in the system
+2:29:49 People are losing faith in the system that is no longer working for them, exists just to bleed them dry for the benefit of the top.
 
-2:30:26 "A system that is wholly unreliable. A system that takes everything from you when times are good, and leaves you with nothing when the going gets rough." 
+2:30:26 "People are dependent on a system that is wholly unreliable. A system that takes everything from you when times are good, and leaves you with nothing when the going gets rough."
 
-2:32:56 The importance of video games as a surrogate activity
+2:31:18 "This must be done non-violently, violence is unethical and also ever strengthens the system by giving it an excuse to increase its power and delegitimize its detractors." Yet marches and protests don't accomplish a lot besides minor increase in outreach, this is the laziest and least effective method of activism.
+
+2:32:56 "What would we do if this was a videogame?" If a game is broken: we stop playing it. The importance of video games as a surrogate activity. Usually unemployment is devastating to mental health, yet gamers somehow actually significantly happier instead. Games provide infinite value for little money, they include different kinds of challenges to overcome, ways to improve and train oneself, facilitate socializing over the world: easy to tolerate not participating in the workforce.
 
 2:36:30 "We told everyone to be selfish. People are listening. And now the oligarchs are doing Pikachu face."
 
