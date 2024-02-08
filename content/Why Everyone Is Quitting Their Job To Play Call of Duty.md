@@ -112,29 +112,34 @@ Related: [[Runescape is good for you]]
 
 2:32:56 "What would we do if this was a videogame?" If a game is broken: we stop playing it. The importance of video games as a surrogate activity. Usually unemployment is devastating to mental health, yet gamers somehow actually significantly happier instead. Games provide infinite value for little money, they include different kinds of challenges to overcome, ways to improve and train oneself, facilitate socializing over the world: easy to tolerate not participating in the workforce.
 
-2:36:30 "We told everyone to be selfish. People are listening. And now the oligarchs are doing Pikachu face."
-
-2:37:27 The oligarchs are getting nervous that normal people are realizing how much power they hold in their hands
+2:36:30 "We told everyone to be selfish. People are listening. And now the oligarchs are doing Pikachu face." The oligarchs are getting nervous that normal people are realizing how much power they hold in their hands: stop going to work and the system will start crumbling or get a reaction.
 
 2:39:28 "Anyone who can reduce their participation even a little bit should do so. Every hour you take for yourself is a small victory, for you and the world."
 
-2:40:52 Discussion of "workism", America's national religion
+2:40:52 Discussion of "workism", America's national religion: workism takes the premise that work is the ultimate goal, that work productivity is the purpose of life, that maximizing overall daily productivity is end all be all. It probably comes from the sunk cost fallacy: all of it is so miserable that we need a reason to endure it, so we say it's for the better good, for a greater reason.
 
-2:42:03 Our obsession with hard work within the current system has brought us nothing and led to destruction
+2:42:03 Our obsession with hard work within the current system has brought us nothing and led to destruction. We work longer, we are more capable and wear more hats per worker yet the gains are not following the workers.
 
-2:46:02 "Foreign wars could disrupt supply chains and cripple businesses here at home" My guy BDobbinsFTW predicting the War in Ukraine? 
-
-2:46:47 Video games are a fantastic use of time because they teach you how to learn new skills, which school is not very good at right now
+2:46:13 The vital skill is the skill to learn. Video games are a fantastic use of time because they teach you how to learn new skills, which school is not very good at right now.
 
 2:47:04 "Everyone's been doing nothing but classrooms for a hundred years, and where's it gotten us? If classrooms worked, we wouldn't be in the pickle we're in now." 
 
-2:47:12 "I think class trains you to get good at memorizing things and follow instructions; I think our problems as a country is a result of our being lead by a generation of teachers' pets who don't know how to solve a problem when they don't have a piece of paper telling them how to solve it." 2:47:12
+2:47:12 "I think class trains you to get good at memorizing things and follow instructions; I think our problems as a country is a result of our being lead by a generation of teachers' pets who don't know how to solve a problem when they don't have a piece of paper telling them how to solve it."
 
-2:48:57 Case study of the Vietnam War vets to illustrate how the system entices people with propaganda, uses them up for its own benefit, and discards them like garbage when it is done with them
+2:48:57 "Born on the 4th of July" - case study of the Vietnam War vets to illustrate how the system entices people with propaganda, uses them up for its own benefit, and discards them like garbage when it is done with them.
+
 2:51:22 "Pain is not weakness leaving the body. Pain is your body telling you it is sustaining damage." 
 
-2:58:15 Rant addressed to "hard workers" out there
+2:52:00 In the current system: "Everything we buy justifies someone's survival."
+
+2:54:20 The shitty system persist because it rewards the policymakers and the ones with most capital (r>g) who are get rewarded for sewing more misery for the rest of us and then keep the status quo with increased knowledge of psychological control and manipulation.
+
+2:58:15 Rant addressed to "hard workers" out there. Why do you work and for what? Questions some "hard workers" do not even ask once.
 
 2:59:00 "Your ability to produce capital makes you as special, wise and unique as my ability to take a SHIT makes me!"
 
-3:01:33 "Many people wonder what the point to life is. I think it is rather obvious. We are meant to enjoy our lives. To flourish, and to strive for others' joy and flourishment as well. This is the natural standard most people live by when they don't overthink it too much."
+3:00:45 "The new frontiers that we must conquer: new ways of thinking, producing, living."
+
+3:01:33 "Many people wonder what the point to life is. I think it is rather obvious. We are meant to enjoy our lives. To flourish, and to strive for others' joy and flourishment as well. This is the natural standard most people live by when they don't overthink it too much." (or when they don't suffer great pain which causes them to deviate and make other suffer for their own greed)
+
+3:02:27 "The purpose of life is incompatible with modern education and economic systems. In the new world life will be valued simply because it is life."
