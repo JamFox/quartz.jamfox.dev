@@ -1,7 +1,7 @@
 ---
 title: Poly relationships
 draft: false
-date: 2023-07-07
+date: 2024-02-14
 ---
 
 From: https://tildes.net/~life/1e1b/my_marriage_is_non_monogamous_and_i_am_considering_approaching_a_friend_to_propose_a_relationship and https://tildes.net/~life/742/there_is_such_a_thing_as_ethical_non_monogamy
