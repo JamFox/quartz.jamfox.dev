@@ -83,6 +83,8 @@ Cumulative change adds up. Doing little makes things seems manageable and easier
 
 ## Do LESS
 
+[[What to focus on - life is a multi armed bandit]]
+
 There is an infinite amount of things to experience, do and create. You will be inclined to say yes to everything every time. Take a look at your calendar: what if you get sick? And yes, it allows you to double-triple-quadruple book events, but should you? Give slack.
 
 Find your limits, then commit to half of them. The other half will be filled by life itself anyway.
