@@ -22,7 +22,8 @@ date: 2024-01-28
 
 > This Duke was concerned much more over his men than he was over the spice. He had passed off the loss of a crawler with a gesture. The threat to men's lives had him in a rage. A man such as that could command fanatic loyalty. He would be difficult to defeat.
 
-A great man doesn't seek to lead, he's called to it. And he answers.
+A great man doesn't seek to lead, he's called to it. And he answers. [[Leadership and project management]]
+
 
 > "It is a rule of ecology," Kynes said, "that the struggle between life forms is the struggle for the free energy of a system. Blood is an efficient source of energy."
 

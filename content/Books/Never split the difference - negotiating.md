@@ -64,6 +64,7 @@ The Ackerman model:
 **Approach with the mindset of discovery**. That is: **make hypothesizes and do not commit to assumptions**. Each new piece of info heralds a step forward and allows discarding one hypothesis for another. Too often people stick with biases, gossip, assumptions that should instead be always questioned, ready to be turned on their head as new info is gathered throughout the negotiation.
 
 **Calm the minds of yourself and the other side**. George A. Miller put forth the idea that we can process about 7 pieces of info in our concious mind at any given moment. In other words we are easily overwhelmed.
+
 This is especially important as during negotiations, **when people are not talking, they are usually thinking about their arguments**. So making your sole and all-encompassing focus the other person and what they want to say, what are their "I wants" in a way disarms them. They can let their arguments and wants out, thus quieting their mind down while giving you more information. 
 
 **Take it slow**. Being in too much of a hurry, people can feel as if they are not being heard, thus undermining rapport and trust. By slowing the process down you also *calm* it (and them) down.

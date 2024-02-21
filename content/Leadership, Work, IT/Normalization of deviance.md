@@ -40,13 +40,20 @@ Humans are bad at reasoning about how failures cascade, so we implement bright l
 
 People don't automatically know what should be normal, and when new people are onboarded, they can just as easily learn deviant processes that have become normalized as reasonable processes.
 
-_new person joins_  
-**new person**: WTF WTF WTF WTF WTF  
-**old hands**: yeah we know we're concerned about it  
-**new person**: WTF WTF wTF wtf wtf w...  
-_new person gets used to it_  
-_new person #2 joins_  
-**new person #2**: WTF WTF WTF WTF  
+_new person joins_
+
+**new person**: WTF WTF WTF WTF WTF
+
+**old hands**: yeah we know we're concerned about it
+
+**new person**: WTF WTF wTF wtf wtf w...
+
+_new person gets used to it_
+
+_new person #2 joins_
+
+**new person #2**: WTF WTF WTF WTF
+
 **new person**: yeah we know. we're concerned about it.
 
 #### I'm breaking the rule for the good of my patient
