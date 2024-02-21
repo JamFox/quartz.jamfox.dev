@@ -57,6 +57,7 @@ A great man doesn't seek to lead, he's called to it. And he answers.
 > The willow submits to the wind and prospers until one day it is many willows-a wall against the wind. Animal-humans and the animal nature in true humans blunders along like the wild wind. You must bend to this, but keep your roots firmly planted. You must learn to use the wind, to gain strength from it, use it for your own purposes.
 
 > "I enjoin you to grave this into your memory: A world is supported by four things"
+>
 > She held up four big-knuckled fingers - "the learning of the wise, the justice of the great, the prayers of the righteous and the valor of the brave. But all of these are as nothing" - she closed her fingers into a fist - "without a ruler who knows the art of ruling. Make that the science of your tradition!"
 
 > "A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it."
@@ -72,3 +73,29 @@ A great man doesn't seek to lead, he's called to it. And he answers.
 > What is a son but an extension of the father?
 
 > ''The mind commands the body and it obeys. The mind orders itself and meets resistance." Yes, she thought, I am meeting more resistance lately. I could use a quiet retreat by myself.
+
+> Natural human is an animal without logic. It’s an unnatural development, this projection of logic onto all our affairs, and it’s suffered to continue because of its supreme usefulness. You, now. You are the embodiment of logic—a Mentat. Yet, you must know, Thufir, that your solutions for problems are conceptions which, in a very real sense, are projected outside yourself—there to be rolled around, studied, examined from all sides.”
+
+> When something goes wrong, you’re extremely capable of seeing it and fixing it just as long as it’s outside yourself,” she said. “This is the natural human ability with logic. But when we encounter personal problem—that which is most deeply personal is the most difficult to bring out for external examination—we tend to flounder around, blaming everything but the actual, deep-seated matter really chewing on us.”
+
+> Humans live best when each has his own place, when each knows where he belongs in the scheme of things. Destroy the place and you destroy the person.
+
+> “Did you know what you were doing when you trained me?” he asked. There’s no more childhood in his voice, she thought. And she said: “I hoped the thing any parent hopes—that you’d be . . . superior . . . different.”
+
+> Now is the time to carry out my fathers wish, he thought. I must give her his message now while she has time for grief. The grief would inconvenience us later. And he found himself shocked by the precise logic of the decision.
+
+> “What have you done to me?” he demanded. In a burst of clarity, she sensed some of the roots in the question, said: “I gave birth to you.” It was, from instinct as much as from her own subtle knowledge, the precisely correct answer to calm him. He felt her hands holding him, focused on the dim outline of her face. (Certain gene traces in her facial structure were noted in a new way by his onflowing-mind, the clues added to other new data, and a second-approximation answer put forward.)
+
+> Her body had known the fact long before the mind awakened to it.
+
+> It’s the look of terrible awareness, she thought, of someone who has been forced to the knowledge of his own mortality. He was, indeed, no longer a child.
+
+> My father once told me that respect for the truth comes close to being the basis for all morality. “Something cannot emerge from nothing he said. This is profound thinking if you understand how unstable “the truth” can be.
+
+> Then he looked squarely at Paul, seeing the boy who had taken on the mantle of manhood, masking grief, suppressing all except the position that must be assumed now—the Dukedom. And Kynes realized in that moment the Dukedom did still exist, in spite of the Padishah Emperor’s treachery, in spite of the Harkonnens. It existed solely because of this youth and his training—and this was not a thing to be taken lightly.
+
+> “If you rely only on your eyes, your other senses weaken,” went the Bene Gesserit axiom.
+
+> What do you despise? By this are you truly known.
+
+> At the age fifteen, he already had learned silence.
