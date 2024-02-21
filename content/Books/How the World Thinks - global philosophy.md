@@ -1,5 +1,5 @@
 ---
-title: How the World Thinks
+title: How the World Thinks - global philosophy
 draft: false
 date: 2023-10-03
 ---

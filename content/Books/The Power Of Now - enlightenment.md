@@ -1,5 +1,5 @@
 ---
-title: The Power Of Now
+title: The Power Of Now - enlightenment
 draft: false
 date: 2023-10-24
 ---

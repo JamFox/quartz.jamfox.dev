@@ -17,7 +17,7 @@ Stress is strongly related to sense of identity. Latter regulates the former. Ho
 - Something is moderate in difficulty, stress is moderate, becomes eustress, energy level is high.
 - Something is difficult, stress is high, the body starts thinking the task is too difficult to pay off and goes into energy saving mode.
 
-Self-identity is malleable, otherwise we wouldn't be able to change over time, this is how therapy works and what spiritual practices teach ([[The Power Of Now]]). Change identity to change how you view difficulty, this will result in an "infinite motivation hack", so to say.
+Self-identity is malleable, otherwise we wouldn't be able to change over time, this is how therapy works and what spiritual practices teach ([[The Power Of Now - enlightenment]]). Change identity to change how you view difficulty, this will result in an "infinite motivation hack", so to say.
 ### From "I don't feel like it" to Identity Exercise
 
 If you say you're not "feeling like it" or not "having energy for it at the moment"

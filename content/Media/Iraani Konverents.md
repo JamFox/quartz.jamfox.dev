@@ -3,7 +3,7 @@ title: Iraani Konverents
 draft: false
 date: 2023-09-17
 ---
-A lot to relate in [[How the World Thinks]]
+A lot to relate in [[How the World Thinks - global philosophy]]
 
 Inimene kui protsess, siis mis on peamine olemus
 

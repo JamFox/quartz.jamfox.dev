@@ -23,7 +23,7 @@ So where post-traumatic stress disorder, PTSD, is about breaking down, post trau
 On the one hand, we know that happiness is a good thing, whether in and of itself, or as a means toward other ends.
 At the same time, we also know from research by Iris Moss and others, that people who say to themselves, "Happiness is important for me, I want to pursue it," those individuals actually end up being less happy.
 In fact, they're more likely to experience depression. **So the paradox is that on the one hand, happiness is clearly a good thing. On the other hand, valuing it as a good thing is problematic.**
-The way to resolve this paradox is that **we should pursue happiness indirectly.** ([[The Power Of Now]])
+The way to resolve this paradox is that **we should pursue happiness indirectly.** ([[The Power Of Now - enlightenment]])
 
 SPIRE is an acronym that stands for: 
 - spiritual

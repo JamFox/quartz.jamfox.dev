@@ -1,10 +1,10 @@
 ---
-title: The Emotional Energy Factor
+title: The Emotional Energy Factor - energy
 draft: false
 date: 2024-01-28
 ---
 
-[[The Power Of Now]]
+[[The Power Of Now - enlightenment]]
 
 ## Emotional energy booster 1: Stop buying into someone elses expectations for you
 

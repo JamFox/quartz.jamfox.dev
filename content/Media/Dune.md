@@ -4,9 +4,9 @@ draft: false
 date: 2024-01-28
 ---
 
-[[How the World Thinks]]
+[[How the World Thinks - global philosophy]]
 
-[[The Power Of Now]]
+[[The Power Of Now - enlightenment]]
 
 ## Dune
 

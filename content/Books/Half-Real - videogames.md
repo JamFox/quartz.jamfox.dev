@@ -1,5 +1,5 @@
 ---
-title: Half-Real
+title: Half-Real - videogames
 draft: false
 date: 2024-01-28
 ---

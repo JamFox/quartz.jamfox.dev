@@ -6,7 +6,7 @@ date: 2023-12-21
 
 ## Being different
 
-Being significantly different from the crowd inherently by taking one out of unconsciousness almost by forcing them to question their differences. It can either bless by leading to an inherently weaker ego, or curse by creating a very strong identification with that which makes them different.  ([[The Power Of Now]])
+Being significantly different from the crowd inherently by taking one out of unconsciousness almost by forcing them to question their differences. It can either bless by leading to an inherently weaker ego, or curse by creating a very strong identification with that which makes them different.  ([[The Power Of Now - enlightenment]])
 
 ## Masking
 

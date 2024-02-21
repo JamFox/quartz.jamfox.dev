@@ -6,7 +6,7 @@ date: 2023-02-13
 
 [Evaluation of Russia by Finnish Intelligence Colonel](https://the-culture-shocks.blogspot.com/2022/03/evaluation-of-russia-by-finish.html) ([Original video lecture](https://www.youtube.com/watch?v=kF9KretXqJw))
 
-The Russians are, as it were, followers of the Eastern Roman tradition. Religion, conservatism and the relationship to authority came from there. It means that one does not challenge authority. **Authority is obtained from God.** He who leads us has received authority from God to lead us. He is infallible. **Authority will not be challenged under any circumstances.** This idea comes from Byzantine Russia. (some parallels in [[How the World Thinks]])
+The Russians are, as it were, followers of the Eastern Roman tradition. Religion, conservatism and the relationship to authority came from there. It means that one does not challenge authority. **Authority is obtained from God.** He who leads us has received authority from God to lead us. He is infallible. **Authority will not be challenged under any circumstances.** This idea comes from Byzantine Russia. (some parallels in [[How the World Thinks - global philosophy]])
 The mistakes are happening here within the boyars. Between the people and the infallible Tsar, there is a boyars.
 
 During the Mongol rule the only ways to survive were lying, corruption and violence. This still lives very deep in Russia’s strategic culture.

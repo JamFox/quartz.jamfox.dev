@@ -6,7 +6,7 @@ date: 2023-11-06
 
 Bird's eye overview of anxiety: [[Dr K's Guide - Anxiety]]
 
-Ways of thinking about anxiety, how it relates to the ego and spiritual guide to exploring and dealing with the pain that comes from resisting what is: [[The Power Of Now]]
+Ways of thinking about anxiety, how it relates to the ego and spiritual guide to exploring and dealing with the pain that comes from resisting what is: [[The Power Of Now - enlightenment]]
 ## Hirmu-uurija katse
 
 Olukordadeks, kus miski tekitab ärevust ja seetõttu ei taha sellega tegeleda.

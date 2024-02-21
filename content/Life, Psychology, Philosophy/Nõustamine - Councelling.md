@@ -27,7 +27,7 @@ Katse tulevmuste analüüs:
 
 1. write down negative thoughts/emotions
 2. ask "if i were another/better/good-at-life human, how would i react, what would i think?"
-3. notice and write down the instinctive revulsion to that (the ego fighting back, [[The Power Of Now]]): the mind will generate things that oppose the alternative/another/better/good-at-life ways of thinking
+3. notice and write down the instinctive revulsion to that (the ego fighting back, [[The Power Of Now - enlightenment]]): the mind will generate things that oppose the alternative/another/better/good-at-life ways of thinking
 4. focus on the another/better/good-at-life solutions that you find the least revulsion towards
 5. ask why the ones you selected seem better than the others, why are they easier to accept
 ### Exposure practice

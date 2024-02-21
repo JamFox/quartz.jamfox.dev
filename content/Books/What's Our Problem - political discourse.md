@@ -1,9 +1,9 @@
 ---
-title: What's Our Problem?
+title: What's Our Problem - political discourse
 draft: false
 date: 2023-06-18
 ---
-Some links to [[How the World Thinks]].
+Some links to [[How the World Thinks - global philosophy]].
 
 > Everyone can do whatever they want, if they have the power to do so.
 

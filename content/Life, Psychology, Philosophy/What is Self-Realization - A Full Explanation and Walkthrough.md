@@ -6,7 +6,7 @@ date: 2023-07-26
 
 From [Jamie's Channel](https://www.youtube.com/@jamieschannel4034): https://youtu.be/F_8hbv3G1Q8
 
-[[How the World Thinks]]
+[[How the World Thinks - global philosophy]]
 
 Self-realization is the insight into the subjective experience of "who am I" that results in the sudden conclusion of self-image or ego, which are the thoughts we identify with as "who we think we are". The result of self-realization is an ongoing feeling of peace, the end of compulsively thinking about yourself, and what is described in Buddhism, Hinduism, or Zen as "the end of suffering", suffering in this context referring to the negative emotional experience in response to our own beliefs about ourselves being damaged, rather than the experience of an event itself. For example, getting rejected by someone you have a crush on might be a bit a letdown, similar to a small bruise, but the ongoing feeling of shame, anxiety, comparison, anger or loss as a result of thinking of yourself as incompetent, unattractive, or that she was into you is referred to as suffering. 
 

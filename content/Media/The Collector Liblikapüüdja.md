@@ -8,7 +8,7 @@ The Collector by John Fowles
 
 ## Life and Death, Expression, Beauty
 
-Miranda as giver, but no-one to give to, no receiver. Overflowing with desire to create, love and express, but all of it goes to die, into the void as the void. Without change there is no life, without life there is no beauty ([[The Art of Loving]]). Beauty is also ugly, one requires both, yin can not be separated from the yang, to do that is to deny reality.
+Miranda as giver, but no-one to give to, no receiver. Overflowing with desire to create, love and express, but all of it goes to die, into the void as the void. Without change there is no life, without life there is no beauty ([[The Art of Loving - what is love]]). Beauty is also ugly, one requires both, yin can not be separated from the yang, to do that is to deny reality.
 
 Ferd as taker, but no-one to take from, no giver. And he does not know *how* to receive, only how to take ("Do you take only when it suits you? Can you give when its inconvenient?").
 He does not know what it means to express, to give, to see outside of himself. 

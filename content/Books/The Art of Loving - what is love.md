@@ -1,5 +1,5 @@
 ---
-title: The Art of Loving
+title: The Art of Loving - what is love
 draft: false
 date: 2023-10-04
 ---
@@ -14,7 +14,7 @@ Exacerbated by social media and apparent limitless "sea of fish". "There is alwa
 
 > Our whole culture is based on the appetite for buying, on the idea of a mutually favorable exchange.
 
-The degree to which the language (does RU have as many words for love as they do for truth in [[Evaluation of Russia by finnish intelligence colonel]]?) and culture (also in [[How the World Thinks]]) affect and wire our ways of thinking can not be underestimated. It takes a lot of effort to get out of this seemingly natural viewpoint of keeping score, always keeping everything equal, uniform.
+The degree to which the language (does RU have as many words for love as they do for truth in [[Evaluation of Russia by finnish intelligence colonel]]?) and culture (also in [[How the World Thinks - global philosophy]]) affect and wire our ways of thinking can not be underestimated. It takes a lot of effort to get out of this seemingly natural viewpoint of keeping score, always keeping everything equal, uniform.
 
 This was also discussed in the book, but we really need a richer lexicon beyond the mere word "love" to encapsulate the myriad manifestations of love. It's an umbrella term, an all-encompassing term laden with intricate subtleties with a lot of nuance and using only one makes it impossible to ever really define what someone is talking about. In this case mutually favorable exchange, a trade, a transaction undeniably resides at the very fringes of what could be called love.
 
@@ -141,7 +141,7 @@ In [Everything Is Television by Solar Sands](https://youtu.be/-BLAUhBl0nA?si=TEk
 
 > Love is not primarily a relationship to a specific person; it is an attitude, an orientation of character which determines the relatedness of a person to the world as a whole, not toward one "object" of love. If a person loves only one other person and is indifferent to the rest of his fellow men, his love is not love but a symbiotic attachment, or an enlarged egotism. Yet, most people believe that love is constituted by the object, not by the faculty.
 
-[[The Power Of Now]]
+[[The Power Of Now - enlightenment]]
 
 > The most fundamental kind of love, which underlies all types of love, is brotherly love. By this I mean the sense of responsibility, care, respect, knowledge of any other human being, the wish to further his life.
 

@@ -1,5 +1,5 @@
 ---
-title: Half-Real Video Games between Real Rules and Fictional Worlds
+title: Half-Real: Video Games between Real Rules and Fictional Worlds
 draft: true
 date: YYYY-MM-DD
 ---

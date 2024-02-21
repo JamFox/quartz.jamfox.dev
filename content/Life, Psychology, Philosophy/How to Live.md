@@ -7,7 +7,7 @@ From and inspired by [Hack Your Brain With Elaborate Coping Mechanisms](https://
 
 ## Live In The Now
 
-[[The Power Of Now]] is enlightenment. The past, the future, and pain are of the mind, the present is being, truly being, expressing, and existing.
+[[The Power Of Now - enlightenment]] is enlightenment. The past, the future, and pain are of the mind, the present is being, truly being, expressing, and existing.
 
 ## Declare bankruptcy on your memory 
 

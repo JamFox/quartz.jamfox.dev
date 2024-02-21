@@ -1,10 +1,10 @@
 ---
-title: When Good People Have Affairs
+title: When Good People Have Affairs - affair roots
 draft: false
 date: 2024-01-28
 ---
 
-[[The Art of Loving]]
+[[The Art of Loving - what is love]]
 
 ## Healing pain
 

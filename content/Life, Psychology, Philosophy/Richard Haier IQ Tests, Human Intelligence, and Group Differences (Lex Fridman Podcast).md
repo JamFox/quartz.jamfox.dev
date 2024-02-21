@@ -8,7 +8,7 @@ date: 2023-07-01
 
 ## Mõtteid
 
-Intelligentsus minu jaoks väga häguste piiridega osa isikust. Vana hea, et kui palju reduktsiooni saab selle defineerimisel kasutada enne kui see kasutuks muutub ([[How the World Thinks]]).
+Intelligentsus minu jaoks väga häguste piiridega osa isikust. Vana hea, et kui palju reduktsiooni saab selle defineerimisel kasutada enne kui see kasutuks muutub ([[How the World Thinks - global philosophy]]).
 AGA kui ma proovin intelligentsust kirjeldada, siis see on võime koguda, mõista, võrrelda (!), seostada (!) ja kasutada informatsiooni ja teadmisi. Informatsioon siis puhtad välised andmed ja meelte tulemused, teamised siis sisemiselt korrastatud, isiklikud tõed, arusaamised, seostatud ja internaliseeritud info sünteesid.
 Ja kuigi mainin info kogumist ja teadmiste sünteesi, siis tegelikult tunnetan, et intelligentsus on neist sõltuv ja mõjutatav (suurem info, kogemuste ja teadmiste hulk ju tegelikult muudab intelligentsuse kasutamise protsessi kiiremaks ja efektiivsemaks paremate/rohkemate seoste tõttu), kuid siiski erinev. Ka info ja teadmiste puudumisel eksisteerib intelligentsus, millega siis mõista, et infot ja/või teadmisi on puudu.
 G-factor, üldine intelligentsuse mõõt, samuti justkui toetab seda + minu teada IQ skoor on korrelatsioonis selliste asjadega nagu ajukoore paksus, mis on tugevasti seotud glükoosi ainevahetuse kiirusega ajus. Ehk suuresti on intelligentsus geenides, kehas, bioloogias kinni.

@@ -149,7 +149,7 @@ Gain confidence:
 
 ## Karma Fal / Action vs Outcome
 
-In Hindu tradition Krishna explains to Arjuna that **humans don't deserve any kind of fruit from actions. All humans are entitled to are actions themselves** ([[The Power Of Now]]). This is pretty much opposite to the modern outcome oriented thinking which leads to a lot of suffering. How many likes did something get? What grade did you get? How much money do you make? All questions regarding the outcome, not the action or process. And if the outcome does not match with our expectation, it shatters motivation. Krishna tells that we should devote ourselves to actions not outcomes.
+In Hindu tradition Krishna explains to Arjuna that **humans don't deserve any kind of fruit from actions. All humans are entitled to are actions themselves** ([[The Power Of Now - enlightenment]]). This is pretty much opposite to the modern outcome oriented thinking which leads to a lot of suffering. How many likes did something get? What grade did you get? How much money do you make? All questions regarding the outcome, not the action or process. And if the outcome does not match with our expectation, it shatters motivation. Krishna tells that we should devote ourselves to actions not outcomes.
 Focusing on the outcome is an endless loop if we define success by outcome because there is always a higher goal to achieve.
 
 Framing goals based on outcome actually makes the brain work against us. Brain is incredibly good at behavioural reinforcement, if things work out a particular way consistently the brain will reinforce that as a belief. If something does not get the desired result, the brain discourages that behaviour in the future.

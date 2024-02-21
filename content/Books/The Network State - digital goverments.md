@@ -1,5 +1,5 @@
 ---
-title: The Network State
+title: The Network State - digital goverments
 draft: false
 date: 2023-06-18
 ---
@@ -17,7 +17,7 @@ What if you could alter your real life experience in a similar way you can custo
 Provides a solution to how useless social media and news currently are. Heat vs work: are we just generating noise or are we producing work? Are the news we read relevant and actionable?
 Current social media is very isolated, discourages collective action.
 
-It can also help with belonging and finding one's community. More so when a network state acquires land and members start meeting/living regularly in their shards across the world. Again similarly to Discord servers. (Importance of community related to [[Outliers - extended families, better health outcomes]] and [[Why sex, food, and shelter aren’t enough for Homo Sapiens]])
+It can also help with belonging and finding one's community. More so when a network state acquires land and members start meeting/living regularly in their shards across the world. Again similarly to Discord servers. (Importance of community related to [[Outliers - extended families, better health outcomes]] and [[Why sex, food, and shelter aren't enough for Homo Sapiens]])
 
 What of crime and murder? Balaji argues that most of killing is done by states, not individuals. Removal of surveillance would also remove the tools to remove undesired individuals.
 
