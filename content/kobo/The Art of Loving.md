@@ -1,5 +1,5 @@
 ---
-title: The Art of Loving
+title: "The Art of Loving"
 draft: true
 date: YYYY-MM-DD
 ---

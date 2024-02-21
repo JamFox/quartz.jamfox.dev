@@ -1,5 +1,5 @@
 ---
-title: When Good People Have Affairs: Inside the Hearts & Minds of People in Two Relationships
+title: "When Good People Have Affairs: Inside the Hearts & Minds of People in Two Relationships"
 draft: true
 date: YYYY-MM-DD
 ---

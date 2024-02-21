@@ -1,5 +1,5 @@
 ---
-title: The Emotional Energy Factor
+title: "The Emotional Energy Factor"
 draft: true
 date: YYYY-MM-DD
 ---

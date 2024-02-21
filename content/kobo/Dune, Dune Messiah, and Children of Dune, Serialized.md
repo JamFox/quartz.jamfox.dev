@@ -1,5 +1,5 @@
 ---
-title: Dune, Dune Messiah, and Children of Dune, Serialized
+title: "Dune, Dune Messiah, and Children of Dune, Serialized"
 draft: true
 date: YYYY-MM-DD
 ---

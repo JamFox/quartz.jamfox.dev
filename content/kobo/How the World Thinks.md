@@ -1,5 +1,5 @@
 ---
-title: How the World Thinks
+title: "How the World Thinks"
 draft: true
 date: YYYY-MM-DD
 ---
