@@ -228,7 +228,7 @@ A great man doesn't seek to lead, he's called to it. And he answers. [[Leadershi
 
 > Paul raised his voice: "Observe her, comrades! This is a Bene Gesserit Reverend Mother, patient in a patient cause. She could wait with her sisters-ninety generations for the proper combination of parents and environment to produce a single person their scheming required. Observe her! She believes now that the ninety generations have culminated in success, but I will not do her bidding!"
 >
-"Jessica!" the old woman screamed. "Silence him!"
+>"Jessica!" the old woman screamed. "Silence him!"
 >
 > "Silence him yourself," Jessica said.
 >
