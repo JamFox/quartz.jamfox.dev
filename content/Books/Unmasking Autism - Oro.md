@@ -235,7 +235,7 @@ Adherence to Rigid Rules and Belief Systems:
 
 > Most of us aren't genius savants, and our worth should not be measured by our ability (or inability) to meet conventional benchmarks of success. What's really important here is to focus on how neurodiversity has brought pleasure, connection, and meaning to your life. Autism - 2024-02-26
 
-> I consulted with Jersey when they were developing the prompts for Special Interest Week, as did several other Autistic creators, including Matt and Brandy Haberer, who host the disability podcast The Chronic Couple. In October 2020, the first Special Interest Week ran on Instagram, with the accompanying hashtag #AutieJoy. - 2024-02-26
+> I consulted with Jersey when they were developing the prompts for Special Interest Week, as did several other Autistic creators, including Matt and Brandy Haberer, who host the disability podcast The Chronic Couple. In October 2020, the first Special Interest Week ran on Instagram, with the accompanying hashtag \#AutieJoy. - 2024-02-26
 
 > As disability advocate Rabbi Ruti Regan writes on the blog Real Social Skills, "noncompliance is a social skill." - 2024-02-25
 
