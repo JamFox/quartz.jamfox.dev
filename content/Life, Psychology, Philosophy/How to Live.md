@@ -15,15 +15,26 @@ There is two parts to getting things done:
 
 ## Figuring Yourself Out
 
-### Sleep
+### Sleep and Daily Rhythms
 
-**Figure out your sleep schedule**, at what time do you feel the happiest and most energized waking up?
+The human body and mind are loosely consistent, with clear rhythms that can be observed and changed. Usually when these cycles are graphed they look like poorly drawn sine waves. Metabolism, sleep, cognition, and other physiological processes follow a circadian rhythm: **figure out your rhythms:**
+
+- At what time do you feel the happiest and most energized waking up? Are you staying up late because you want to or are you avoiding something by tiring yourself out?
+- There is no such thing as genetic night owls or morning larks, however it is very hard to change sleep schedules abruptly. 
+- When food is available at the wrong time, our system will be affected. You feel hungry around the same time every morning regardless of what you ate for dinner the night before because our brain clock or the clock in the hunger center tells us when we should be hungry. At the same time, the brain and gut talk to each other, and the clock in the gut tells the brain to get ready for a rush of breakfast.
+- Coffee is bad for your circadian rhythm. And it affects digestion of glucose.
+- Fasting can help disrupt cycles and make it easier to become more aware of previous cycles and create new ones.
+- The brain also goes through many cycles, allowing yourself to switch between focused thinking (the so-called laborer mind) and diffuse mode thinking (the inspiration fairy, creative side, or the background processor) will lead to a much more natural and happier daily schedule.
+
+_"A rose is not necessarily and unqualifiedly a rose; that is to say, it is a very different biochemical system at noon and at midnight."_ 
 
 **Waking up to alarm clocks by nature means depraving naturally needed sleep.** Transitioning from alarms to no alarms might lead to a period of adjustment, where the body will want to ‘catch up’ on sleep and thus sleep longer than what will eventually become the natural rhythm.
 
 Consistency helps for most people, **most bodies benefit from a fairly rigid sleep schedule.**
 
 Listening to the body like with diets and exercise also applies to sleep, if the body does not want to sleep it will be harder: might be easier and better to just get less sleep on one day but sleep more the next. **Amount of sleep varies, average falls around 7-9 hours, edge cases might be as little as 4 to as much as 12.** Winter months and darkness leads to longer sleep, too much light leads to less sleep.
+
+A couple degrees colder temperature than you are used to when awake can improve sleep.
 
 For best sleep there is a suggestion about the so called 3-2-1 rule:
 
@@ -35,17 +46,8 @@ Sources:
 
 - [Joe Rogan Experience #1109 - Matthew Walker](https://www.youtube.com/watch?v=pwaWilO_Pig) 
 - [No more alarm clocks](https://tildes.net/~life/1c70/no_more_alarm_clocks)
-
-### Daily Cycles
-
-The human body and mind are almost never consistent, but there are loose rhythms that emerge. Usually when these cycles are graphed they look like poorly drawn sine waves.
-
-Daily energy levels
-
-Thinking mode cycles: focus/laborer and diffuse mode/inspiration fairy
-
-Sources:
-
+- Rhythms of Life by Russell Foster
+- The circadian code by Satchin Panda
 - [The Labor of Inspiration](https://moretothat.com/the-labor-of-inspiration/)
 - [[Learn How To Learn]]
 
@@ -72,8 +74,7 @@ Because half the time they DON'T, and it's not your responsibility to teach them
 
 ### Eat the frog
 
-Build a framework for your productivity.
-The first coping mechanism in this framework should be to eat the frog, which means to do the least pleasant or hardest task first. Don't let it loom over you while you do other easy things on your task list like laundry or shopping.
+To eat the frog means to do the least pleasant or hardest task first. Don't let it loom over you while you do other easy things on your task list like laundry or shopping.
 
 Do the hardest thing first and feel as the weight rolls off your feathers.
 
