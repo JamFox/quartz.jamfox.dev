@@ -5,6 +5,7 @@ date: 2023-09-12
 ---
 
 From: [Understand People series playlist](https://www.youtube.com/playlist?list=PLUBU-DCzad1ZnN41dPSu7ShBnBFb-RdYs) by  [Jem Veda](https://www.youtube.com/@JemVeda)
+
 ## Ego
 
 Ego is the self-concept each of us has made up, constructed arbitrarily.
