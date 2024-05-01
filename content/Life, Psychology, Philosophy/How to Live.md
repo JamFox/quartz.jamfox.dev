@@ -6,9 +6,9 @@ date: 2023-09-26
 
 ## Time and Task Management
 
-The brain is for HAVING ideas, not STORING ideas. The sooner you realize this, the sooner you can build systems to easily replace this unreliable ability.
+As broad overview on how I think about time management is that each of us works very differently and each of us has to leverage our abilities in different ways. I feel that the brain is for HAVING ideas, not STORING ideas. As such a lot of the tools focus on this.
 
-There is two parts to getting things done:
+There are two parts to getting things done:
 
 - Figuring yourself out
 - Using tools to augment your abilities
@@ -69,6 +69,8 @@ So do not resist negative emotions, to do that is to resist the flow of life. Li
 
 ### In the face of ambiguity, refuse the temptation to guess
 
+During our daily tasks, when we are tackling something unknown top down thinking can speed up our ability to deliver results. However if you feel that your guesses hit dead end again and again then put a stop to it and switch to a bottom up methodology and refuse the temptation to guess again.
+
 People take into consideration body language, tone, vocal hesitations, and extrapolate enormous amounts of information when talking. At the first hint of confusion or misunderstanding, say "I'm sorry, I don't understand". If they continue to give you incomplete confusing information, you are going to say again, patiently, "I don't understand", don't worry they won't mind repeating themselves, they all love talking, it'll help them too, trust me. And if on the third utterance they still don't make sense, you say "I'm sorry, I don't think YOU understand". 
 Because half the time they DON'T, and it's not your responsibility to teach them how to communicate.
 
@@ -126,13 +128,16 @@ Sources:
 
 ### Humanize, Organize, Mechanize
 
-**Humanise**  
+**Humanise**
+
 Do everything manually, on paper if needed, for many iterations.  
   
-**Organise**  
+**Organise**
+
 Notice the patterns that are creeping into your methods.  
   
-**Mechanise**  
+**Mechanise**
+
 Automate those patterns in a system, either by writing checklists, flowcharts or software.
 
 ## Using Tools to Augment Your Abilities
@@ -147,9 +152,25 @@ These systems come in many different forms and it is up to each of us to discove
 2. Have a place for loose notes
 3. Have a place for organized notes
 
-1. Carry a notebook, use a post-it app for quick ideas and thoughts
-2. Calendars are GREAT, put events in there. Events are not tasks that have a due date - those things should go in a task management system.
-3. Use a Note-Taking System. Use one with hyperlinks, that is as close to plain text as possible (wiki, markdown, obsidian).
+### Calendars
+
+Calendars are the main tool that allows one to tune the amount of order in our lives.
+
+Calendars, in general, work a lot better than lists. For critical things and short term to do lists, try to prefer calendar. For long term and optional things, to do lists work well.
+
+Sources:
+
+- [To-Do Lists Don't Work](https://hbr.org/2012/01/to-do-lists-dont-work)
+
+### Note Systems
+
+Once you establish a healthy sleep routine and clear your mind of the burden of remembering lists and schedules, you'll likely find yourself generating more ideas. So, what do you do with them? I find it helpful to categorize them into two main groups: loose and organized notes.
+
+Loose notes are for capturing spontaneous thoughts throughout the day. They serve as a repository without any barriers - simply jot down whatever comes to mind without worrying about organization or categorization. The goal is to capture ideas effortlessly, allowing you to revisit them later.
+
+Once you've had time to develop a loose note further, you can refine it and transform it into an organized note, making it more useful and actionable. Opposed to loose notes, with organized notes you should think less about content and a lot more about how to make information searchable and well categorized.
+
+There are countless note-taking systems available, but broadly speaking, consider whether you prefer physical or digital notes. If you opt for digital, I suggest using a plain text format to ensure compatibility with various systems in the future.
 
 ## Live In The Now
 
