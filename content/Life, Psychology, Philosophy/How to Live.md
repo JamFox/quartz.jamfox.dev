@@ -156,11 +156,12 @@ These systems come in many different forms and it is up to each of us to discove
 
 Calendars are the main tool that allows one to tune the amount of order in our lives.
 
-Calendars, in general, work a lot better than lists. For critical things and short term to do lists, try to prefer calendar. For long term and optional things, to do lists work well.
+Calendars, in general, work a lot better than lists as they allow you to offload thinking about when to do things. The mind hates unfinished things and will keep dwelling on them doubly so if it doesn't know for a fact that there isn't a specific time allocated to getting it done. For critical things and short term to do lists, try to prefer calendar. For long term and optional things, to do lists work well.
 
 Sources:
 
 - [To-Do Lists Don't Work](https://hbr.org/2012/01/to-do-lists-dont-work)
+- [[The Emotional Energy Factor - energy]]
 
 ### Note Systems
 
