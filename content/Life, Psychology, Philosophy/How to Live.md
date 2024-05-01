@@ -53,7 +53,7 @@ Sources:
 
 ### Chaos or Order
 
-To do things now or later?
+To do things now or later? Most people are usually told repeatedly that they should complete their things earlier rather than later. As a rule this works, but I know many a people who exceed in meeting deadlines late. Doing things last minute can be an advantage if you let yourself do things this way and don't beat yourself up for not doing it early.
 
 Sources:
 
