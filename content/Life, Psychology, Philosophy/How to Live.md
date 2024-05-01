@@ -140,6 +140,18 @@ Notice the patterns that are creeping into your methods.
 
 Automate those patterns in a system, either by writing checklists, flowcharts or software.
 
+### Get Medicated
+
+If it seems that no matter what you do, you can not focus and no system provides any way to alleviate it, consider getting diagnosed. Many go years only to jump in surprise after getting on medication (i.e. with ADHD) and wonder in hindsight "how the hell did I manage all these years? Is this what it feels like to have a quiet brain?" 
+
+### Accept Your Limits
+
+Life deals your cards just once, you only decide how to play them. There just are limits to our abilities that have no known ways to transcend them. The better you understand your limits the less you will spend on clean up after your body forces you to take breaks (burnouts, lack of sleep etc).
+
+Sources:
+
+- [[Richard Haier IQ Tests, Human Intelligence, and Group Differences (Lex Fridman Podcast)]]
+
 ## Using Tools to Augment Your Abilities
 
 The brain is for HAVING ideas, not STORING ideas. The sooner you realize this, the sooner you can build systems to easily replace this unreliable ability. So declare bankruptcy on your memory and figure out a task management system that works for you. David Allen's GTD, Trello, Zettelkasten, notebook task systems, calendars are all popular parts of successful systems.
