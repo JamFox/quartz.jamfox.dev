@@ -1,0 +1,38 @@
+[tools]
+node = "18.14"
+
+[tasks.default]
+description = 'Install deps and serve'
+depends = ['install','build','jampack','test']
+
+[tasks.install]
+description = 'Install quartz deps'
+run = 'npm install'
+alias = 'i'
+
+[tasks.create]
+description = 'Create quartz project'
+run = 'npx quartz create'
+
+[tasks.sync]
+description = 'Sync quartz project'
+run = 'npx quartz sync'
+
+[tasks.update]
+description = 'Update quartz project'
+run = 'npx quartz update'
+
+[tasks.build]
+description = 'Build quartz'
+run = "npx quartz build"
+alias = 'b'
+
+[tasks.test]
+description = 'Build and Serve quartz'
+run = "npx quartz build --serve"
+alias = 't'
+
+[tasks.clean]
+description = 'Clean built site directory'
+run = "rm -rf public"
+alias = 'c'
