@@ -237,3 +237,70 @@ A great man doesn't seek to lead, he's called to it. And he answers. [[Leadershi
 > "For your part in all this I could gladly have you strangled," Paul said. "You couldn't evade it!" he snapped as the old woman stiffened in rage. "But I think it better punishment that you live out your years never able to touch me or bend me to a single thing that your scheming desires."
 >
 > "Jessica, what have you done?" the old woman demanded.
+
+## Dune Messiah
+
+> There exists no separation between gods and men; one blends softly casual into the other.
+
+> To have built this place especially for Edric, though—what a sharp finger that pointed at his weakness. What here, Scytale wondered, was aimed at me?
+
+> A creature who has spent His life creating one particular representation of his selfdom will die rather than become the antithesis of that representation
+
+> They're not mad. They're trained to believe, not to know. Belief can be manipulated. Only knowledge is dangerous.
+
+> To use raw power is to make yourself infinitely vulnerable to greater powers.
+
+> The dis-trans defied political cryptology because it relied on subtle distortions of natural sound patterns which could be scrambled with enormous intricacy.
+
+> More than one government has fallen because people discovered the real extent of official wealth.
+
+> They think of the Jihad the way I thought of it—most of them. It is a source of strange experiences, adventure, wealth
+
+> "You don't back people into a corner," Alia said. "Not if you want them to remain peaceful."
+
+> "The uninitiated try to conceive of prescience as obeying a Natural Law," Paul said. He steepled his Hands in front of Him. "But it'd be just as correct to say it's heaven speaking to us, that being able to read the future is a Harmonious act of man's being. In other words, prediction is a natural consequence in the wave of the present. It wears the guise of nature, you see. But such powers cannot be used from an attitude that pre-states aims and purposes. Does a chip caught in the wave say where it's going? There is no cause and effect in the oracle. Causes become occasions or convections and confluences, places where the currents meet. Accepting prescience, you fill your being with concepts repugnant to the intellect. Your intellectual consciousness, therefore, rejects them. In rejecting, intellect becomes a part of the processes, and is subjugated.
+
+> "And why do the damned things have that many lights if we're not supposed to try for them?" "A Bene Gesserit should ask the reasoning behind an open-ended system?" Paul asked.
+
+> To whom was Edric speaking? Damnably clever words, that were heavy with manipulation leverages—that subtle undertone of comfortable humor, the unspoken air of shared secrets; his manner said he and Paul were two sophisticates, men of a wider universe who understood things not granted common folk. With a feeling of shock, Paul realized that he had not been the main target for all this rhetoric. This affliction visited upon the court had been speaking for the benefit of others—speaking to Stilgar, to the household guards...perhaps even to the hulking aide.
+
+> When a creature has developed into one thing, he will choose death rather than change into his opposite.
+
+> The pitfall of Bene Gesserit training, she reminded herself, lay in the powers granted; such powers predisposed one to vanity and pride. But power deluded those who used it. One tended to believe power could overcome any barrier...including one's own ignorance.
+
+
+> by every action that he preferred machines to men, statistics to individuals, the far away general view to the intimate personal touch requiring imagination and initiative.
+
+> It occurred to Paul then that all creatures must carry some kind of destiny stamped out by purposes of varying strengths, by the fixatives of training and disposition. From the moment the Jihad had chosen him, he'd felt himself hemmed in by the forces of a multitude. Their fixed purposes demanded and controlled his course. Any delusions of Free Will he harbored now must be merely the prisoner rattling his cage. His curse lay in the fact that he saw the cage.
+
+> "I told him that to endure oneself may be the hardest task in the universe."
+
+> Not collecting, that is the ultimate gathering.' What can you gather without gathering yourself?"
+
+> "Magnificent!" Bijaz chortled. "You attack—therefore you have will power and exercise self-determination."
+
+> our masters, the Tleilaxu. The Guild and Bene Gesserit believe we produce artifacts. In Reality, we produce tools and services. Anything can be a tool—poverty, war. War is useful because it is effective in so many areas. It stimulates the metabolism. It enforces government. It diffuses genetic strains. It possesses a vitality such as nothing else in the universe. Only those who recognize the value of war and exercise it have any degree of self-determination.
+
+> "Did you really see me go into the Tleilaxu tanks?" Hayt asked, fighting an odd reluctance to ask that question. "Did I not say it?" Bijaz demanded. The dwarf bounced to his feet. "We had a terrific struggle with you. The flesh did not want to come back."
+
+> Once...long ago he'd thought of himself as an inventor of government. But the invention had fallen into old patterns. It was like some hideous contrivance with plastic memory. Shape it any way you wanted, but relax for a moment, and it snapped into the ancient forms. Forces at work beyond his reach in human breasts eluded and defied him.
+
+> "You can't build politics on love," he said. "People aren't concerned with love; it's too disordered. They prefer despotism. Too much freedom breeds chaos. We can't have that, can we? And how do you make despotism lovable?"
+
+> Don't look too closely at the law. Do, and you'll find the rationalized interpretations, the legal casuistry, the precedents of convenience. You'll find the serenity, which is just another word for death.
+
+> The convoluted wording of legalisms grew up around the necessity to hide from ourselves the violence we intend toward each other. Between depriving a man of one hour of his life and depriving him of his life there exists only a difference of degree. You have done violence to him, consumed his energy. Elaborate euphemisms may conceal your intent to kill but behind any use of power over another the ultimate assumption remains: "I feed on your energy."
+
+> Government cannot be religious and self-assertive at the same time. Religious experience needs a spontaneity which laws inevitably suppress. And you cannot govern without laws. Your laws eventually must replace morality, replace conscience, replace even the religion by which you think to govern. Sacred ritual must spring from praise and holy yearnings which hammer out a significant morality. Government, on. the other hand, is a cultural organism particularly attractive to doubts, questions and contentions. I see the day coming when ceremony must take the place of faith and symbolism replace morality.
+
+> Possession of second sight has a tendency to make one a dangerous fatalist, she thought. Unfortunately, there existed no abstract leverage, no calculus of prescience. Visions of the future could not be manipulated as formulae. One had to enter them, risking life and sanity.
+
+> "I wanted to be able to laugh," she whispered. Tears slid down her cheeks. "But I'm sister to an emperor who's worshipped as a god. People fear me. I never wanted to be feared." HE wiped the tears from her face. "I don't want to be part of history," she whispered. "I just want to be loved...and to love."
+
+> "I must...I must. He's the bait in his own trap. He's the servant of power and terror. Violence...deification is a prison enclosing him. He'll lose...everything. It'll tear him apart." "You speak of Paul?" "They drive him to destroy himself," she gasped, arching her back. "Too much weight, too much grief. They seduce him away from love." She sank back to the bed. "They're creating a universe where he won't permit himself to live."
+
+> There exists a limit to the force even the most powerful may apply without destroying themselves. Judging this limit is the true artistry of government. Misuse of power is the fatal sin. The law cannot be a tool of vengeance, never a hostage, nor a fortification against the martyrs it has created. One cannot threaten any individual and escape the consequences.
+
+> But my hands are blue with time. I think...I think I tried to invent life, not realizing it had already been invented.
+
+> "The Zensunni approach to birth," he said, urging her along faster, "is to wait without purpose in the state of highest tension. Do not compete with what is happening. To compete is to prepare for failure. Do not be trapped by the need to achieve anything. This way, you achieve everything."
