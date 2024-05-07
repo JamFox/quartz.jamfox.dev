@@ -13,9 +13,9 @@ There are two parts to getting things done:
 - Figuring yourself out
 - Using tools to augment your abilities
 
-## Figuring Yourself Out
+### Figuring Yourself Out
 
-### Sleep and Daily Rhythms
+#### Sleep and Daily Rhythms
 
 The human body and mind are loosely consistent, with clear rhythms that can be observed and changed. Usually when these cycles are graphed they look like poorly drawn sine waves. Metabolism, sleep, cognition, and other physiological processes follow a circadian rhythm: **figure out your rhythms:**
 
@@ -51,7 +51,7 @@ Sources:
 - [The Labor of Inspiration](https://moretothat.com/the-labor-of-inspiration/)
 - [[Learn How To Learn]]
 
-### Chaos or Order
+#### Chaos or Order
 
 To do things now or later? Most people are usually told repeatedly that they should complete their things earlier rather than later. As a rule this works, but I know many a people who exceed in meeting deadlines late. Doing things last minute can be an advantage if you let yourself do things this way and don't beat yourself up for not doing it early.
 
@@ -59,7 +59,7 @@ Sources:
 
 - [[ADHD]]
 
-### Negative emotions are a compass
+#### Negative emotions are a compass
 
 I don't know why people romanticise jealousy as protectiveness, anger as passion, greed as ambition, but you don't need to learn these emotions. And if you have learned them, you certainly don't need to practice them. In fact, do the opposite. **Save your energy by focusing on the positives and strengths**, there's a lot to be happy about in our life, we're extremely fortunate!
 
@@ -67,14 +67,14 @@ Negative emotions are a signal deep from within, they give clues about your root
 
 So do not resist negative emotions, to do that is to resist the flow of life. Listen to the signals and find your place in life. Life is like a river we can't get out of. You either go with the flow, use the flow, and swim in the flow or you stay in place, frustrated, and eventually tire and break.
 
-### In the face of ambiguity, refuse the temptation to guess
+#### In the face of ambiguity, refuse the temptation to guess
 
 During our daily tasks, when we are tackling something unknown top down thinking can speed up our ability to deliver results. However if you feel that your guesses hit dead end again and again then put a stop to it and switch to a bottom up methodology and refuse the temptation to guess again.
 
 People take into consideration body language, tone, vocal hesitations, and extrapolate enormous amounts of information when talking. At the first hint of confusion or misunderstanding, say "I'm sorry, I don't understand". If they continue to give you incomplete confusing information, you are going to say again, patiently, "I don't understand", don't worry they won't mind repeating themselves, they all love talking, it'll help them too, trust me. And if on the third utterance they still don't make sense, you say "I'm sorry, I don't think YOU understand". 
 Because half the time they DON'T, and it's not your responsibility to teach them how to communicate.
 
-### Eat the frog
+#### Eat the frog
 
 To eat the frog means to do the least pleasant or hardest task first. Don't let it loom over you while you do other easy things on your task list like laundry or shopping.
 
@@ -84,7 +84,7 @@ Sources:
 
 - [[Learn How To Learn]]
 
-### Build habits, then chain them together
+#### Build habits, then chain them together
 
 Pay attention to what is making you do thing, its trigger, like a location, a song, a person or a thought. Then build a feedback loop to improve and chain these triggers together.
 
@@ -94,13 +94,13 @@ Sources:
 
 - [[16 seconds to change a habit]]
 
-### Imitate, imitate, imitate
+#### Imitate, imitate, imitate
 
 Pay attention to how people act, do what they do, then adapt things to fit to *you*.
 
 This works as well in a sprint planning meeting as it does on the dance floor.
 
-### Just do a bit
+#### Just do a bit
 
 Cumulative change adds up. Doing little makes things seems manageable and easier.
 
@@ -114,7 +114,7 @@ Sources:
 
 - [[Dr K's Guide - Depression]]
 
-### Do LESS
+#### Do LESS
 
 There is an infinite amount of things to experience, do and create. You will be inclined to say yes to everything every time. Take a look at your calendar: what if you get sick? And yes, it allows you to double-triple-quadruple book events, but should you? Give slack.
 
@@ -126,7 +126,7 @@ Sources:
 
 - [[What to focus on - life is a multi armed bandit]]
 
-### Humanize, Organize, Mechanize
+#### Humanize, Organize, Mechanize
 
 **Humanise**
 
@@ -140,11 +140,11 @@ Notice the patterns that are creeping into your methods.
 
 Automate those patterns in a system, either by writing checklists, flowcharts or software.
 
-### Get Medicated
+#### Get Medicated
 
 If it seems that no matter what you do, you can not focus and no system provides any way to alleviate it, consider getting diagnosed. Many go years only to jump in surprise after getting on medication (i.e. with ADHD) and wonder in hindsight "how the hell did I manage all these years? Is this what it feels like to have a quiet brain?" 
 
-### Accept Your Limits
+#### Accept Your Limits
 
 Life deals your cards just once, you only decide how to play them. There just are limits to our abilities that have no known ways to transcend them. The better you understand your limits the less you will spend on clean up after your body forces you to take breaks (burnouts, lack of sleep etc).
 
@@ -152,7 +152,7 @@ Sources:
 
 - [[Richard Haier IQ Tests, Human Intelligence, and Group Differences (Lex Fridman Podcast)]]
 
-### Look Out For Burnouts
+#### Look Out For Burnouts
 
 Burnouts don't happen because you are doing too much, instead it is about excessive effort with minimal benefit so the brain starts doing the effort calculus and finds the outcomes not worthwhile.
 
@@ -162,7 +162,7 @@ Sources:
 
 - [Quiet Quitting? Should You Do It?](https://youtube.com/watch?v=rA4zectrEOo)
 
-## Using Tools to Augment Your Abilities
+### Using Tools to Augment Your Abilities
 
 In my mind the brain is for HAVING ideas, not STORING ideas. Maybe its a self fulfilling that I consider memory to be unreliable, but I decided to declare bankruptcy on my memory and figure out a task management system that allows me to keep my mind as empty as possible. The less I think about what to do and when to do it, the more I have time to focus on what matters to me.  As examples David Allen's GTD, Trello, Zettelkasten, notebook task systems, calendars are all popular parts of successful systems.
 
@@ -177,7 +177,7 @@ In the end these systems come in many different forms and it is up to each of us
 3. Organized notes
 	- Make your ideas and knowledge actionable and useful
 
-### Calendars
+#### Calendars
 
 Calendars are the main tool that allows one to tune the amount of order in their lives.
 
@@ -188,7 +188,7 @@ Sources:
 - [To-Do Lists Don't Work](https://hbr.org/2012/01/to-do-lists-dont-work)
 - [[The Emotional Energy Factor - energy]]
 
-### Note Systems
+#### Note Systems
 
 Once you establish a healthy sleep routine and clear your mind of the burden of remembering lists and schedules, you'll likely find yourself generating more ideas. So, what do you do with them? I find it helpful to categorize them into two main groups: loose and organized notes.
 
@@ -198,7 +198,7 @@ Once you've take the time to develop a loose note further, you can refine it and
 
 There are countless note-taking systems available, but broadly speaking, consider whether you prefer physical or digital notes. If you opt for digital, I suggest using a plain text format to ensure compatibility with various systems in the future (Markdown based systems are great).
 
-### Bringing Notes and Calendars Together By Example
+#### Bringing Notes and Calendars Together By Example
 
 Let's walk through an example of my daily life, navigating my systems.
 
