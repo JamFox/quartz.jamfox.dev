@@ -152,21 +152,34 @@ Sources:
 
 - [[Richard Haier IQ Tests, Human Intelligence, and Group Differences (Lex Fridman Podcast)]]
 
+### Look Out For Burnouts
+
+Burnouts don't happen because you are doing too much, instead it is about excessive effort with minimal benefit so the brain starts doing the effort calculus and finds the outcomes not worthwhile.
+
+When you work your ass off only to have your boss dismiss will lead to burnout. A leader recognizing your hard work and value will do the opposite. The only difference between these situations is the outcome of the value we tried to create not the amount of effort.
+
+Sources:
+
+- [Quiet Quitting? Should You Do It?](https://youtube.com/watch?v=rA4zectrEOo)
+
 ## Using Tools to Augment Your Abilities
 
-The brain is for HAVING ideas, not STORING ideas. The sooner you realize this, the sooner you can build systems to easily replace this unreliable ability. So declare bankruptcy on your memory and figure out a task management system that works for you. David Allen's GTD, Trello, Zettelkasten, notebook task systems, calendars are all popular parts of successful systems.
+In my mind the brain is for HAVING ideas, not STORING ideas. Maybe its a self fulfilling that I consider memory to be unreliable, but I decided to declare bankruptcy on my memory and figure out a task management system that allows me to keep my mind as empty as possible. The less I think about what to do and when to do it, the more I have time to focus on what matters to me.  As examples David Allen's GTD, Trello, Zettelkasten, notebook task systems, calendars are all popular parts of successful systems.
 
-Make sure to make it possible filter tasks by what you can and can't do at a moment: task systems that don't do this filtering create more undue distractions.
+Whatever system piques your interest, there is one general tip: **make sure to make it possible filter tasks by what you can and can't do at a moment: task systems that don't do this filtering create more undue distractions.** Calendars are good at this by design in such a way that you probably didn't even notice it.
 
-These systems come in many different forms and it is up to each of us to discover and build the one that works for our brain alone. The common core of the systems is usually following:
+In the end these systems come in many different forms and it is up to each of us to discover and build the one that works for our brain alone. The common core of the systems is usually following:
 
-1. Have a calendar of some sort
-2. Have a place for loose notes
-3. Have a place for organized notes
+1. Calendar
+	- What to do and when to do
+2. Loose notes
+	- Store ideas quickly
+3. Organized notes
+	- Make your ideas and knowledge actionable and useful
 
 ### Calendars
 
-Calendars are the main tool that allows one to tune the amount of order in our lives.
+Calendars are the main tool that allows one to tune the amount of order in their lives.
 
 Calendars, in general, work a lot better than lists as they allow you to offload thinking about when to do things. The mind hates unfinished things and will keep dwelling on them doubly so if it doesn't know for a fact that there isn't a specific time allocated to getting it done. For critical things and short term to do lists, try to prefer calendar. For long term and optional things, to do lists work well.
 
@@ -179,11 +192,44 @@ Sources:
 
 Once you establish a healthy sleep routine and clear your mind of the burden of remembering lists and schedules, you'll likely find yourself generating more ideas. So, what do you do with them? I find it helpful to categorize them into two main groups: loose and organized notes.
 
-Loose notes are for capturing spontaneous thoughts throughout the day. They serve as a repository without any barriers - simply jot down whatever comes to mind without worrying about organization or categorization. The goal is to capture ideas effortlessly, allowing you to revisit them later.
+Loose notes are for capturing spontaneous thoughts, ideas, and other knowledge throughout the day. They serve as a repository without any barriers - simply jot down whatever comes to mind without worrying about organization or categorization. The goal is to capture ideas effortlessly, allowing you to revisit them later if need be.
 
-Once you've had time to develop a loose note further, you can refine it and transform it into an organized note, making it more useful and actionable. Opposed to loose notes, with organized notes you should think less about content and a lot more about how to make information searchable and well categorized.
+Once you've take the time to develop a loose note further, you can refine it and transform it into an organized note, making it more useful and actionable. Opposed to loose notes, with organized notes you should think less about content and a lot more about how to make information comprehensible, searchable and well categorized.
 
-There are countless note-taking systems available, but broadly speaking, consider whether you prefer physical or digital notes. If you opt for digital, I suggest using a plain text format to ensure compatibility with various systems in the future.
+There are countless note-taking systems available, but broadly speaking, consider whether you prefer physical or digital notes. If you opt for digital, I suggest using a plain text format to ensure compatibility with various systems in the future (Markdown based systems are great).
+
+### Bringing Notes and Calendars Together By Example
+
+Let's walk through an example of my daily life, navigating my systems.
+
+I check my calendar and see that I have a day with no hard commitments, prompting me to designate it as a workday. I get to work and open my personal Trello board where I have two lists:
+
+- Active
+- Backlog
+
+Trello serves as a complement to my calendar. While calendars excel in delineating specific timeframes for tasks, they falter when it comes to handling unstructured time allocations, such as my workday. Thus, Trello accommodates tasks without predefined time slots, allowing me to categorize them under specific activities. This setup enables me to view scheduled activities on my calendar while referencing associated tasks on Trello.
+
+So, I take 1 or 2 things (if I can do them in parallel) from the Backlog and drop them in to the Active list. During the time at work I will work on the Active tasks, adding notes to the item as I go along and then archive the item once the task is finished.
+
+Then, over coffee we talk about a movie a colleague saw and it seems interesting so I open StandardNotes on my phone and write the movie to the To-Read note. This is where I keep my loose notes. I did say to not focus on organizing loose notes, but over time it is likely that you will find that you keep taking most of your notes in similar categories. These categories will emerge over time and I don't think it is useful to plan for them in advance. The To-Read notes pile comes from my need to quickly jot down articles, books, videos, games, etc that I see mentioned to check them out later. StandardNotes is my preference as it syncs on different devices and as such is always at hand.
+
+One of my friends calls and asks if we could hang out some time and we find a time which I immediately put in the calendar. I get a notification about a classes exam dates so I note down in the calendar a week before the exam to prepare a cheat sheet.
+
+Once I get home with groceries to make a taco recipe that I found. I really like it so I decide to write it down to my MkDocs public site so I can always find, reference, and share it later. After updating the recipe page, I share the link with a friend who shares my love for tacos.
+
+Using a static site such as MkDocs allows me to note down specific _instructions_ with related information that can be shared publicly and make it actionable for others as well as me. MkDocs is a site framework specifically for documentation so I use it exactly for that: actionable repeatable steps are recorded there for later reference.
+
+After eating I check out my StandardNotes To-Read pile and find a movie the colleague mentioned, it seems interesting by the trailer so I decide to watch it. Turns out its a great flick with good thought provoking ideas. I decide that I want to write about it to get my thoughts in order about what I think about the ideas discussed in the movie. I write them down in my Second Brain public site. The Second Brain is a place to store distilled thoughts, analysis, and idea synthesis that is specific to me that I wish to remember. While MkDocs is as much about making useful to others as it is for me, then the Second Brain is a place mainly for myself and only tangentially useful to others. My Second Brain is built on Obsidian and published using Quartz, I like Obsidian because its design allows the knowledge to be in free flowing by the use of links which when visualized create a web with connections between notes. This is why I prefer references, content snippets, analysis, and synthesis to be on the Second Brain and not MkDocs: it doesn't enforce any kind of structure so it can take the shape according to how I think and process information.
+
+After dinner, I peruse my StandardNotes To-Read list, stumbling upon the movie recommended by my colleague. Intrigued by its trailer, I decide to watch it and find it to be a captivating film with thought-provoking themes. Inspired, I jot down my reflections on my Second Brain public site - a repository for distilled thoughts and personal reflections. Built on Obsidian and published using Quartz, my Second Brain offers a space for introspective musings and idea synthesis, leveraging Obsidian's flexible design to accommodate my thinking process with interconnected notes and free-flowing links. This distinction from MkDocs' tightly structured instructions lies in its focus on personalizing it's structure to take the shape of how one thinks (kind of like the links mimic connections in the brain).
+
+All in all this is what my systems look like in a wide overview:
+
+1. **Calendar**: The main time management companion. While it excels at scheduling appointments and commitments, it falls short when it comes to accommodating tasks without rigid time constraints.
+2. **Trello**: A versatile sidekick to the calendar organizing projects and activities. Its flexible structure allows me to categorize tasks and prioritize them without the constraints of fixed deadlines of the calendar.
+3. **StandardNotes**: Loose notes notepad, for capturing fleeting thoughts, inspiration, and noteworthy recommendations. Its accessibility across devices ensures that no idea goes unrecorded.
+4. **MkDocs**: A simple documentation platform that serves as my repository for curated recipes, instructions, and other actionable insights. Its structure and public nature allows me to share knowledge with others as well.
+5. **Second Brain (Obsidian with Quartz)**: My digital sanctuary for contemplation and synthesis. Obsidian's interconnected note system facilitates the exploration and organization of complex ideas.
 
 ## Live In The Now
 
