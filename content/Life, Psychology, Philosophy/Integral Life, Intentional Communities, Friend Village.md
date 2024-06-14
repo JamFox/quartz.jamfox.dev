@@ -5,6 +5,8 @@ date: 2024-01-29
 ---
 [[Metatheory of Ego and Society Development]]
 
+[[Outliers - extended families, better health outcomes]]
+
 https://bigthink.com/series/great-question/loneliness-epidemic/
 
 https://en.wikipedia.org/wiki/Spiral_Dynamics

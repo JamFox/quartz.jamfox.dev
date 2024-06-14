@@ -231,9 +231,21 @@ All in all this is what my systems look like in a wide overview:
 4. **MkDocs**: A simple documentation platform that serves as my repository for curated recipes, instructions, and other actionable insights. Its structure and public nature allows me to share knowledge with others as well.
 5. **Second Brain (Obsidian with Quartz)**: My digital sanctuary for contemplation and synthesis. Obsidian's interconnected note system facilitates the exploration and organization of complex ideas.
 
-## Live In The Now
+## Finding meaning
 
-[[The Power Of Now - enlightenment]] is enlightenment. The past, the future, and pain are of the mind, the present is being, truly being, expressing, and existing.
+Take up the Great Work, spiritually speaking, making your own philosopher's stone.
+
+Find a means to build control of and regulate your breath, be it through walking, running, or hiking, then apply that control to just simply sitting.
+
+Expose, but then later extinguish, past traumas. This is sometimes called memory integration. Building this critical aspect of self-regulation will greatly aid your medications, depending on what you take.
+
+Surround yourself with aphorisms that are not merely related to this process, but that also speak to you personally. Cultivate a collection of works that contain passages which weave their way into your mind, insidiously. This is sometimes called sublimating your thought patterns. If possible, collect them into a journal or book that you imbibe with a sense of personal meaning or sacredness.
+
+Learn the key to _mundane_ invisibility by being so still with your thoughts that they cease, people don't notice you (or you don't notice them), and you lose notice of yourself. We all do this for a second or two, here and there, every day. The more you paradoxically take account of this, the more possible it becomes to induce it, creating more and more room for the answer to form. Use this skill especially while sitting outside, if possible. [[The Power Of Now - enlightenment]] provides the way. The past, the future, and pain are of the mind, the present is being, truly being, expressing, and existing.
+
+### Sources
+
+- [How to find purpose in life?](https://tildes.net/~life/1gx6/how_to_find_purpose_in_life)
 
 ## General Sources
 
