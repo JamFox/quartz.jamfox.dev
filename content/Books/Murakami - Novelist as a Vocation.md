@@ -1,6 +1,6 @@
 ---
 title: "Murakami - Novelist as a Vocation.md"
-draft: true
+draft: false
 date: 2024-06-14
 ---
 
