@@ -8,6 +8,8 @@ date: 2024-06-14
 
 [[The Power Of Now - enlightenment]]
 
+[[Unmasking Autism - Oro]]
+
 > If allistics (non-Autistics) never hear our needs voiced, and never see our struggle, they have no reason to adapt to include us. We must demand the treatment we deserve, and cease living to placate those who have overlooked us.
 
 One can behave in different ways to get different treatment, but demanding a certain treatment leads to opposite effect. People have ingrained beliefs, stemming from their own background and traumas, there are reasons for believing what they believe, even if the beliefs are "overlooking" some groups of people. Telling people that their whole belief systems is wrong will put them on the defence and worse case they'll find roundabout ways to rationalize why they are good persons regardless (see: [[This is not who I am]]).
@@ -117,6 +119,8 @@ Controlling environments comes with many complications. Seek change within befor
 > Years ago, Sue’s manager learned that by giving her flexibility, the organization gets to benefit from her natural productivity and thoroughness.
 
 > **Inauthenticity and a forced-seeming social performance rubs neurotypicals the wrong way.**
+
+See: [[What Others Think of You and Leaky Feelings]]
 
 > “My new plan is to put some hooks on the wall right beside my bed, so I don’t have to take even one extra step to hang up clothes that aren’t dirty yet,” she explains. Dirty clothing can go in the hamper, or just be tossed on the floor and gathered up later. This approach keeps Marta’s room reasonably organized, but she doesn’t put stress on herself for not keeping things perfectly organized and clean.
 
