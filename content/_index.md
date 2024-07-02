@@ -12,7 +12,7 @@ Little by little, slowly but surely, always in progress, always changing...
 
 It shows **all** notes and how they connect to each other.
 
-Flat, tagless structure lets me focus on the content and not the structure; graph view takes care of the rest! Hence, there is no very precise categories or tags to browse by.
+Flat, tagless structure lets me focus on the content and not the structure; graph view takes care of the rest! Hence, there are no very precise categories or tags to browse by.
 
 ## Contents
 
