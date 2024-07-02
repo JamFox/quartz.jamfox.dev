@@ -1,7 +1,7 @@
 ---
 title: Neon Genesis Evangelion
 draft: false
-date: 2023-07-02
+date: 2024-07-02
 ---
 
 ## Neon Genesis Evangelion
