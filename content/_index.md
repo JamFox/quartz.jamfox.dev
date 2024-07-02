@@ -12,11 +12,11 @@ Little by little, slowly but surely, always in progress, always changing...
 
 It shows **all** notes and how they connect to each other.
 
-Flat, tagless structure lets me focus on the content and not the structure; graph view takes care of the rest! Hence, there is no conventional table of notes, categories or tags to browse by.
+Flat, tagless structure lets me focus on the content and not the structure; graph view takes care of the rest! Hence, there is no very precise categories or tags to browse by.
 
-### Contents
+## Contents
 
-Is the graph view overwhelming? Here are some general directories by topic that you can explore.
+Is the graph view overwhelming? Here are some very generally categorized directories that you can explore:
 
 🌌 [[Life, Psychology, Philosophy]]
 
