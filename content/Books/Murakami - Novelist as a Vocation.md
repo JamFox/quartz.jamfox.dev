@@ -1,5 +1,5 @@
 ---
-title: "Murakami - Novelist as a Vocation.md"
+title: "Murakami - Novelist as a Vocation"
 draft: false
 date: 2024-06-14
 ---
