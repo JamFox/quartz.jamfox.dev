@@ -17,6 +17,7 @@ export interface D3Config {
   opacityScale: number
   removeTags: string[]
   showTags: boolean
+  focusOnHover?: boolean
 }
 
 interface GraphOptions {

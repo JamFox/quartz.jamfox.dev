@@ -3,7 +3,7 @@ node = "18.14"
 
 [tasks.default]
 description = 'Install deps and serve'
-depends = ['install','build','jampack','test']
+depends = ['install','build','test']
 
 [tasks.install]
 description = 'Install quartz deps'
