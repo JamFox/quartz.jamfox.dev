@@ -6,6 +6,31 @@ date: 2024-07-02
 
 ## Neon Genesis Evangelion
 
+show cares most about experience and characters
+
+doesn't care about canonicity, and it barely cares about narrative
+
+more interested in characters, and their relationships to each other and the world they inhabit
+
+fundamental lack that humans have, from which all fear comes from and how we deal with it, or more importantly how we avoid dealing with it. It proposes that man has self-awareness, which by definition means that it perceives itself as separate from others, which creates the motivation to return to a sort of unity, to remove oneself from this separatedness. Besides the psychological examples through its characters Evangelion also provides a semi-physical way of identifying this separatedness with the AT (Absolute Terror) field. An AT field separates and protects the ego and sense of self of a person from everyone else, allowing them to exist as an individual.
+
+MC yelling in the first episode that he DOESNT want to be the pilot to save humanity.
+
+Classic tale of a youngling destined to save the world, a more realistic take: he would fail, be driven insane in the process, world would not be saved
+
+aesthetics
+
+OST
+
+grounded, emphasizes logistics
+
+Learning to love oneself:
+
+- "one who truly hates himself cant come to love and trust others"
+- "im cowardly, sneaky and weak” “see? if you understand yourself you can take care of yourself”
+
+Congratulations! so sincere that it feels ironic
+
 ### Series episodes
 
 #### Episode 1 
