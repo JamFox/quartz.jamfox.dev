@@ -405,6 +405,7 @@ asukas mother pressured to be a good mother, mother trying to avoid being a moth
 "she looked so happy dead, i hate how she looked"
 
 "i dont want to depend on anyone, but i hate it at the same time, its a pain, i dont want to be alone"
+
 Shinji ---
 
 "you wished the annahilation of everyone" "no this is not what i wanted, please save me" "nobody can save you from yourself"
