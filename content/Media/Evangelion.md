@@ -27,7 +27,7 @@ grounded, emphasizes logistics
 Learning to love oneself:
 
 - "one who truly hates himself cant come to love and trust others"
-- "im cowardly, sneaky and weak” “see? if you understand yourself you can take care of yourself”
+- "im cowardly, sneaky and weak" "see? if you understand yourself you can take care of yourself"
 
 Congratulations! so sincere that it feels ironic
 
@@ -472,6 +472,15 @@ With ultimate freedom, shinji still does not know what to do. Restriction gives 
 congratulations!
 
 ### The End of Evangelion
+
+
+Asuka overjoyed that mother is watching over her and she has barrier from everyone else. MP evas then rip that barrier, proving her wrong.
+
+Misato motivating shinji, comforting him only way she knows? Bit of groomer vibes???
+
+Asuka finally rejects shinji: finally understood how empty shinji was, or how empty her need for shinjis approval was. "How disgusting"
+
+Gendo admits: "When Shinji is near me, all I ever do is cause him pain. I thought it was better when I did nothing at all… I didn't believe that anyone could love me. I never deserved to be loved."
 
 ### Rebuild of Evangelion
 
