@@ -476,7 +476,7 @@ congratulations!
 
 Asuka overjoyed that mother is watching over her and she has barrier from everyone else. MP evas then rip that barrier, proving her wrong.
 
-Misato motivating shinji, comforting him only way she knows? Bit of groomer vibes???
+Misato motivating shinji, comforting him only way she knows? Bit of groomer vibes??? But after all eva started with shinji looking for misato, looking at a postcard she sent her, with her pic on it that had arrows pointing to her boobs and with a lipstick kiss on it
 
 Asuka finally rejects shinji: finally understood how empty shinji was, or how empty her need for shinjis approval was. "How disgusting"
 
