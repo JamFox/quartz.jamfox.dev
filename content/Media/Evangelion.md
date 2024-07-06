@@ -473,14 +473,15 @@ congratulations!
 
 ### The End of Evangelion
 
-
 Asuka overjoyed that mother is watching over her and she has barrier from everyone else. MP evas then rip that barrier, proving her wrong.
 
 Misato motivating shinji, comforting him only way she knows? Bit of groomer vibes??? But after all eva started with shinji looking for misato, looking at a postcard she sent her, with her pic on it that had arrows pointing to her boobs and with a lipstick kiss on it
 
-Asuka finally rejects shinji: finally understood how empty shinji was, or how empty her need for shinjis approval was. "How disgusting"
-
 Gendo admits: "When Shinji is near me, all I ever do is cause him pain. I thought it was better when I did nothing at all… I didn't believe that anyone could love me. I never deserved to be loved."
+
+Eva first goes explicitly meta, showing bad reviews and hate letters, going right into the cinema to the audience
+
+Asuka finally rejects shinji: finally understood how empty shinji was, or how empty her need for shinjis approval was. "How disgusting"
 
 ### Rebuild of Evangelion
 
