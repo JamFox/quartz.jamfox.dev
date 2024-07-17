@@ -487,8 +487,142 @@ Asuka finally rejects shinji: finally understood how empty shinji was, or how em
 
 #### Evangelion: 1.0 You Are (Not) Alone
 
+"Mulle meeldib see uus still, nii puhas"
+
+"Palju parem kui sarjas, esimene fight ei olnud lõigatud" - eva teab kuidas erinevatele generatsioonidele teha erinevalt
+
+Shinji has more resolve, less enesehaletsus
+
 #### Evangelion: 2.0 You Can (Not) Advance
+
+Mari as self insert?
+
+Shinji more relaxed and carefree? Actively tries to csre for others (like rei in fish museu)
+
+Asuka more explicit, more attention towarss shinji (when going to sleep next to him)
+
+Rei asking gendo dinner with everyone
+
+Asuka openly jealous, cooking
+
+Elevator talk asuka rei
+
+Asuka opening up to misato
+
+Shinji willing to lose humanity, "doesnt matter what happens ro me or anyone, i want ayanami back" 
+
+End credits kaworu "this time ill make you happy"
+
+A new subplot is also introduced of Rei trying to bring the two Ikaris together for a dinner party. Gendo agrees to partake after he sees Yui reflected in Rei.
+
+When the destruction of Unit 03 plays out like the original series, it’s even more tragic. Gendo was trying to connect with his son, but by forcing Shinji to watch one of his friends nearly be killed, Gendo pushed his son further away than ever before.
 
 #### Evangelion: 3.0 You Can (Not) Redo
 
+Guilt tripped for almost starting 3rd impact.
+
+In a similar way to father, he was ready to sacrifice everything for rei.
+
+DSS chocker, kills to prevent impact from starting by killing pilot if they are piloting and "succumb to emotions", "device for safety, symbol of distrust and punishment"
+
+"A single life is no longer worth anything" - asuka
+
+Misato wants shinji to stay for the sake of everyone, shinji "what about my opinion? what i want?"
+
+"shinji is less of an idiot and more of a brat" - asuka
+
+Shinji more directly wants to ask gendo what is going on, gendo avoids.
+
+kaworu connects with shinji over music, is understanding and listens.
+
+kaworu shows shinji that he was responsible for mass exticntion, shinji - "this is too much to bear, i cant be responsible, theres nothing i can do!!!"
+
+kaworu "you cant change what has been" shinji "i didnt do anything!" kaworu "however there is no unforgivable sin, there is still hope, there is always hope"
+
+Fuyutsuki says to gendo that he should get closer to shinji, gendo refuses. Fuyutsuki gives shinji the truth himself.
+
+shinji meltdown, everybody hates him, he didnt save rei (just a doll now), father is distant, weight of the world on his shoulders
+
+Kaworu sacrafices himself by taking DSS choker just like in original series to save shinji/humanity.
+
+Shinji "I will pilot the eva and change the world" to make everything right again. "with those spears we can redo everything and save the world"
+
+shinji starts 4th impact "what do i do"
+
+After 4th rei, asuka and shinji on the ground. Shinji zombified, asuka leading the charge, rei just following like a doll
+
+Its not about if shinji "gets in the robot" or not, its about problems, unfaced shadows of shinji. In rebuilds he is "more of a brat" like asuka says in the beginnging of 3 but goes to show thatcthis does not fix anything, only makes things worse.
+
 #### Evangelion: 3.0+1.0 Thrice Upon a Time
+
+Shinji in suzuhara's village, unable to see life around him, only focusing on failure and fear. Anything good only creates more fear of ruining it.
+
+Everybody understanding of shinji and rei: the other side of shinjis near third impact. He created both despair, mass extinction and villages with understanding like that ("All the troubles that followed brought them (Suzuhara and Hikari) closer together. Some good came out of that close call.")
+
+"Shinji you've fought a lifetime's worth already"
+
+Rei learning to become a separate self "you should do what you want to do" "choose a name"
+
+Asuka force feeds Shinji "You should be grateful" "I bet you're thinking about how everything you do turns for the worse and its all too late" "You don't want to do anything because you know it's all your fault" "Maybe it was on your fathers orders but you shouldn't have piloted an eva."
+
+Rei is offered the kids book Ochibi and the Procupine
+
+Asuka "always alone, always have been, thats how it is"
+
+Asuka to Rei "you Ayanami series have been adjusted to hold affection towards the Third Boy (Shinji)" "I see... It doesn't matter. I'm OK with how I feel"
+
+Asuka "This isn't a place to live in, it's a place I protect"
+
+Kensuke thinking of what he should've done with his father before death and says to Shinji "Even if you think it's a waste of time, you should have a good talk with him" "Father and son, the ties will always be there"
+
+Asuka to Mari about Shinji "That child does not need a lover, he needs a mother"
+
+Asuka to Shinji "Did you figure out why I wanted to punch you?" "It's because I couldn't make up my mind. When you were inside Unit 3, I didn't help you and I didn't kill you"
+
+Asuka to Shinji "That boxed lunch you made me, it was tasty. I think I had a crush on you then, but I've grown into an adult ahead of you"
+
+Second impact purifies the oceans, 3rd the land, 4th the souls
+
+Kill angels or be killed, mutually exclusive
+
+Misato to Shinji "You would fight your father" "I want to, I want to settle it for myself" and accepts the DSS choker himself now
+
+Misato "The only thing a son can do for his father is pat him on his shoulder... or kill him"
+
+Spear of despair and spear of hope, longinus and cassius.
+
+Gendo and Shinji fight for a while, shinji asks "whats going on? our moves are the same"
+
+Gendo "Violence and fear are not the criteria upon which our conflict can be resolved"
+
+Eva Imaginary, mind shapes the reality.
+
+Shinji finally reaches out to his father, on his terms. Gendo explains to Shinji why he wants intrumentality. "Restful world, no barriers, where I can be with Yui again"
+
+Shinji "I'm here because I want to learn about you. I stayed away from you even when I was lonely. I did that because I was afraid I'd finally find out if you disliked me or not. I want to know now, I want to know you, father."
+
+Gendo "I am afraid of Shinji?"
+
+SDAT as symbol for generationl Ikari baggage. Shinji returning it to Gendo. "You were just like me" "Headphones cut me off too, protected me from the noise of others, helped me to feign indifference. And when I met Yui I no longer needed them"
+
+Gendo "People say different things at different times. What am I supposed to accept?" "I feared forming bonds with other people" "there were two things I liked as child: one was knowledge" "I could satiate the hunger of my heart by" "The other thing I liked was the piano. A finely tuned wire would respond accurately to the key that was touched." "There was no deception, betrayal, no disappointments there" "You showed that living could be enjoyable too, she was the only one to accept me as I was"
+
+gendo "I am weak. Is that why I am forbidden to see you Yui?" shinji "I think you cannot see her because you're not willing to accept your weaknesses"
+
+"thank you misato" "youve learned to heed the aspirations of others and accept their deaths. You've grown to be an adult"
+
+"Fulfilling a wish entails sacrifice" "I thought a child was a punishment upon myself" "Not meeting my child, not being there for him, I thought that would be redemption. I thought that would be best for my son."
+
+Part of growing up is learning to view your parents as people, no different from anyone else. By understanding your parents, you can better understand yourself. Gendo does what gendo should’ve done: hugged his son and apologized.
+
+Kaworu "So, what do you wish for?" Shinji "I'm fine. I think I can handle pain and heartbreak." *optimistic piano chord played by kaworu* "I have got to settle the score for what my father did"
+
+on the EoE beach "I liked you too, goodbye Asuka"
+
+Kaji to Kaworu "You didn't want to bring about Shinji's happiness. You wanted his happiness to make you happy."
+
+Shinji "I will rewrite the world so that it doesn't have Evas. A world where new people can live." Rei "Birth of a new world. Neon genesis."
+
+"Father wanted to see mother go. That's the god slaying he wished for"
+
+Shinji and Mari together, at the train station
