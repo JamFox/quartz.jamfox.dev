@@ -485,6 +485,16 @@ Asuka finally rejects shinji: finally understood how empty shinji was, or how em
 
 ### Rebuild of Evangelion
 
+Rebuilds seem like Eva, but for the younger generation
+
+Brought up to modern standards with more budget
+
+Simplified, less esoteric, lessons of the show are more explicit
+
+More emphasis on Shinji taking responsibility by making him an irrefutable cause for Near 3rd Impact and a bit less about loving oneself
+
+More meta about previous criticism "just get in the robot" memes etc
+
 #### Evangelion: 1.0 You Are (Not) Alone
 
 "Mulle meeldib see uus still, nii puhas"
