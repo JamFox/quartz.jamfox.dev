@@ -4,8 +4,11 @@ draft: false
 date: 2024-07-03
 ---
 
+From: [Why You Feel Lost in Your 20s](https://www.youtube.com/watch?v=2TqeZ8CJ6tw)
+
 Quarter-life crisis
 
+```
 1. Locked in / Caged
   - you find yourself trapped in a life you don't want)
   - an outward identity that conforms to adapt to the outside world, compulsive activities
@@ -30,5 +33,6 @@ Quarter-life crisis
 
 4. Rebuilding
   - craft your external life to fit who you are on the inside
+```
 
 Takeaway: If your life is not what you want, you need to let go, take a timeout, and change it
