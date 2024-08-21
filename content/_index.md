@@ -26,6 +26,8 @@ Is the graph view overwhelming? Here are some very generally categorized directo
 
 💼 [[Leadership, Work, IT]]
 
+🐕‍🦺 [[Caregiving, Nurturing]]
+
 ✍ [[Reflection]]
 
 🎲 [[RPGs]]
