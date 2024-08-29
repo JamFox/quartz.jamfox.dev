@@ -12,7 +12,7 @@ doesn't care about canonicity, and it barely cares about narrative
 
 more interested in characters, and their relationships to each other and the world they inhabit
 
-fundamental lack that humans have, from which all fear comes from and how we deal with it, or more importantly how we avoid dealing with it. It proposes that man has self-awareness, which by definition means that it perceives itself as separate from others, which creates the motivation to return to a sort of unity, to remove oneself from this separatedness. Besides the psychological examples through its characters Evangelion also provides a semi-physical way of identifying this separatedness with the AT (Absolute Terror) field. An AT field separates and protects the ego and sense of self of a person from everyone else, allowing them to exist as an individual. [[The Art of Loving]]
+fundamental lack that humans have, from which all fear comes from and how we deal with it, or more importantly how we avoid dealing with it. It proposes that man has self-awareness, which by definition means that it perceives itself as separate from others, which creates the motivation to return to a sort of unity, to remove oneself from this separatedness. Besides the psychological examples through its characters Evangelion also provides a semi-physical way of identifying this separatedness with the AT (Absolute Terror) field. An AT field separates and protects the ego and sense of self of a person from everyone else, allowing them to exist as an individual. [[The Art of Loving - what is love]]
 
 MC yelling in the first episode that he DOESNT want to be the pilot to save humanity.
 
