@@ -36,3 +36,5 @@ Quarter-life crisis
 ```
 
 Takeaway: If your life is not what you want, you need to let go, take a timeout, and change it
+
+[[Discipline, Willpower, Motivation]]

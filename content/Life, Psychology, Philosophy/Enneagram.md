@@ -4,7 +4,7 @@ draft: false
 date: 2024-08-18
 ---
 
-Usefulness of type systems (astrology, Myers-Briggs, Dosha, whichever you stuble upon) lies in their roots and when used to explore the types of problems respective principles/values people (especially you yourself) have.
+Usefulness of type systems (astrology, Myers-Briggs, Dosha [[How the World Thinks]] and [[Dr K's Guide - Meditation]], whichever you stuble upon) lies in their roots and when used to explore the types of problems respective principles/values people (especially you yourself) have.
 
 MBTI, the most popular one, focuses more on social aspects of how different people approach, navigate and react in social situations. The enneagram tries to take a more holistic approach by trying to unearth the root problem / main motivator from the childhood of a person.
 

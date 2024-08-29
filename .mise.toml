@@ -1,5 +1,5 @@
 [tools]
-node = "18.14"
+node = "20"
 
 [tasks.default]
 description = 'Install deps and serve'
