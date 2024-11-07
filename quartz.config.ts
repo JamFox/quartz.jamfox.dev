@@ -11,10 +11,15 @@ const config: QuartzConfig = {
     pageTitle: "🧠 JamBrain",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { 
+      provider: 'umami',
+      host: 'cloud.umami.is',
+      websiteId: '4003e202-15de-4e22-a5ab-d9d06fff84f0'
+    },
     baseUrl: "brain.jamfox.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    locale: "en-US",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
