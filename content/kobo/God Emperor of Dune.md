@@ -42,7 +42,7 @@ date: YYYY-MM-DD
 
 > Idaho leaned toward him. “Then tell me, Atreides, how are women better soldiers than men?” “They find it easier to mature.” Idaho shook his head in bewilderment. “They have a compelling physical way of moving from adolescence into maturity,” Moneo said. “As Lord Leto says, ‘Carry a baby in you for nine months and that changes you.’ ”
 
-> “No matter how much we ask after the truth, self-awareness is often unpleasant. We do not feel kindly toward the Truthsayer.”
+> : “No matter how much we ask after the truth, self-awareness is often unpleasant. We do not feel kindly toward the Truthsayer.”
 
 > “Yes. He says that the all-male army was too dangerous to its civilian support base.” “That’s crazy! Without the army, there would’ve been no . . .” “I know the argument. But he says that the male army was a survival of the screening function delegated to the nonbreeding males in the prehistoric pack. He says it was a curiously consistent fact that it was always the older males who sent the younger males into battle.” “What does that mean, screening function?” “The ones who were always out on the dangerous perimeter protecting the core of breeding males, females and the young. The ones who first encountered the predator.” “How is that dangerous to the . . . civilians?” Idaho took a bite of the melon, found it ripened perfectly. “The Lord Leto says that when it was denied an external enemy, the all-male army always turned against its own population. Always.” “Contending for the females?” “Perhaps. He obviously does not believe, however, that it was that simple.”
 
@@ -110,11 +110,11 @@ date: YYYY-MM-DD
 
 > They know that they must supervise the maturation of males. Through this they find their own maturation. Eventually, houris merge into wives and mothers and we wean the violent drives away from their adolescent fixations.
 
-> “Loyalty in a male army fastens onto the army itself rather than onto the civilization which fosters the army. Loyalty in a female army fastens onto the leader.”
+> : “Loyalty in a male army fastens onto the army itself rather than onto the civilization which fosters the army. Loyalty in a female army fastens onto the leader.”
 
 > “My houris tame the males,” Leto said. “It is domestication, a thing that females know from eons of necessity.” Idaho stared wordlessly at Leto’s cowled face. “To tame,” Leto said. “To fit into some orderly survival pattern. Women learned it at the hands of men; now men learn it at the hands of women.” “But you said . . .” “My houris often submit to a form of rape at first only to convert this into a deep and binding mutual dependence.” “Dammit! You’re . . .” “Binding, Duncan! Binding.” “I don’t feel bound to . . .” “Education takes time. You are the ancient norm against which the new can be measured.”
 
-> The layered society is an ultimate invitation to violence. It does not fall apart. It explodes.”
+> . The layered society is an ultimate invitation to violence. It does not fall apart. It explodes.”
 
 > You know how violence seeks me out. That is one of my functions. It is unfortunate that those I admire and love must suffer because of this.
 
@@ -276,8 +276,12 @@ date: YYYY-MM-DD
 
 > Idaho relaxed slightly. As an old Atreides hand, superbly trained by them, he had found it easy to determine several things from this encounter. These two had been heavily conditioned to a fanatic obedience. If a cibus mask could hide the identity of that woman, there had to be many more whose bodies were very similar. All of this spoke of dangers around Leto which still required the old and subtle services of spies and an imaginative arsenal of weapons.
 
+## The following is from the Hadi Benotto translation of the volumes discovered at Dar-es-Balat:
+
 > But Siona is . . . Siona. That is why I made no move to stop the wolves. It would have been wrong to do that. The D-wolves are but an extension of my purpose and my purpose is to be the greatest predator ever known.
 
 > The Golden Path demands it. And what is the Golden Path? you ask. It is the survival of humankind, nothing more nor less. We who have prescience, we who know the pitfalls in our human futures, this has always been our responsibility. Survival. How you feel about this—your petty woes and joys, even your agonies and raptures—seldom concerns us.
+
+## Excerpt from the Hadi Benotto secret summation on the discoveries at Dar-es-Balat:
 
 > As the poet, Lon Bramlis, has said: “We are the fountain of surprises!”

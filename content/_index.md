@@ -31,3 +31,5 @@ Is the graph view overwhelming? Here are some very generally categorized directo
 ✍ [[Reflection]]
 
 🎲 [[RPGs]]
+
+🔨 [[Skills]]
